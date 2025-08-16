@@ -2,7 +2,7 @@
 ![](sections/05.01.00_Background.md)
 ![](sections/05.02.01.00_Figuring_out_Inflexibility.md)
 ![](sections/05.02.02.01_De-re-clouding.md)
-![](./sections/05.02.02.02_Coalition%20working%20groups%20and%20knowledge%20exchange.md)
+![](sections/05.02.02.02_Working%20groups%20and%20knowledge%20exchange.md)
 ![](./sections/05.02.02.03_In-ternal_politics.md)
 ![](sections/05.02.02.00_Figuring_out_In-flex-ability.md)
 ![](./sections/05.02.03_processing.md)
