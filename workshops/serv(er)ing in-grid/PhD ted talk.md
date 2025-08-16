@@ -45,7 +45,7 @@ I was finding it hard to sum up my journey. so I decided to draw it up as a line
 
 # Material Explorations of AI
 
-![[matterial.svg]]
+![[media/matterial.svg]]
 
 I did, some collborativley, a number of material explorations with AI that i will v quickly show:
 
@@ -60,23 +60,23 @@ I did, some collborativley, a number of material explorations with AI that i wil
 ### Re-Reader
 ---
 
-![[hall.png]]
+![[media/hall.png]]
 ### Gotta Stack em-Hall
 ---
 
-![[Mysti.mp4]]
+![[media/Mysti.mp4]]
 ## Neural Mysticism
 ---
 
 # The spiral of how we can work with AI ethically.
 
-![[spiral.svg]]
+![[media/spiral.svg]]
 The critical reflection made me spiral when working out how to work out the violences of these technologies.
 
 ---
 
 # The Easiest way to explain it is the cake of AI
-![[cake.svg]]
+![[media/cake.svg]]
 This is a metaphor by LeCun, Chief of AI research at Meta, formally facebook, where he speaks about the desires and beliefs of how to manifest AGI. I analyse his diagram\*imaginary with Wendy Chun and Timnit Gebru research into the eugenic routs of AI. 
 
 ---
@@ -87,22 +87,22 @@ This is a metaphor by LeCun, Chief of AI research at Meta, formally facebook, wh
 ---
 
 ## Sponge = Unsupervised Learning = Subconscious = Segregation algos
-![[sponge.svg]]
+![[media/sponge.svg]]
 
 ---
 ## Cream = Supervised Learning = Conscious = positive eugenics  
 
-![[cream.svg]]
+![[media/cream.svg]]
 
 ---
 ## Cherry = Reinforcement learning = Realworld learning = Penal Logics
-![[cherry.svg]]
+![[media/cherry.svg]]
 
 ---
 
 # Do we like this recipe?
 
-![[cake.svg]]
+![[media/cake.svg]]
 With the ingredients of the cake being a bit gross, do we want to take a bite?
 
 ---
@@ -110,7 +110,7 @@ With the ingredients of the cake being a bit gross, do we want to take a bite?
 
 When learning AI from Rebecca # Fiebrink's Wekinator course one of the key relations you understand AI enables is that it make the non-linear and un-logicable into linear lines that you can apply algo logics to easily. e.g. turning images of numbers (non-linear) into single float statistical probabilities (linear)
 
-![[norm_cake.svg]]
+![[media/norm_cake.svg]]
 But when we look through queer + crip theory, do we want everything to be a __straight__ line?
 
 Especially through these eugenics logics?
@@ -118,7 +118,7 @@ Especially through these eugenics logics?
 ---
 # Situating In crip theory
 
-![[crip.svg]]
+![[media/crip.svg]]
 This is when I started to get way more into crip theory, also known as critical access and disability justice.
 
 ---
@@ -138,7 +138,7 @@ It also enables us to understand what working together through interdependence, 
 ---
 ## Political\*Relational model
 
-![[social.png]]
+![[media/social.png]]
 
 This builds from the social model of disability where we recognise that many of the disabling factors of someones life are socially constructed.
 
@@ -155,7 +155,7 @@ It is this refusal of a cure narrative that is a key generative friction in this
 
 Part of this refusal of curing politics is to refuse futures that imagine disabled people not existing, often again through eugenics or cyborgism, and where disability often signals the utopia/distopia divide.
 
-![[women-edge.png]]
+![[media/women-edge.png]]
 
 Instead what do we do now for a  future where there is an abundance of crips? Where we don't offset things for the ever imminent cure, and instead make tangible changes right now!
 
@@ -171,7 +171,7 @@ Instead what do we do now for a  future where there is an abundance of crips? Wh
 
 ---
 # Crip\*Queer line
-![[crip line.svg]]
+![[media/crip line.svg]]
 As Sara Ahmed would put it being open to disorientation and taking your own queer line.
 
 ---
@@ -184,7 +184,7 @@ A crip infra made by\*for crips!
 Inspired by Servpub setup, and made in a shit show of a residency (very abelist). I am just adjusting what it does a bit at the moment. But it also hosts a new infra poem work [en-crip-ing time](https://time.cozy-cloud.net/) I did with Mariana Marangoni.
 
 ---
-![[less cloud - more cozy.png]]
+![[media/less cloud - more cozy.png]]
 
 ---
 ## As well as Today

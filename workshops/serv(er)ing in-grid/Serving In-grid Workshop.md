@@ -153,7 +153,7 @@ So most people are probably used to working through a **graphical user interface
 ---
 ### Terminal
 
-![howdy.png](howdyTerminal.png)
+![howdy.png](media/howdyTerminal.png)
 
 Terminal is a more classic way of working with a machine, and roughly speaking is the step between punch-card/magnetic tape style computing and a GUI. It is a very simple but powerful interface that lets you run basically any command on your system through a text interface. Compared to a GUI this space is more "risky" as you can do anything from anywhere, such as deleting the entire operating system (not advised). It also means that there are no limitations to your system administration so you have access to a granular level of working. 
 

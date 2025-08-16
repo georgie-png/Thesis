@@ -5,10 +5,10 @@ The workshop ran for 3 hours and examined how we wanted to iterate our own [femi
 
 ![[Femfester screenshot.png]]
 
-![[signal-2024-11-15-154111.jpeg]]
+![[imgs of day/signal-2024-11-15-154111.jpeg]]
 
-![[IMG_3248.jpg]]
+![[imgs of day/IMG_3248.jpg]]
 
-![[signal-2024-11-09-182903_002.jpeg]]
+![[imgs of day/signal-2024-11-09-182903_002.jpeg]]
 
-![[signal-2024-11-09-183909.jpeg]]
+![[imgs of day/signal-2024-11-09-183909.jpeg]]

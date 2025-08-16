@@ -2,7 +2,7 @@
 people:
   - "[[../../../Research💭/Reading 📖/Helen Pritchard/Helen Pritchard]]"
 date: 2024 11 18
-project: "[[Thesis 📖]]"
+project: "[[../Thesis 📖]]"
 ---
 
 <iframe name="embed_readwrite" src="https://pad.vvvvvvaria.org/Tabeling Crip Theory?showControls=true&showChat=flse&showLineNumbers=true&useMonospaceFont=false" width="100%" height="600" frameborder="0"></iframe>
