@@ -1,0 +1,13 @@
+input-files:
+- ./01.00_Intro.md
+- ./01_Table_of_Contents_table-of-contents_.TOC-Heading.md
+- ./01.01_Orienting_the_table.md
+- ./01.01.01_Sedimentation.md
+- ./01.01.02_Queering_the_axis.md
+- ./01.01.03_Transdisciplinary_practice.md
+- ./01.02_The_Crip_Table.md
+- ./01.02.01_PoliticalRelational_Model.md
+- ./01.02.02_Crip_Time__Crip_Futures_-_might_restructure__add_more_refs_on_crip_time.md
+- ./01.02.03_Crip_intersectionality__Coalition.md
+- ./01.02.04_Cripping_Technology.md
+- ./01.03_Conclusion.md

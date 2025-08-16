@@ -1,0 +1,23 @@
+input-files:
+- ./05_In-configure-ability.md
+- ./05.01_background.md
+- ./05.02_Configuring_In-Docs.md
+- ./05.02.01_Inflex.md
+- ./05.02.02_in-flex-ability.md
+- ./05.02.02.01_In-Docs.md
+- ./05.02.02.02_In-Practice.md
+- ./05.02.03_Workshoping_In-protocols.md
+- ./05.02.03.01_Coding_protocols.md
+- ./05.02.03.02_SSH_protocols.md
+- ./05.02.03.03_Sudo_protocols.md
+- ./05.02.03.04_User_Protocols.md
+- ./05.02.03.05_Digital_safe_space_protocols.md
+- ./05.02.03.06_Collective_working_protocols..md
+- ./05.02.03.07_Manifesting_Femfester.md
+- ./05.02.04_In-reflection.md
+- ./05.03_In-frastructural_Processing.md
+- ./05.03.01_Defining_Inflex.md
+- ./05.03.02_Figuring_out_In-flex.md
+- ./05.03.02.01_Dere-clouding.md
+- ./05.03.02.02_Coalition_working_groups_and_knowledge_exchange.md
+- ./05.03.02.03_In-ternal_politics.md

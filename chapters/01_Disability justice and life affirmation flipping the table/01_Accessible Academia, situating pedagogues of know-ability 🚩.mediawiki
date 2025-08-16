@@ -1,0 +1,53 @@
+= Index =
+
+<pre class="folder-index-content"></pre>
+= ToDO =
+
+* ☐ finish of first draft
+** ☐ do cyborg crip table bit
+** ☐ do refraction’s of institutions again
+** ☐ do imaginaries of crip futures (conclusion)
+* ☐ Draft again with feedback.
+
+= 1-2 Sentence intro : =
+
+This chapter situates this thesis within the lived experiences and relations of the author as a crip and queer person within academia. In doing this it means to setup a critical framework of queer and crip theory for the rest of the thesis to work through. It develops this through Ahmed’s [[Queer Phenomenology- Orientations, Objects, Others]], and then weaves this into Kafers [[Feminist, Queer, Crip]]. Working with both to query relations the author is held between and where the research is oriented from.
+
+== Quick Blurb: ==
+
+This Chapter means to introduce and situate this thesis within my experiences and relations of being crip and queer within hegemonic institutions. In situating this work within these dialogues the chapter aims to critique the foundation of this research and it’s own fragility, working from*in*for places that do not validate or affirm anyone’s lives, especially disabled and queer folk. In this section I will recall experiences and explore theoreticaly what these different strata of privileged, efficiency and accessibility within academia mean in reality for disabled, queer and marginalised people. It doesn’t mean to provide any answers or solutions at this point just situate the research and contextualise what it means to work in academia from this position.
+
+= Notes: =
+
+This first section means to situate the project within my position and experience of academia as a disabled person. way to #### Personnel experience of problems with academia as crip neuro div researcher
+
+Problems with preformative roles of intelligence gate-keeping “knowledge making” (a.k.a. writing/reading/speaking large amounts and in set ways, instead of enabling diverse formats (video/interaction) and styles to be developed into equal dialogues).
+
+Academic conferences, costs, food, travel, stress, Bodily and accessible gateways. performativity
+
+Crip time and deadlines, segmentation of continual process
+
+Encrypted knowledge systems, finding papers for ethics, on boarding into departments, getting finances.
+
+deadlines, segmentations of continual process
+
+encrypted knowledge systems, finding papers,
+
+==== From teaching perspective : ====
+
+Students being called mad, needy, sensitive, little fuckers, instead of their needs being recognised and their knowing being made able.
+
+care, sensitivity and venerability being enablers.
+
+Taught to present empathy through head tilt not care.
+
+subjective way finding, clear communication and relationships being key. - '''cs de-colonial- pedagogies paper good ref here '''
+
+Crip time and care, not a phase but an journey.
+
+= Potential Reading =
+
+<pre class="dataview">table Author, Type, Priority, Keywords, filter(file.tags, (t) =&gt; t !=&quot;#status/reading&quot;) as Reading_Tags
+from #status/reading or #status/unread or #status/read 
+WHERE any(contains(file.tags, this.file.tags))
+sort Priority desc </pre>

@@ -1,0 +1,38 @@
+{
+	"nodes":[
+		{"id":"0273f6d8f097e04a","type":"group","x":-460,"y":480,"width":3260,"height":3760,"color":"#721d6b","label":"Chapter overviews"},
+		{"id":"46c5b57880ac17c4","type":"file","file":"Thesis 📖/chapters/00_Introduction/sections/00.02.00_Chapters.md","x":1452,"y":640,"width":428,"height":280,"color":"#721d6b"},
+		{"id":"d6ae7c6148f11b2c","type":"file","file":"Thesis 📖/chapters/01_Disability justice and life affirmation flipping the table/01_Disability_justice_and_life_affirmation_flipping_the_table.canvas","x":-360,"y":840,"width":640,"height":716,"color":"#721d6b"},
+		{"id":"3b87be7e21c0394e","type":"file","file":"Thesis 📖/chapters/00_Introduction/sections/00.02.01_Disability_justice_and_life_affirmation_flipping_the_table.md","x":400,"y":840,"width":680,"height":716,"color":"#721d6b"},
+		{"id":"e9a56e9f932f1210","type":"file","file":"Thesis 📖/chapters/05_In-Configure-Ability/05_In-Configure-Ability_canvas.canvas","x":-404,"y":3518,"width":707,"height":642,"color":"#721d6b"},
+		{"id":"8233207b51d734d5","type":"file","file":"Thesis 📖/chapters/00_Introduction/sections/00.02.05_In-configure-ability.md","x":446,"y":3518,"width":691,"height":642,"color":"#721d6b"},
+		{"id":"e885c7d77d48e311","type":"file","file":"Thesis 📖/chapters/00_Introduction/sections/00.01.00_Background.md","x":-340,"y":-520,"width":600,"height":400,"color":"4"},
+		{"id":"8ddd15a64d70882e","type":"file","file":"Thesis 📖/chapters/00_Introduction/sections/00.00_Intro.md","x":1666,"y":-960,"width":760,"height":510,"color":"6"},
+		{"id":"6f316d693cc9db0d","type":"file","file":"Thesis 📖/chapters/00_Introduction/sections/00.03.00_Conclusion.md","x":902,"y":4800,"width":469,"height":436,"color":"6"},
+		{"id":"625b73df2a070408","type":"file","file":"Thesis 📖/chapters/00_Introduction/sections/00.02.06_A_Cozier_Configure-Ability.md","x":1200,"y":3518,"width":691,"height":642,"color":"#721d6b"},
+		{"id":"566c41ced95f6514","type":"file","file":"Thesis 📖/chapters/06_A Cozier Configure-Ability/A Cozier Configure-ability.canvas","x":2050,"y":3518,"width":648,"height":642,"color":"#721d6b"},
+		{"id":"8c0209b0b296ea19","type":"file","file":"Thesis 📖/chapters/02_Crip-Tic of vignettes/02_Crip-Tic_of_vignettes_canvas.canvas","x":1943,"y":1556,"width":657,"height":684,"color":"#721d6b"},
+		{"id":"ab09679699db9ce8","type":"file","file":"Thesis 📖/chapters/03_Disobedient Action Research Cycles/03_Disobedient_Action_Research_Cycles_Canvas.canvas","x":-400,"y":2004,"width":701,"height":636,"color":"#721d6b"},
+		{"id":"f0ad70cc95ed528b","type":"file","file":"Thesis 📖/chapters/00_Introduction/sections/00.02.03_Disobedient_Action_Research_Cycles.md","x":396,"y":2004,"width":684,"height":636,"color":"#721d6b"},
+		{"id":"f57512cf2a7a2722","type":"file","file":"Thesis 📖/chapters/00_Introduction/sections/00.02.04_Configure-able_methods.md","x":1129,"y":2680,"width":688,"height":640,"color":"#721d6b"},
+		{"id":"cdf05ee156822c2b","type":"file","file":"Thesis 📖/chapters/04_Configure-able methods/04_Configure-able methods canvas.canvas","x":1919,"y":2680,"width":705,"height":640,"color":"#721d6b"},
+		{"id":"efa6b4720a2e8201","type":"file","file":"Thesis 📖/chapters/00_Introduction/sections/00.02.02_Crip-Tic_of_Vignettes.md","x":1200,"y":1520,"width":657,"height":684,"color":"#721d6b"}
+	],
+	"edges":[
+		{"id":"cc8286f0f87c180c","fromNode":"e885c7d77d48e311","fromSide":"bottom","toNode":"0273f6d8f097e04a","toSide":"top","color":"#000000"},
+		{"id":"45ab2db19bad164f","fromNode":"46c5b57880ac17c4","fromSide":"left","toNode":"3b87be7e21c0394e","toSide":"top"},
+		{"id":"a381d6ac0a66e918","fromNode":"3b87be7e21c0394e","fromSide":"right","toNode":"efa6b4720a2e8201","toSide":"top"},
+		{"id":"e0ea3327dca8a8fa","fromNode":"f0ad70cc95ed528b","fromSide":"right","toNode":"f57512cf2a7a2722","toSide":"top"},
+		{"id":"00e5fe71086f46b2","fromNode":"f57512cf2a7a2722","fromSide":"bottom","toNode":"8233207b51d734d5","toSide":"top"},
+		{"id":"27853d400e98e49f","fromNode":"3b87be7e21c0394e","fromSide":"left","toNode":"d6ae7c6148f11b2c","toSide":"right"},
+		{"id":"c463c781b281bdf1","fromNode":"efa6b4720a2e8201","fromSide":"right","toNode":"8c0209b0b296ea19","toSide":"left"},
+		{"id":"0c68da02b0aeffc7","fromNode":"f0ad70cc95ed528b","fromSide":"left","toNode":"ab09679699db9ce8","toSide":"right"},
+		{"id":"85839b654019452a","fromNode":"efa6b4720a2e8201","fromSide":"left","toNode":"f0ad70cc95ed528b","toSide":"top"},
+		{"id":"c734f7fe01ec7ff7","fromNode":"f57512cf2a7a2722","fromSide":"bottom","toNode":"625b73df2a070408","toSide":"top"},
+		{"id":"6673af9e47459fef","fromNode":"0273f6d8f097e04a","fromSide":"bottom","toNode":"6f316d693cc9db0d","toSide":"top","color":"#000000"},
+		{"id":"c177ed23f253eb6d","fromNode":"f57512cf2a7a2722","fromSide":"right","toNode":"cdf05ee156822c2b","toSide":"left"},
+		{"id":"c8450f97fc25681d","fromNode":"625b73df2a070408","fromSide":"right","toNode":"566c41ced95f6514","toSide":"left"},
+		{"id":"ed94db0baaa1ff6b","fromNode":"8233207b51d734d5","fromSide":"left","toNode":"e9a56e9f932f1210","toSide":"right"},
+		{"id":"e535d997fc861675","fromNode":"8ddd15a64d70882e","fromSide":"bottom","toNode":"e885c7d77d48e311","toSide":"right","color":"#000000"}
+	]
+}

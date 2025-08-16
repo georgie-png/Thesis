@@ -1,0 +1,39 @@
+{
+	"nodes":[
+		{"id":"ece5892ad89aa341","x":-1120,"y":400,"width":1720,"height":2200,"color":"6","type":"group","label":"En-crip-ing Time"},
+		{"id":"442b5368813eb1f2","type":"group","x":240,"y":-480,"width":1360,"height":680,"color":"6","label":"Cozy Intentions"},
+		{"id":"408258383689268c","x":1040,"y":1320,"width":720,"height":600,"color":"6","type":"file","file":"Thesis 📖/chapters/06_A Cozier Configure-Ability/06.04_Futures_x_Desires_x_Reflections.md"},
+		{"id":"2c4fb9102519e5de","x":1040,"y":-280,"width":400,"height":400,"color":"#2c43b5","type":"file","file":"Thesis 📖/chapters/06_A Cozier Configure-Ability/06.02.01_Configuring_out_Intentions.md"},
+		{"id":"cf5f11f4a6d0edc5","x":320,"y":-360,"width":520,"height":400,"color":"#2c43b5","type":"file","file":"Thesis 📖/chapters/06_A Cozier Configure-Ability/06.02_Manifesting_intentions.md"},
+		{"id":"5e21dd330c78f6fe","x":-949,"y":1320,"width":400,"height":400,"color":"5","type":"file","file":"Thesis 📖/chapters/06_A Cozier Configure-Ability/06.03.02_En-Crip-ing_HeadBody.md"},
+		{"id":"14732a0ef25eb80c","x":-173,"y":920,"width":400,"height":400,"color":"5","type":"file","file":"Thesis 📖/chapters/06_A Cozier Configure-Ability/06.03.01_en-crip-ing_time.md"},
+		{"id":"98d1765c6e4096db","x":80,"y":1600,"width":400,"height":400,"color":"5","type":"file","file":"Thesis 📖/chapters/06_A Cozier Configure-Ability/06.03.03_En-crip-ing_kinship.md"},
+		{"id":"26aa23f02f656182","x":-573,"y":2040,"width":400,"height":442,"color":"5","type":"file","file":"Thesis 📖/chapters/06_A Cozier Configure-Ability/06.03.04_En-crip-ing_academic_texts_-_plane_-ish_text_inverted.md"},
+		{"id":"1be58f7ced652723","x":-749,"y":491,"width":400,"height":400,"color":"5","type":"file","file":"Thesis 📖/chapters/06_A Cozier Configure-Ability/06.03_En-crip-ing_cozy_time.md"},
+		{"id":"b26bcfeaec04dac9","x":-880,"y":-581,"width":780,"height":621,"color":"5","type":"file","file":"Thesis 📖/chapters/06_A Cozier Configure-Ability/06.01_Background.md"},
+		{"id":"e922851079262152","type":"file","file":"Thesis 📖/chapters/06_A Cozier Configure-Ability/06_A Cozier Configure-Ability.md","x":-180,"y":-1360,"width":760,"height":560,"color":"6"}
+	],
+	"edges":[
+		{"id":"2268e2318d69050e","fromNode":"e922851079262152","fromSide":"bottom","toNode":"b26bcfeaec04dac9","toSide":"top","color":"#000000"},
+		{"id":"c8b3a39cd9f5eb4d","fromNode":"cf5f11f4a6d0edc5","fromSide":"right","toNode":"2c4fb9102519e5de","toSide":"left"},
+		{"id":"2a067f0bf875f88b","fromNode":"1be58f7ced652723","fromSide":"right","toNode":"14732a0ef25eb80c","toSide":"top"},
+		{"id":"cbccdce911d0e071","fromNode":"14732a0ef25eb80c","fromSide":"left","toNode":"5e21dd330c78f6fe","toSide":"top"},
+		{"id":"7d1017cdcb8cb031","fromNode":"1be58f7ced652723","fromSide":"bottom","toNode":"5e21dd330c78f6fe","toSide":"top"},
+		{"id":"6a442a67dc25ed26","fromNode":"5e21dd330c78f6fe","fromSide":"right","toNode":"14732a0ef25eb80c","toSide":"bottom"},
+		{"id":"ef479d73302677c1","fromNode":"5e21dd330c78f6fe","fromSide":"right","toNode":"98d1765c6e4096db","toSide":"left"},
+		{"id":"dde9c87f11ac5670","fromNode":"14732a0ef25eb80c","fromSide":"right","toNode":"98d1765c6e4096db","toSide":"top"},
+		{"id":"79023c5ae81fdbe8","fromNode":"1be58f7ced652723","fromSide":"bottom","toNode":"98d1765c6e4096db","toSide":"top"},
+		{"id":"354ce4b680cf80ce","fromNode":"5e21dd330c78f6fe","fromSide":"bottom","toNode":"26aa23f02f656182","toSide":"top"},
+		{"id":"74877eebd3affbd7","fromNode":"26aa23f02f656182","fromSide":"left","toNode":"5e21dd330c78f6fe","toSide":"left"},
+		{"id":"bbde1a08bdf41031","fromNode":"98d1765c6e4096db","fromSide":"bottom","toNode":"26aa23f02f656182","toSide":"top"},
+		{"id":"49dc78cf20258fdb","fromNode":"14732a0ef25eb80c","fromSide":"left","toNode":"26aa23f02f656182","toSide":"top"},
+		{"id":"ef935a0e342493c8","fromNode":"1be58f7ced652723","fromSide":"bottom","toNode":"26aa23f02f656182","toSide":"top"},
+		{"id":"b341878d812be533","fromNode":"26aa23f02f656182","fromSide":"right","toNode":"98d1765c6e4096db","toSide":"left"},
+		{"id":"d27637aba30f764d","fromNode":"26aa23f02f656182","fromSide":"right","toNode":"14732a0ef25eb80c","toSide":"bottom"},
+		{"id":"5a57e4dea8e811e6","fromNode":"b26bcfeaec04dac9","fromSide":"right","toNode":"442b5368813eb1f2","toSide":"left","color":"#000000"},
+		{"id":"efbd42487ae0457a","fromNode":"b26bcfeaec04dac9","fromSide":"bottom","toNode":"ece5892ad89aa341","toSide":"top","color":"#000000"},
+		{"id":"ca276150591d96bd","fromNode":"442b5368813eb1f2","fromSide":"bottom","toNode":"ece5892ad89aa341","toSide":"top","color":"#000000"},
+		{"id":"46a52285f1453dcf","fromNode":"442b5368813eb1f2","fromSide":"bottom","toNode":"408258383689268c","toSide":"top","color":"#000000"},
+		{"id":"1be4224c0245521b","fromNode":"ece5892ad89aa341","fromSide":"right","toNode":"408258383689268c","toSide":"left","color":"#000000"}
+	]
+}
