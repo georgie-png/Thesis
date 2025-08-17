@@ -1,10 +1,10 @@
 {
 	"nodes":[
 		{"id":"bb1f2e4bdc4a873f","type":"file","file":"Thesis 📖/chapters/old/03_The layer cake of AI 🍰/03_The layer cake of AI 🍰.md","x":760,"y":600,"width":400,"height":800,"color":"3"},
-		{"id":"fdc16439d9922063","type":"file","file":"Thesis 📖/chapters/04_Configure-able methods/04_Configure-Able Methods.md","x":760,"y":1520,"width":400,"height":740,"color":"1"},
+		{"id":"fdc16439d9922063","type":"file","file":"Thesis 📖/chapters/04_Configure-able_Methods/04_Configure-Able Methods.md","x":760,"y":1520,"width":400,"height":740,"color":"1"},
 		{"id":"dd30292b2ea9cc60","type":"file","file":"Thesis 📖/chapters/old/05_Coalition practices 🫂/05_Coalition practices 🫂.md","x":1320,"y":1520,"width":400,"height":720,"color":"6"},
-		{"id":"3056a15a2cb591f9","type":"file","file":"Thesis 📖/chapters/03_Disobedient Action Research Cycles/03_Disobedient Action Research Cycles.md","x":80,"y":600,"width":540,"height":860,"color":"2"},
-		{"id":"49426add202bcf8b","type":"file","file":"Thesis 📖/chapters/01_Disability justice and life affirmation flipping the table/01_Disability justice and life affirmation flipping the table.md","x":80,"y":-320,"width":420,"height":800,"color":"6"},
+		{"id":"3056a15a2cb591f9","type":"file","file":"Thesis 📖/chapters/03_Disobedient_Action_Research_Cycles/03_Disobedient_Action_Research_Cycles.md","x":80,"y":600,"width":540,"height":860,"color":"2"},
+		{"id":"49426add202bcf8b","type":"file","file":"Thesis 📖/chapters/01_Disability_justice_and_life_affirmation_flipping_the_table/01_Disability_justice_and_life_affirmation_flipping_the_table.md","x":80,"y":-320,"width":420,"height":800,"color":"6"},
 		{"id":"2ba6565768ce7467","type":"file","file":"Thesis 📖/chapters/00_Introduction/notes/00_Intro.md","x":-520,"y":-320,"width":400,"height":560,"color":"4"},
 		{"id":"d5a371ef24f8f5ec","type":"file","file":"Thesis 📖/chapters/07_Artworks/07_Artworks.md","x":-520,"y":1520,"width":400,"height":600,"color":"5"},
 		{"id":"a8e83a6c40bcdb2d","type":"text","text":"## Consolidated Re-saucing infra into this, talk about collectivley moving in-grid infra - how long it took etc.\n","x":1360,"y":1040,"width":400,"height":240,"color":"6"},

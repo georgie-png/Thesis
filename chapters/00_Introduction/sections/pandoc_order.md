@@ -1,4 +1,3 @@
-
 input-files:
 - ./00.00_Intro.md
 - ./00.01.00_Background.md

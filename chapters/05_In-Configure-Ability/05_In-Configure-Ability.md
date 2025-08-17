@@ -1,4 +1,6 @@
+# [05_In-Configure-Ability_Canvas](./05_In-Configure-Ability_canvas.canvas) 
 ![](./05_In-Configure-Ability_canvas.canvas) 
+# Entries
 ![](sections/05.01.00_Background.md)
 ![](sections/05.02.01.00_Figuring_out_Inflexibility.md)
 ![](sections/05.02.02.01_De-re-clouding.md)
