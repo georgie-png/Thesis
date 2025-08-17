@@ -1,10 +1,10 @@
 {
 	"nodes":[
-		{"id":"e42a5f85196e7c2d","type":"file","file":"Thesis 📖/chapters/06_A_Cozier_Configure-Ability/A Cozier Configure-ability.canvas","x":-276,"y":-151,"width":400,"height":400,"color":"6"},
-		{"id":"256a60f8a53feb53","type":"file","file":"Thesis 📖/chapters/05_In-Configure-Ability/05_In-Configure-Ability_canvas.canvas","x":-1320,"y":-151,"width":400,"height":400,"color":"6"},
-		{"id":"6a0ac25630c9af91","type":"file","file":"Thesis 📖/chapters/04_Configure-able_Methods/04_Configure-able methods canvas.canvas","x":-760,"y":-920,"width":400,"height":400,"color":"6"},
-		{"id":"1c7f31f01202835c","x":-760,"y":-1600,"width":400,"height":400,"color":"6","type":"file","file":"Thesis 📖/chapters/03_Disobedient_Action_Research_Cycles/03_Disobedient_Action_Research_Cycles_Canvas.canvas"},
-		{"id":"01d8b7e1aeff759b","x":-801,"y":724,"width":400,"height":400,"type":"file","file":"Thesis 📖/chapters/08_Conclusion/08_Conclusion.md"}
+		{"id":"e42a5f85196e7c2d","type":"file","file":"Thesis/chapters/06_A_Cozier_Configure-Ability/A Cozier Configure-ability.canvas","x":-276,"y":-151,"width":400,"height":400,"color":"6"},
+		{"id":"256a60f8a53feb53","type":"file","file":"Thesis/chapters/05_In-Configure-Ability/05_In-Configure-Ability_canvas.canvas","x":-1320,"y":-151,"width":400,"height":400,"color":"6"},
+		{"id":"6a0ac25630c9af91","type":"file","file":"Thesis/chapters/04_Configure-able_Methods/04_Configure-able methods canvas.canvas","x":-760,"y":-920,"width":400,"height":400,"color":"6"},
+		{"id":"1c7f31f01202835c","x":-760,"y":-1600,"width":400,"height":400,"color":"6","type":"file","file":"Thesis/chapters/03_Disobedient_Action_Research_Cycles/03_Disobedient_Action_Research_Cycles_Canvas.canvas"},
+		{"id":"01d8b7e1aeff759b","x":-801,"y":724,"width":400,"height":400,"type":"file","file":"Thesis/chapters/08_Conclusion/08_Conclusion.md"}
 	],
 	"edges":[
 		{"id":"83a0baf0ff54b839","fromNode":"256a60f8a53feb53","fromSide":"right","toNode":"e42a5f85196e7c2d","toSide":"top","color":"#000000"},

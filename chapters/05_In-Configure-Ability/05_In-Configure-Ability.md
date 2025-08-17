@@ -1,5 +1,5 @@
-# [05_In-Configure-Ability_Canvas](./05_In-Configure-Ability_canvas.canvas) 
-![](./05_In-Configure-Ability_canvas.canvas) 
+# [05_In-Configure-Ability_Canvas](05_In-Configure-Ability_canvas.canvas) 
+![](05_In-Configure-Ability_canvas.canvas) 
 # Entries
 ![](05_entries/05.01.00_Background.md)
 ![](05_entries/05.02.01.00_Figuring_out_Inflexibility.md)

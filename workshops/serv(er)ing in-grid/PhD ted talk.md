@@ -39,7 +39,7 @@ This mainly looks like disobeying isolating your work from yourself and engaging
 
 I was finding it hard to sum up my journey. so I decided to draw it up as a line that abstractly describes the different stages I went through and go from there.
 
-![[Thesis 📖/workshops/serv(er)ing in-grid/media/phd path.svg]]
+![[media/phd path.svg]]
 
 ---
 
@@ -51,12 +51,12 @@ I did, some collborativley, a number of material explorations with AI that i wil
 
 ---
 
-![[Thesis 📖/workshops/serv(er)ing in-grid/media/K-means vision.png]]
+![[media/K-means vision.png]]
 ### K-Means Vision
 
 ---
 
-![[Thesis 📖/workshops/serv(er)ing in-grid/media/highlighted by ave.png]]
+![[media/highlighted by ave.png]]
 ### Re-Reader
 ---
 
@@ -178,7 +178,7 @@ As Sara Ahmed would put it being open to disorientation and taking your own quee
 
 # Cozy-Cloud
 
-![[Thesis 📖/workshops/serv(er)ing in-grid/media/cozy-cloud.png]]
+![[media/cozy-cloud.png]]
 A crip infra made by\*for crips!
 
 Inspired by Servpub setup, and made in a shit show of a residency (very abelist). I am just adjusting what it does a bit at the moment. But it also hosts a new infra poem work [en-crip-ing time](https://time.cozy-cloud.net/) I did with Mariana Marangoni.

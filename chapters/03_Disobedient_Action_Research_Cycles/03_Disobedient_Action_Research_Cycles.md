@@ -1,4 +1,4 @@
-![](./03_Disobedient_Action_Research_Cycles_Canvas.canvas)
+![](03_Disobedient_Action_Research_Cycles_Canvas.canvas)
 
 ![](03_entries/03.00_Disobedient_Action_Research_Cycles.md)
 

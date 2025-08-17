@@ -1,4 +1,4 @@
-![](./A%20Cozier%20Configure-ability.canvas)
+![](A%20Cozier%20Configure-ability.canvas)
 ![](06_entries/06.00_Intro.md)
 ![](06_entries/06.01_Background.md)
 ![](06_entries/06.02.00_Manifesting_intentions.md)

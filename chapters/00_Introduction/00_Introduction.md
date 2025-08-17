@@ -1,4 +1,4 @@
-![](./00_Introduction_canvas.canvas)
+![](00_Introduction_canvas.canvas)
 ![](00_entries/00.00_Intro.md)
 ![](00_entries/00.01.00_Background.md)
 ![](00_entries/00.02.00_Chapters.md)

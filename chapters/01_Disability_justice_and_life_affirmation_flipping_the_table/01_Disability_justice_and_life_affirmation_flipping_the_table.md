@@ -1,4 +1,4 @@
-![](./01_Disability_justice_and_life_affirmation_flipping_the_table.canvas)
+![](01_Disability_justice_and_life_affirmation_flipping_the_table.canvas)
 
 ![](01_entries/01.00_Intro.md)
 
