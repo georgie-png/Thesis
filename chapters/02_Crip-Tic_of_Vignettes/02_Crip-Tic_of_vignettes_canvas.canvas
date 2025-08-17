@@ -1,11 +1,12 @@
 {
 	"nodes":[
-		{"id":"555c91fea64484e8","x":-18,"y":-360,"width":765,"height":655,"color":"6","type":"file","file":"Thesis 📖/chapters/02_Crip-Tic_of_Vignettes/02_Crip-Tic_of_Vignettes.md"},
-		{"id":"c509f8881338ec37","x":-880,"y":760,"width":740,"height":523,"color":"5","type":"file","file":"Thesis 📖/chapters/02_Crip-Tic_of_Vignettes/sections/02.01_The_research_table.md"},
-		{"id":"ac732105eb143dfd","x":880,"y":760,"width":740,"height":523,"color":"5","type":"file","file":"Thesis 📖/chapters/02_Crip-Tic_of_Vignettes/sections/02.02_The_computing_table.md"},
-		{"id":"318322e8c3ba0f41","x":44,"y":1283,"width":740,"height":523,"color":"#219fde","type":"file","file":"Thesis 📖/chapters/02_Crip-Tic_of_Vignettes/sections/02.03_The_operating_table.md"},
-		{"id":"06261b27f74333ec","x":44,"y":2080,"width":740,"height":600,"color":"#9662cb","type":"file","file":"Thesis 📖/chapters/02_Crip-Tic_of_Vignettes/sections/02.04_The_crip_table.md"},
-		{"id":"b72081f9d9fae6fb","x":44,"y":3040,"width":740,"height":607,"color":"#a54545","type":"file","file":"Thesis 📖/chapters/02_Crip-Tic_of_Vignettes/sections/02.05_Dancing_with_tables.md"}
+		{"id":"555c91fea64484e8","type":"file","file":"Thesis 📖/chapters/02_Crip-Tic_of_Vignettes/02_Crip-Tic_of_Vignettes.md","x":-18,"y":-360,"width":765,"height":655,"color":"6"},
+		{"id":"c509f8881338ec37","type":"file","file":"Thesis 📖/chapters/02_Crip-Tic_of_Vignettes/02_entries/02.01_The_research_table.md","x":-880,"y":760,"width":740,"height":523,"color":"5"},
+		{"id":"ac732105eb143dfd","type":"file","file":"Thesis 📖/chapters/02_Crip-Tic_of_Vignettes/02_entries/02.02_The_computing_table.md","x":880,"y":760,"width":740,"height":523,"color":"5"},
+		{"id":"318322e8c3ba0f41","type":"file","file":"Thesis 📖/chapters/02_Crip-Tic_of_Vignettes/02_entries/02.03_The_operating_table.md","x":44,"y":1283,"width":740,"height":523,"color":"#219fde"},
+		{"id":"06261b27f74333ec","type":"file","file":"Thesis 📖/chapters/02_Crip-Tic_of_Vignettes/02_entries/02.04_The_crip_table.md","x":44,"y":2080,"width":740,"height":600,"color":"#9662cb"},
+		{"id":"b72081f9d9fae6fb","type":"file","file":"Thesis 📖/chapters/02_Crip-Tic_of_Vignettes/02_entries/02.05_Dancing_with_tables.md","x":44,"y":3040,"width":740,"height":607,"color":"#a54545"},
+		{"id":"f1f316a0a70d6828","x":214,"y":3840,"width":400,"height":400,"color":"1","type":"file","file":"Thesis 📖/chapters/03_Disobedient_Action_Research_Cycles/03_Disobedient_Action_Research_Cycles_Canvas.canvas"}
 	],
 	"edges":[
 		{"id":"09c079f3ec2d8df9","fromNode":"555c91fea64484e8","fromSide":"bottom","toNode":"c509f8881338ec37","toSide":"right"},
@@ -22,6 +23,7 @@
 		{"id":"fe3249c6dd7da98a","fromNode":"318322e8c3ba0f41","fromSide":"bottom","toNode":"b72081f9d9fae6fb","toSide":"top"},
 		{"id":"838bd415ae6811ef","fromNode":"06261b27f74333ec","fromSide":"bottom","toNode":"b72081f9d9fae6fb","toSide":"top"},
 		{"id":"a557297ede732280","fromNode":"c509f8881338ec37","fromSide":"left","toNode":"b72081f9d9fae6fb","toSide":"left"},
-		{"id":"cb2c11d07fddbe71","fromNode":"ac732105eb143dfd","fromSide":"right","toNode":"b72081f9d9fae6fb","toSide":"right"}
+		{"id":"cb2c11d07fddbe71","fromNode":"ac732105eb143dfd","fromSide":"right","toNode":"b72081f9d9fae6fb","toSide":"right"},
+		{"id":"23b8c53ecf8b7fb8","fromNode":"b72081f9d9fae6fb","fromSide":"bottom","toNode":"f1f316a0a70d6828","toSide":"top"}
 	]
 }

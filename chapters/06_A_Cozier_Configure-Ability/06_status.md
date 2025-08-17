@@ -1,0 +1,3 @@
+- [ ] cozy
+	- [ ] sort through ready for draft
+	- [ ] clean up canvas

@@ -3,17 +3,19 @@
 		{"id":"25e84af7fb23f1c3","type":"group","x":960,"y":-160,"width":2160,"height":2780,"color":"2","label":"Cripping Configuration"},
 		{"id":"5b5b35a76a5146a3","type":"group","x":-1280,"y":-560,"width":1730,"height":2605,"color":"5","label":"Figuring out a genealogy of configuration"},
 		{"id":"d072542c03ee6e45","type":"group","x":2000,"y":917,"width":1080,"height":923,"color":"2","label":"Configure-Able Infrastructures Workshop"},
-		{"id":"9553a5979d3bf8e9","type":"file","file":"Thesis 📖/chapters/04_Configure-able_Methods/sections/04.02.02_Cripping Configuration.md","x":1480,"y":2000,"width":720,"height":551,"color":"2"},
-		{"id":"0be986e061b651ba","type":"file","file":"Thesis 📖/chapters/04_Configure-able_Methods/sections/04.02.00_Inquiring into Critical Access.md","x":1360,"y":40,"width":1280,"height":606,"color":"2"},
-		{"id":"31ff977ed3843165","type":"file","file":"Thesis 📖/chapters/04_Configure-able_Methods/sections/04.03.00_Conclusion.md","x":280,"y":3200,"width":1280,"height":440,"color":"6"},
-		{"id":"510d5fd167662943","type":"file","file":"Thesis 📖/chapters/04_Configure-able_Methods/sections/04.00_Intro.md","x":240,"y":-1600,"width":1000,"height":520,"color":"6"},
-		{"id":"8717a933c13d0d44","type":"file","file":"Thesis 📖/chapters/04_Configure-able_Methods/sections/04.01.02.01_The STS axis.md","x":-1120,"y":1378,"width":720,"height":551,"color":"5"},
-		{"id":"df384cbb80bf1977","type":"file","file":"Thesis 📖/chapters/04_Configure-able_Methods/sections/04.01.02.00_Configuration.md","x":-400,"y":728,"width":720,"height":551,"color":"5"},
-		{"id":"dad227015313fca1","type":"file","file":"Thesis 📖/chapters/04_Configure-able_Methods/sections/04.01.00_Figuring out a Genealogy of Configuration.md","x":-480,"y":-440,"width":720,"height":606,"color":"5"},
-		{"id":"3146da049c1f7cad","type":"file","file":"Thesis 📖/chapters/04_Configure-able_Methods/sections/04.01.01.00_Figure.md","x":-1200,"y":240,"width":720,"height":606,"color":"5"},
+		{"id":"31ff977ed3843165","type":"file","file":"Thesis 📖/chapters/04_Configure-able_Methods/04_entries/04.03.00_Conclusion.md","x":280,"y":3200,"width":1280,"height":440,"color":"6"},
+		{"id":"510d5fd167662943","type":"file","file":"Thesis 📖/chapters/04_Configure-able_Methods/04_entries/04.00_Intro.md","x":240,"y":-1600,"width":1000,"height":520,"color":"6"},
+		{"id":"8717a933c13d0d44","type":"file","file":"Thesis 📖/chapters/04_Configure-able_Methods/04_entries/04.01.02.01_The STS axis.md","x":-1120,"y":1378,"width":720,"height":551,"color":"5"},
+		{"id":"df384cbb80bf1977","type":"file","file":"Thesis 📖/chapters/04_Configure-able_Methods/04_entries/04.01.02.00_Configuration.md","x":-400,"y":728,"width":720,"height":551,"color":"5"},
+		{"id":"dad227015313fca1","type":"file","file":"Thesis 📖/chapters/04_Configure-able_Methods/04_entries/04.01.00_Figuring out a Genealogy of Configuration.md","x":-480,"y":-440,"width":720,"height":606,"color":"5"},
+		{"id":"3146da049c1f7cad","type":"file","file":"Thesis 📖/chapters/04_Configure-able_Methods/04_entries/04.01.01.00_Figure.md","x":-1200,"y":240,"width":720,"height":606,"color":"5"},
+		{"id":"8c35c39c377dd441","type":"file","file":"Thesis 📖/chapters/04_Configure-able_Methods/04_entries/04.02.01_Inquiring into Access-Knowled as configuration.md","x":1120,"y":1004,"width":720,"height":551,"color":"2"},
+		{"id":"fe754e595c28df59","type":"file","file":"Thesis 📖/chapters/05_In-Configure-Ability/05_In-Configure-Ability_canvas.canvas","x":280,"y":4000,"width":400,"height":400},
+		{"id":"9553a5979d3bf8e9","type":"file","file":"Thesis 📖/chapters/04_Configure-able_Methods/04_entries/04.02.02_Cripping Configuration.md","x":1480,"y":2000,"width":720,"height":551,"color":"2"},
+		{"id":"0be986e061b651ba","type":"file","file":"Thesis 📖/chapters/04_Configure-able_Methods/04_entries/04.02.00_Inquiring into Critical Access.md","x":1360,"y":40,"width":1280,"height":606,"color":"2"},
 		{"id":"5b1301abf6cc36b9","type":"file","file":"Thesis 📖/chapters/07_Artworks/Configure-able/Configure-able Infrastructures.md","x":2600,"y":1043,"width":400,"height":650,"color":"2"},
-		{"id":"8c35c39c377dd441","type":"file","file":"Thesis 📖/chapters/04_Configure-able_Methods/sections/04.02.01_Inquiring into Access-Knowled as configuration.md","x":1120,"y":1004,"width":720,"height":551,"color":"2"},
-		{"id":"f9fc9553af534f7e","type":"file","file":"Research💭/Workshops 🧑‍🤝‍🧑/Configure-Able/Configure-Able_Poster.png","x":2080,"y":1043,"width":480,"height":650,"color":"2"}
+		{"id":"f9fc9553af534f7e","type":"file","file":"Research💭/Workshops 🧑‍🤝‍🧑/Configure-Able/Configure-Able_Poster.png","x":2080,"y":1043,"width":480,"height":650,"color":"2"},
+		{"id":"adfe9f23ad72e332","type":"file","file":"Thesis 📖/chapters/06_A_Cozier_Configure-Ability/A Cozier Configure-ability.canvas","x":1160,"y":4000,"width":400,"height":400}
 	],
 	"edges":[
 		{"id":"09efd8ab040c43c8","fromNode":"dad227015313fca1","fromSide":"bottom","toNode":"3146da049c1f7cad","toSide":"top"},
@@ -25,6 +27,10 @@
 		{"id":"842367ef80f1aa6f","fromNode":"5b5b35a76a5146a3","fromSide":"right","toNode":"25e84af7fb23f1c3","toSide":"left","color":"#000000"},
 		{"id":"82376d30745bcce8","fromNode":"8c35c39c377dd441","fromSide":"right","toNode":"d072542c03ee6e45","toSide":"left","fromEnd":"arrow"},
 		{"id":"3021baa96af1bcb5","fromNode":"8717a933c13d0d44","fromSide":"right","toNode":"9553a5979d3bf8e9","toSide":"left","fromEnd":"arrow"},
-		{"id":"eafa3ab695fa2da2","fromNode":"25e84af7fb23f1c3","fromSide":"bottom","toNode":"31ff977ed3843165","toSide":"top"}
+		{"id":"eafa3ab695fa2da2","fromNode":"25e84af7fb23f1c3","fromSide":"bottom","toNode":"31ff977ed3843165","toSide":"top"},
+		{"id":"d0634cad970b398b","fromNode":"31ff977ed3843165","fromSide":"bottom","toNode":"fe754e595c28df59","toSide":"top"},
+		{"id":"9bcddb96e2bf43ad","fromNode":"31ff977ed3843165","fromSide":"bottom","toNode":"adfe9f23ad72e332","toSide":"top"},
+		{"id":"d87a6ef6bb4fbe0c","fromNode":"adfe9f23ad72e332","fromSide":"bottom","toNode":"fe754e595c28df59","toSide":"right"},
+		{"id":"b7d0aee988ed0350","fromNode":"fe754e595c28df59","fromSide":"bottom","toNode":"adfe9f23ad72e332","toSide":"left"}
 	]
 }
