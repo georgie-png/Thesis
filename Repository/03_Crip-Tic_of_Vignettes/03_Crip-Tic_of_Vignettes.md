@@ -1,0 +1,10 @@
+# [Configuration](03_Crip-Tic_of_vignettes_canvas.canvas)
+![](03_Crip-Tic_of_vignettes_canvas.canvas)
+# Entries
+![](03_entries/03.00_Intro.md)
+![](03_entries/03.01_The_research_table.md)
+![](03_entries/03.02_The_computing_table.md)
+![](03_entries/03.03_The_operating_table.md)
+![](03_entries/03.04_The_crip_table.md)
+![](03_entries/03.05_Dancing_with_tables.md)
+![](03_entries/pandoc_order.md)

@@ -1,0 +1,25 @@
+input-files:
+- ./06.00_Intro.md
+- ./06.01.00_Background.md
+- ./06.02.00_Processing In-Configure-ability.md
+- ./06.02.01.00_Figuring_out_Inflexibility.md
+- ./06.02.02.00_Figuring_out_In-flex-ability.md
+- ./06.02.02.01_De-re-clouding.md
+- ./06.02.02.02_Working groups and knowledge exchange.md
+- ./06.02.02.03_In-ternal_politics.md
+- ./06.02.03.00_Processing.md
+- ./06.03.00_Configure-ability_In-.md
+- ./06.03.01.00_Configure-ability_In-Docs.md
+- ./06.03.01.01_Inflexibility.md
+- ./06.03.01.02.00_in-flex-ability.md
+- ./06.03.01.02.01_In-Docs.md
+- ./06.03.01.02.02_In-Practice.md
+- ./06.03.02.00_Configure-ability_In-Workshops.md
+- ./06.03.02.01_Coding_protocols.md
+- ./06.03.02.02_SSH_protocols.md
+- ./06.03.02.03_Sudo_protocols.md
+- ./06.03.02.04_User_Protocols.md
+- ./06.03.02.05_Digital_safe_space_protocols.md
+- ./06.03.02.06_Collective_working_protocols..md
+- ./06.03.02.07_Manifesting_Femfester.md
+- ./06.04.00_In-reflection.md
