@@ -1,0 +1,12 @@
+input-files:
+- ./04.00_Disobedient_Action_Research_Cycles.md
+- ./04.01.00_Action-research.md
+- ./04.02.00_Why-not-other_Action-Research.md
+- ./04.03.00_Disobedient-action-research.md
+- ./04.03.01_Bringing Disobedience_Into_Action.md
+- ./04.04.00_Inquiring-into-inquiry.md
+- ./04.04.01_Texture_1.md
+- ./04.04.02_Texture_2.md
+- ./04.05.00_What-was-Actioned.md
+- ./04.06.00_Ethical-considerations.md
+- ./04.07.00_Conclusion.md

@@ -1,0 +1,12 @@
+input-files:
+- ./07.00_Intro.md
+- ./07.01_Background.md
+- ./07.02.00_Cozy_Intentions.md
+- ./07.02.01_Manifesting_intentions.md
+- ./07.02.02_Installing_Intentions.md
+- ./07.03.00_En-crip-ing_cozy_time.md
+- ./07.03.01_en-crip-ing_time.md
+- ./07.03.02_En-Crip-ing_HeadBody.md
+- ./07.03.03_En-crip-ing_kinship.md
+- ./07.03.04_En-crip-ing_academic_docs.md
+- ./07.04_Futures_x_Desires.md

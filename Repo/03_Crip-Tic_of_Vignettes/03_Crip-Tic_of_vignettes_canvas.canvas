@@ -1,0 +1,29 @@
+{
+	"nodes":[
+		{"id":"555c91fea64484e8","type":"file","file":"Thesis/Repo/03_Crip-Tic_of_Vignettes/03_Crip-Tic_of_Vignettes.md","x":-18,"y":-360,"width":765,"height":655,"color":"6"},
+		{"id":"c509f8881338ec37","type":"file","file":"Thesis/Repo/03_Crip-Tic_of_Vignettes/03_entries/03.01_The_research_table.md","x":-880,"y":760,"width":740,"height":523,"color":"5"},
+		{"id":"ac732105eb143dfd","type":"file","file":"Thesis/Repo/03_Crip-Tic_of_Vignettes/03_entries/03.02_The_computing_table.md","x":880,"y":760,"width":740,"height":523,"color":"5"},
+		{"id":"318322e8c3ba0f41","type":"file","file":"Thesis/Repo/03_Crip-Tic_of_Vignettes/03_entries/03.03_The_operating_table.md","x":44,"y":1283,"width":740,"height":523,"color":"#219fde"},
+		{"id":"06261b27f74333ec","type":"file","file":"Thesis/Repo/03_Crip-Tic_of_Vignettes/03_entries/03.04_The_crip_table.md","x":44,"y":2080,"width":740,"height":600,"color":"1"},
+		{"id":"b72081f9d9fae6fb","type":"file","file":"Thesis/Repo/03_Crip-Tic_of_Vignettes/03_entries/03.05_Dancing_with_tables.md","x":44,"y":3040,"width":740,"height":607,"color":"6"},
+		{"id":"f1f316a0a70d6828","type":"file","file":"Thesis/Repo/04_Disobedient_Action_Research_Cycles/04_Disobedient_Action_Research_Cycles_Canvas.canvas","x":214,"y":3840,"width":400,"height":400,"color":"6"}
+	],
+	"edges":[
+		{"id":"09c079f3ec2d8df9","fromNode":"555c91fea64484e8","fromSide":"bottom","toNode":"c509f8881338ec37","toSide":"right"},
+		{"id":"5376c65f4e1da06b","fromNode":"555c91fea64484e8","fromSide":"bottom","toNode":"ac732105eb143dfd","toSide":"left"},
+		{"id":"fb79db469bedd71e","fromNode":"555c91fea64484e8","fromSide":"bottom","toNode":"318322e8c3ba0f41","toSide":"top"},
+		{"id":"cb59696deea5c44d","fromNode":"c509f8881338ec37","fromSide":"top","toNode":"318322e8c3ba0f41","toSide":"top"},
+		{"id":"f51e20f5c1d023e7","fromNode":"ac732105eb143dfd","fromSide":"top","toNode":"318322e8c3ba0f41","toSide":"top"},
+		{"id":"140003c35d08ac7d","fromNode":"318322e8c3ba0f41","fromSide":"right","toNode":"ac732105eb143dfd","toSide":"bottom"},
+		{"id":"76f76c138a48b20c","fromNode":"318322e8c3ba0f41","fromSide":"left","toNode":"c509f8881338ec37","toSide":"bottom"},
+		{"id":"02fd1082d3226d14","fromNode":"ac732105eb143dfd","fromSide":"right","toNode":"06261b27f74333ec","toSide":"right"},
+		{"id":"e7720a0bf4083714","fromNode":"c509f8881338ec37","fromSide":"left","toNode":"06261b27f74333ec","toSide":"left"},
+		{"id":"71b08a6c527be2d0","fromNode":"318322e8c3ba0f41","fromSide":"right","toNode":"06261b27f74333ec","toSide":"right"},
+		{"id":"eab0e2377b8c7338","fromNode":"318322e8c3ba0f41","fromSide":"left","toNode":"06261b27f74333ec","toSide":"left"},
+		{"id":"fe3249c6dd7da98a","fromNode":"318322e8c3ba0f41","fromSide":"bottom","toNode":"b72081f9d9fae6fb","toSide":"top"},
+		{"id":"838bd415ae6811ef","fromNode":"06261b27f74333ec","fromSide":"bottom","toNode":"b72081f9d9fae6fb","toSide":"top"},
+		{"id":"a557297ede732280","fromNode":"c509f8881338ec37","fromSide":"left","toNode":"b72081f9d9fae6fb","toSide":"left"},
+		{"id":"cb2c11d07fddbe71","fromNode":"ac732105eb143dfd","fromSide":"right","toNode":"b72081f9d9fae6fb","toSide":"right"},
+		{"id":"23b8c53ecf8b7fb8","fromNode":"b72081f9d9fae6fb","fromSide":"bottom","toNode":"f1f316a0a70d6828","toSide":"top"}
+	]
+}

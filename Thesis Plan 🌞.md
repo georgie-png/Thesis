@@ -1,5 +1,5 @@
-# [[Repository/01_Introduction/notes/00_Intro]] - Easy Read  2k:
-![[Repository/01_Introduction/notes/00_Intro#1-2 Sentence intro]]
+# [[Repo/01_Introduction/notes/00_Intro]] - Easy Read  2k:
+![[Repo/01_Introduction/notes/00_Intro#1-2 Sentence intro]]
 
 
 # [01_Disability justice and life affirmation flipping the table](chapters/01_Disability_justice_and_life_affirmation_flipping_the_table/01_Disability%20justice%20and%20life%20affirmation%20flipping%20the%20table.md) at 13k
