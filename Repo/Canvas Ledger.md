@@ -1,3 +1,0 @@
-
-purple - artwork
-black - thesis

@@ -1,6 +1,2 @@
----
-Type: index
----
-# Index
-```folder-index-content
-```
+
+![10_intro](10_entries/10_intro.md)

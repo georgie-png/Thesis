@@ -1,0 +1,37 @@
+{
+	"nodes":[
+		{"id":"3056a15a2cb591f9","type":"file","file":"Thesis/Repo/04_Disobedient_Action_Research_Cycles/04_Disobedient_Action_Research_Cycles.md","x":80,"y":840,"width":540,"height":860,"color":"#2d8f50"},
+		{"id":"fdc16439d9922063","type":"file","file":"Thesis/Repo/05_Configure-Able_Methods/05_Configure-Able_Methods.md","x":760,"y":1760,"width":400,"height":740,"color":"#575214"},
+		{"id":"002f73af4b15e7b3","type":"file","file":"Thesis/Repo/06_In-Configure-Ability/06_In-Configure-Ability.md","x":1360,"y":2540,"width":400,"height":660,"color":"#452c63"},
+		{"id":"de0faba2b77df8d8","type":"file","file":"Thesis/Repo/07_A_Cozier_Configure-Able_Methods/07_A_Cozier_Configure-Able_Methods.md","x":2240,"y":3200,"width":400,"height":877,"color":"#824a6d"},
+		{"id":"5131debaf7a569b0","type":"file","file":"Thesis/Repo/09_Conclusion/09_Conclusion.md","x":3040,"y":2500,"width":400,"height":655,"color":"6"},
+		{"id":"dab84e4c15b46eb5","type":"file","file":"Thesis/Repo/01_Introduction/01_Introduction.md","x":-910,"y":-1120,"width":400,"height":840,"color":"6"},
+		{"id":"c9f3b66ef45254f7","type":"file","file":"Thesis/Repo/03_Crip-Tic_of_Vignettes/03_Crip-Tic_of_Vignettes.md","x":-238,"y":-400,"width":448,"height":826,"color":"#157e7d"},
+		{"id":"49426add202bcf8b","type":"file","file":"Thesis/Repo/02_Disability_justice_and_life_affirmation_flipping_the_table/02_Disability_justice_and_life_affirmation_flipping_the_table.md","x":540,"y":-400,"width":420,"height":800,"color":"#121582"},
+		{"id":"cf186f47b58ffd15","type":"file","file":"Thesis/Repo/08_Practice/08_Practice.canvas","x":-1230,"y":1600,"width":720,"height":720,"color":"6"}
+	],
+	"edges":[
+		{"id":"e56bf4742c68d2d2","fromNode":"49426add202bcf8b","fromSide":"bottom","toNode":"3056a15a2cb591f9","toSide":"top"},
+		{"id":"d23fc77d594b710b","fromNode":"3056a15a2cb591f9","fromSide":"bottom","toNode":"fdc16439d9922063","toSide":"left"},
+		{"id":"3ca460f3669c280a","fromNode":"49426add202bcf8b","fromSide":"bottom","toNode":"fdc16439d9922063","toSide":"top"},
+		{"id":"0bf558156a56611c","fromNode":"dab84e4c15b46eb5","fromSide":"right","toNode":"c9f3b66ef45254f7","toSide":"top"},
+		{"id":"e1ff5d53bc5dffcf","fromNode":"c9f3b66ef45254f7","fromSide":"right","toNode":"49426add202bcf8b","toSide":"left"},
+		{"id":"3b65486f463a756a","fromNode":"49426add202bcf8b","fromSide":"bottom","toNode":"c9f3b66ef45254f7","toSide":"bottom"},
+		{"id":"eaec5368deae2b7d","fromNode":"cf186f47b58ffd15","fromSide":"top","toNode":"c9f3b66ef45254f7","toSide":"left","fromEnd":"arrow"},
+		{"id":"7f938d438ff6717f","fromNode":"cf186f47b58ffd15","fromSide":"right","toNode":"3056a15a2cb591f9","toSide":"left","fromEnd":"arrow"},
+		{"id":"c99037ca6c04ce3c","fromNode":"cf186f47b58ffd15","fromSide":"bottom","toNode":"fdc16439d9922063","toSide":"left","fromEnd":"arrow"},
+		{"id":"06114703d6198886","fromNode":"c9f3b66ef45254f7","fromSide":"bottom","toNode":"3056a15a2cb591f9","toSide":"top"},
+		{"id":"f4d4e6d51127e377","fromNode":"c9f3b66ef45254f7","fromSide":"bottom","toNode":"fdc16439d9922063","toSide":"top"},
+		{"id":"32c506efd3b59f4d","fromNode":"fdc16439d9922063","fromSide":"right","toNode":"002f73af4b15e7b3","toSide":"left"},
+		{"id":"3cc9c72e091a26cb","fromNode":"cf186f47b58ffd15","fromSide":"bottom","toNode":"002f73af4b15e7b3","toSide":"left","fromEnd":"arrow"},
+		{"id":"dc55dc0e2d81368d","fromNode":"002f73af4b15e7b3","fromSide":"right","toNode":"de0faba2b77df8d8","toSide":"left"},
+		{"id":"2a726fdc208ba069","fromNode":"fdc16439d9922063","fromSide":"right","toNode":"de0faba2b77df8d8","toSide":"top"},
+		{"id":"489d7617c2389bc2","fromNode":"cf186f47b58ffd15","fromSide":"bottom","toNode":"de0faba2b77df8d8","toSide":"left"},
+		{"id":"f13ea5940e85d2c6","fromNode":"de0faba2b77df8d8","fromSide":"right","toNode":"5131debaf7a569b0","toSide":"left"},
+		{"id":"c398fff88674928d","fromNode":"002f73af4b15e7b3","fromSide":"right","toNode":"5131debaf7a569b0","toSide":"left"},
+		{"id":"b1ad863b1e5a9f64","fromNode":"fdc16439d9922063","fromSide":"right","toNode":"5131debaf7a569b0","toSide":"left"},
+		{"id":"5430c623fc2ed4a0","fromNode":"3056a15a2cb591f9","fromSide":"right","toNode":"5131debaf7a569b0","toSide":"left"},
+		{"id":"0d450c2afa73a74d","fromNode":"49426add202bcf8b","fromSide":"right","toNode":"5131debaf7a569b0","toSide":"top"},
+		{"id":"dbe708fd52f86bc6","fromNode":"dab84e4c15b46eb5","fromSide":"bottom","toNode":"cf186f47b58ffd15","toSide":"top","fromEnd":"arrow"}
+	]
+}
