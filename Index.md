@@ -1,3 +1,3 @@
 # Start here!
 
-[Thesis](Repo/Thesis.md)
+[README](Repo/README.md)

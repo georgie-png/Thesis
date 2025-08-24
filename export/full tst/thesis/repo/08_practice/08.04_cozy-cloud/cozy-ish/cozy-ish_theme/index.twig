@@ -1,0 +1,87 @@
+<html>
+<head>
+      <meta charset="utf-8" />
+
+    <title>{% if meta.title %}{{ meta.title }} | {% endif %}{{ site_title }}</title>
+    {% if meta.description %}
+        <meta name="description" content="{{ meta.description|striptags }}">
+    {% endif %}{% if meta.robots %}
+        <meta name="robots" content="{{ meta.robots }}">
+    {% endif %}
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="stylesheet" href="{{ theme_url }}/css/style.css" type="text/css">
+  <!-- Table Of Contents -->
+  <link rel="stylesheet" type="text/css" href="{{ plugins_url }}/TableOfContents/style.css" />
+  <link rel="shortcut icon" href="{{ assets_url }}/assets/favicon.ico" />
+</head>
+<div id="header">
+  <a href="{{ "index"|link }}">{{ site_title }}</a>
+</div>
+<body>
+<div class="layout">
+	<div id="navbar">
+
+		<ul class="nav">
+      <li>
+        <a href="{{ base_url }}">Intro</a>
+      </li>
+      <li>
+        <a href="https://cozy-cloud.net">Cozy-Cloud</a>
+      </li>
+      {% for page in pages if page.title and not page.hidden %}
+        {% set page_depth = page.id|split('/')|length %}
+        {% if ((page_depth == 2) and (page.id ends with "/index") or (page_depth == 1 and (current_page.id != page.id or current_page.id != "index"))) %}
+          <li{% if page.id == current_page.id %} class="active"{% endif %}>
+            {% set current_id_a = current_page.id|split('/')[0] %}
+            {% set page_id_a = page.id|split('/')[0] %}
+            <a href="{{ page.url }}">{{ page.title }} {% if (page.id == current_page.id) or (page_id_a == current_id_a) %} &laquo; {% endif %}</a>
+          </li>
+        {% endif %}
+      {% endfor %}
+		</ul>
+	</div>
+	<div id="content">
+    {% if current_page.id ends with "index" %}
+    {% set current_tag = current_page.id|split('/')[0] %}
+    {% set current_depth = current_page.id|split('/')|length %}
+		<div class="inner">
+			{{ content }}
+      <ul>
+        {% for page in pages|sort_by("time")|reverse if page.title and not page.hidden %}
+          {% set page_depth = page.id|split('/')|length %}
+          {% set page_tag = page.id|split('/')[0] %}
+          {#
+              * display all pages in subfolders (depth: 2), that are not index pages for their subfolder (do not end with "index)
+              * display pages of all tags on the start page (current_page.id: "index")
+              * else display only the tag of the current index
+              * do not display pages from the archive (page_tag: "archive") on the start page
+              * do not display pages from the Tag == hide (intention: not to show the list of those pages)
+          #}
+          {% if not (page.url ==  base_url) and page_depth == 2 and (current_page.id == "index" or page_tag == current_tag) and not (page.id ends with "index") and not (page_tag == "archive" and current_page.id == "index") and not (current_page.title == "Home") and not (page.meta.Tag == "hide") %}
+            <li>
+              <a href="{{ page.url }}">/{{ page.date_formatted }}/{% if current_page.id == "index" %}{{ page_tag }}/{% endif %}{{ page.title }}</a>
+            </li>
+          {% endif %}
+        {% endfor %}
+      </ul>
+		</div>
+    {% else %}
+      <div class="inner">
+      <header>
+        {% set page_depth = current_page.id|split('/')|length %}
+        <h1>{{ meta.title }}</h1>
+      </header>
+      {{ content }}
+    </div>
+    {% endif %}
+	</div>
+	<div id="footer">
+    This Website was written by someone with dyslexia so if it's a little clumsy hopefully its cute. x (p.s. Do feel able to ask for clarification)  <br />
+    Hosted on a potable <a href="https://www.raspberrypi.com/news/introducing-raspberry-pi-5/?_wem_rev_track=473c770c-3488-48d3-a91d-90d43f243ea5%3A0c67df3f-ebf7-4c40-bf31-572cd8028860">Raspberry Pi 5</a> through a vpn hosted at <a href="https://greenhost.net">Greenhost</a>. <br />
+    FLOSS System: <a href="http://picocms.org/">PicoCMS</a>.<br />
+    Theme: A COZY mod of <a href="https://gitlab.com/siusoon/soonish/">soonish</a>, that is also modified from <a href="https://github.com/sonst-was/simpleTwo">sonst-was</a>.<br />
+    Libre Font: <a href="https://www.velvetyne.fr/fonts/fengardo-neue/">Fengardo Neue</a> & <a href="https://www.velvetyne.fr/fonts/minipax/">MiniPax</a>.
+</div>
+</div>
+</body>
+</html>
