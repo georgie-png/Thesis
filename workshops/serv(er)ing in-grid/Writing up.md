@@ -5,9 +5,9 @@ The workshop ran for 3 hours and examined how we wanted to iterate our own [femi
 
 ![[Femfester screenshot.png]]
 
-![[../../Repo/08_Practice/08.03_In-Grid/Serving In-grid/media/Serving In-grid workshop day.jpeg]]
+![[../../Repo/08_Practice tst/08.03_In-Grid/Serving In-grid/media/Serving In-grid workshop day.jpeg]]
 
-![[../../Repo/08_Practice/08.03_In-Grid/Serving In-grid/media/Serving In-grid workshop day 2.jpg]]
+![[../../Repo/08_Practice tst/08.03_In-Grid/Serving In-grid/media/Serving In-grid workshop day 2.jpg]]
 
 ![[imgs of day/signal-2024-11-09-182903_002.jpeg]]
 

@@ -1,6 +1,6 @@
 # A Cozier Configure-Able Methods
-## [Configuration](A%20Cozier%20Configure-ability.canvas)
-![](A%20Cozier%20Configure-ability.canvas)
+## [Configuration](07_A%20Cozier%20Configure-ability_canvas.canvas)
+![](07_A%20Cozier%20Configure-ability_canvas.canvas)
 ## Entries
 ![](07_entries/07.00_Intro.md)
 ![](07_entries/07.01_Background.md)

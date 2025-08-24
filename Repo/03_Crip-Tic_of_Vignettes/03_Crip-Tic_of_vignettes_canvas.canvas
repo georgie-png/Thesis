@@ -6,7 +6,8 @@
 		{"id":"318322e8c3ba0f41","type":"file","file":"Thesis/Repo/03_Crip-Tic_of_Vignettes/03_entries/03.03_The_operating_table.md","x":44,"y":1283,"width":740,"height":523,"color":"#219fde"},
 		{"id":"06261b27f74333ec","type":"file","file":"Thesis/Repo/03_Crip-Tic_of_Vignettes/03_entries/03.04_The_crip_table.md","x":44,"y":2080,"width":740,"height":600,"color":"1"},
 		{"id":"b72081f9d9fae6fb","type":"file","file":"Thesis/Repo/03_Crip-Tic_of_Vignettes/03_entries/03.05_Dancing_with_tables.md","x":44,"y":3040,"width":740,"height":607,"color":"6"},
-		{"id":"f1f316a0a70d6828","type":"file","file":"Thesis/Repo/04_Disobedient_Action_Research_Cycles/04_Disobedient_Action_Research_Cycles_Canvas.canvas","x":214,"y":3840,"width":400,"height":400,"color":"6"}
+		{"id":"f1f316a0a70d6828","type":"file","file":"Thesis/Repo/04_Disobedient_Action_Research_Cycles/04_Disobedient_Action_Research_Cycles_canvas.canvas","x":214,"y":3840,"width":400,"height":400,"color":"6"},
+		{"id":"a0cea192f2c6363e","x":9,"y":4240,"width":811,"height":80,"type":"text","text":"# [04_Disobedient_Action_Research_Cycles_canvas](Thesis/Repo/04_Disobedient_Action_Research_Cycles/04_Disobedient_Action_Research_Cycles_canvas.canvas)"}
 	],
 	"edges":[
 		{"id":"09c079f3ec2d8df9","fromNode":"555c91fea64484e8","fromSide":"bottom","toNode":"c509f8881338ec37","toSide":"right"},

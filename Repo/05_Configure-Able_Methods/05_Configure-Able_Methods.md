@@ -1,6 +1,6 @@
 # 05_Configure\-Able_Methods
-## [Configuration](05_Configure-able%20methods%20canvas.canvas)
-![](05_Configure-able%20methods%20canvas.canvas)
+## [Configuration](05_Configure-able%20methods_canvas.canvas)
+![](05_Configure-able%20methods_canvas.canvas)
 ## Entries
 ![](05_entries/05.00_Intro.md)
 ![](05_entries/05.01.00_Figuring%20out%20a%20Genealogy%20of%20Configuration.md)

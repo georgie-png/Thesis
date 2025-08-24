@@ -1,5 +1,5 @@
-# [Configuration](02_Disability_justice_and_life_affirmation_flipping_the_table.canvas)
-![](02_Disability_justice_and_life_affirmation_flipping_the_table.canvas)
+# [Configuration](02_Disability_justice_and_life_affirmation_flipping_the_table_canvas.canvas)
+![](02_Disability_justice_and_life_affirmation_flipping_the_table_canvas.canvas)
 # Entries
 ![](02_entries/02.00_Intro.md)
 ![](02_entries/02.01.00_Orienting_the_table.md)

@@ -1,0 +1,41 @@
+{
+	"nodes":[
+		{"id":"c8538ab0d4e13cd8","type":"group","x":-40,"y":-2400,"width":1840,"height":1280,"label":"Serving Cozy"},
+		{"id":"452051a69b6991b5","type":"group","x":200,"y":-760,"width":1920,"height":920,"label":"Cozy Intentions"},
+		{"id":"6c1f95a850730f81","type":"group","x":-2160,"y":-2160,"width":1560,"height":1040,"color":"#5d0456","label":"En-Crip-ing Time"},
+		{"id":"95914324db12c673","type":"group","x":-2000,"y":1160,"width":1200,"height":1080,"color":"#3a0808","label":"Cozy Night + Day"},
+		{"id":"223023d3252139c5","type":"group","x":-1760,"y":130,"width":1320,"height":710,"color":"#675d2d","label":"Cozy-Ish"},
+		{"id":"ded98cc1fbbf2447","type":"file","file":"Thesis/Repo/08_Practice/08_Cozy-Cloud/En-crip-ing_time/En-crip-ing_time.md","x":-1480,"y":-1640,"width":760,"height":460,"color":"#2a552d"},
+		{"id":"20491eb092d25740","type":"file","file":"Thesis/Repo/08_Practice/08_Cozy-Cloud/En-crip-ing_time/media/Mesh Festival Cover Img.png","x":-1160,"y":-2090,"width":400,"height":400,"color":"#2a552d"},
+		{"id":"f35fb93b7ef527f2","type":"file","file":"Thesis/Repo/08_Practice/08_Cozy-Cloud/En-crip-ing_time/media/infrastructural intimacies.png","x":-1982,"y":-2090,"width":622,"height":371,"color":"#2a552d"},
+		{"id":"07eb20008f3b606c","type":"file","file":"Thesis/Repo/08_Practice/08_Cozy-Cloud/En-crip-ing_time/media/en-crip-ed poem.png","x":-2110,"y":-1549,"width":550,"height":278,"color":"#2a552d"},
+		{"id":"6400d414827db8c1","type":"file","file":"Thesis/Repo/08_Practice/08_Cozy-Cloud/08.04_Cozy-Cloud.md","x":-1670,"y":-880,"width":750,"height":830},
+		{"id":"4479d2edca66232e","type":"file","file":"Thesis/Repo/08_Practice/08_Cozy-Cloud/Serving Cozy/media/Cozy Flow.png","x":71,"y":-2348,"width":400,"height":308},
+		{"id":"7f481b615359e395","type":"file","file":"Thesis/Repo/08_Practice/08_Cozy-Cloud/Serving Cozy/media/Servering-Cozy  pillows.jpeg","x":60,"y":-1936,"width":420,"height":700},
+		{"id":"1812fe4b2f8eed92","type":"file","file":"Thesis/Repo/08_Practice/08_Cozy-Cloud/Serving Cozy/Serving Cozy.md","x":560,"y":-1960,"width":580,"height":620},
+		{"id":"103ac6d23de88569","type":"file","file":"Thesis/Repo/08_Practice/08_Cozy-Cloud/Cozy-ish/media/interface of Cozy-ish theme.png","x":-1670,"y":280,"width":565,"height":440},
+		{"id":"75a92f4ae557a43a","type":"file","file":"Thesis/Repo/08_Practice/08_Cozy-Cloud/Cozy-ish/Cozy-ish.md","x":-1053,"y":220,"width":573,"height":500,"color":"#532613"},
+		{"id":"6652c6a1025362ed","type":"file","file":"Thesis/Repo/08_Practice/08_Cozy-Cloud/Serving Cozy/media/Base lazer outline.svg","x":1180,"y":-2348,"width":400,"height":283},
+		{"id":"ec3398fbe0264ac5","type":"file","file":"Thesis/Repo/08_Practice/08_Cozy-Cloud/Serving Cozy/media/Servering-Cozy  screen.jpeg","x":580,"y":-2329,"width":400,"height":226},
+		{"id":"ceb961cacb8e22c4","type":"file","file":"Thesis/Repo/08_Practice/08_Cozy-Cloud/Serving Cozy/media/Serving Cozy in touch.png","x":1320,"y":-1900,"width":399,"height":225},
+		{"id":"d472415c8ddc4ca2","type":"file","file":"Thesis/Repo/08_Practice/08_Cozy-Cloud/Cozy_Night+Day/media/Cozy_Day.png","x":-1740,"y":1222,"width":416,"height":305,"color":"#e7c07e"},
+		{"id":"70acd690e033612a","type":"file","file":"Thesis/Repo/08_Practice/08_Cozy-Cloud/Cozy_Night+Day/media/Cozy_Night.png","x":-1274,"y":1375,"width":435,"height":332,"color":"#e7c07e"},
+		{"id":"bc36068ded80afa5","type":"file","file":"Thesis/Repo/08_Practice/08_Cozy-Cloud/Cozy_Night+Day/Cozy_Night+Day.md","x":-1940,"y":1547,"width":555,"height":653,"color":"#e7c07e"},
+		{"id":"8e9f270d2ce9ffa8","type":"file","file":"Thesis/Repo/08_Practice/08_Cozy-Cloud/Cozy-Intentions/media/lets-get-cozy.png","x":400,"y":-700,"width":400,"height":225},
+		{"id":"45278b21c84bfb04","type":"file","file":"Thesis/Repo/08_Practice/08_Cozy-Cloud/Cozy-Intentions/media/less clouds more cozy.png","x":1040,"y":-676,"width":400,"height":225},
+		{"id":"e74bf844e53f4035","type":"file","file":"Thesis/Repo/08_Practice/08_Cozy-Cloud/Cozy_Night+Day/media/Cozy_Easy_Read.png","x":-1324,"y":1874,"width":485,"height":293,"color":"#e7c07e"},
+		{"id":"1435fd975cf3d93b","type":"file","file":"Thesis/Repo/08_Practice/08_Cozy-Cloud/Cozy-Intentions/Cozy-Intentions.md","x":700,"y":-422,"width":440,"height":512},
+		{"id":"b22d70bbb574991b","type":"file","file":"Thesis/Repo/08_Practice/08_Cozy-Cloud/Cozy-Intentions/media/A Cozy Cloud.png","x":260,"y":-135,"width":400,"height":225},
+		{"id":"ec092c7eaf4f4f7d","type":"file","file":"Thesis/Repo/08_Practice/08_Cozy-Cloud/Cozy-Intentions/media/a cloud.png","x":1220,"y":-150,"width":400,"height":214},
+		{"id":"78715fc50ec3d954","type":"file","file":"Thesis/Repo/08_Practice/08_Cozy-Cloud/Cozy-Intentions/media/infinite cozy.png","x":260,"y":-420,"width":400,"height":225},
+		{"id":"b08df1f4d3411465","type":"file","file":"Thesis/Repo/08_Practice/08_Cozy-Cloud/Cozy-Intentions/media/cozy-networks_bg.png","x":1220,"y":-390,"width":400,"height":225}
+	],
+	"edges":[
+		{"id":"78a4a093c4c4ff4b","fromNode":"6400d414827db8c1","fromSide":"bottom","toNode":"223023d3252139c5","toSide":"top"},
+		{"id":"f5ad83cdb1467dac","fromNode":"6400d414827db8c1","fromSide":"right","toNode":"452051a69b6991b5","toSide":"left"},
+		{"id":"af8685eacbd8546b","fromNode":"223023d3252139c5","fromSide":"bottom","toNode":"95914324db12c673","toSide":"top"},
+		{"id":"117a83497ec28ba6","fromNode":"6400d414827db8c1","fromSide":"top","toNode":"6c1f95a850730f81","toSide":"bottom"},
+		{"id":"1f6b5c53c26686e0","fromNode":"452051a69b6991b5","fromSide":"bottom","toNode":"223023d3252139c5","toSide":"right"},
+		{"id":"36b3e917d2fd2cbf","fromNode":"6400d414827db8c1","fromSide":"right","toNode":"c8538ab0d4e13cd8","toSide":"left"}
+	]
+}

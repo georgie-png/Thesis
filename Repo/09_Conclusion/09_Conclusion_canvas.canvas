@@ -1,0 +1,38 @@
+{
+	"nodes":[
+		{"id":"6a0ac25630c9af91","type":"file","file":"Thesis/Repo/05_Configure-Able_Methods/05_Configure-able methods_canvas.canvas","x":-760,"y":-920,"width":400,"height":400,"color":"6"},
+		{"id":"1c7f31f01202835c","type":"file","file":"Thesis/Repo/04_Disobedient_Action_Research_Cycles/04_Disobedient_Action_Research_Cycles_canvas.canvas","x":-760,"y":-1600,"width":400,"height":400,"color":"6"},
+		{"id":"62e9144d7be2c796","type":"file","file":"Thesis/Repo/09_Conclusion/09_entries/09.00_Intro.md","x":-720,"y":720,"width":400,"height":400,"color":"5"},
+		{"id":"49fad827a5820fbe","type":"file","file":"Thesis/Repo/09_Conclusion/09_entries/09.01_Reflecting_On_Configure-Able_Methods.md","x":-720,"y":1324,"width":400,"height":400,"color":"5"},
+		{"id":"e42a5f85196e7c2d","type":"file","file":"Thesis/Repo/07_A_Cozier_Configure-Able_Methods/07_A Cozier Configure-ability_canvas.canvas","x":-360,"y":-151,"width":400,"height":400,"color":"6"},
+		{"id":"256a60f8a53feb53","type":"file","file":"Thesis/Repo/06_In-Configure-Ability/06_In-Configure-Ability_canvas.canvas","x":-1160,"y":-151,"width":400,"height":400,"color":"6"},
+		{"id":"efabe0423a9ca7ab","type":"file","file":"Thesis/Repo/09_Conclusion/09_entries/09.02_Configure-Able_Futures.md","x":-760,"y":1920,"width":443,"height":472,"color":"5"},
+		{"id":"e654954a24609ded","type":"file","file":"Thesis/Repo/09_Conclusion/09_entries/09.03_Iterating_Configure-Able_Methods.md","x":-760,"y":2640,"width":443,"height":472,"color":"6"},
+		{"id":"02ef88e8efab12c5","x":-1228,"y":280,"width":508,"height":62,"type":"text","text":"# [06_In-Configure-Ability_canvas](Thesis/Repo/06_In-Configure-Ability/06_In-Configure-Ability_canvas.canvas)"},
+		{"id":"9759fc69cf9e9e03","x":-796,"y":-480,"width":473,"height":60,"type":"text","text":"# [05_Configure-Able_Methods](Thesis/Repo/05_Configure-Able_Methods/05_Configure-Able_Methods.md)"},
+		{"id":"c3b2776ef55e3178","x":-955,"y":-1180,"width":792,"height":60,"type":"text","text":"# [04_Disobedient_Action_Research_Cycles_canvas](Thesis/Repo/04_Disobedient_Action_Research_Cycles/04_Disobedient_Action_Research_Cycles_canvas.canvas)"},
+		{"id":"76e4c224397a0616","x":-471,"y":280,"width":622,"height":57,"type":"text","text":"# [07_A Cozier Configure-ability_canvas](Thesis/Repo/07_A_Cozier_Configure-Able_Methods/07_A%20Cozier%20Configure-ability_canvas.canvas)"}
+	],
+	"edges":[
+		{"id":"83a0baf0ff54b839","fromNode":"256a60f8a53feb53","fromSide":"right","toNode":"e42a5f85196e7c2d","toSide":"top","color":"#000000"},
+		{"id":"d89b9f1aca01c75e","fromNode":"e42a5f85196e7c2d","fromSide":"left","toNode":"256a60f8a53feb53","toSide":"top","color":"#000000"},
+		{"id":"36e2907397b64f10","fromNode":"6a0ac25630c9af91","fromSide":"bottom","toNode":"256a60f8a53feb53","toSide":"top","color":"#000000"},
+		{"id":"2397ce269bc3bd2f","fromNode":"6a0ac25630c9af91","fromSide":"bottom","toNode":"e42a5f85196e7c2d","toSide":"top","color":"#000000"},
+		{"id":"20e69671db5c2165","fromNode":"1c7f31f01202835c","fromSide":"bottom","toNode":"6a0ac25630c9af91","toSide":"top","color":"#000000"},
+		{"id":"85f9f97527c610d4","fromNode":"6a0ac25630c9af91","fromSide":"bottom","toNode":"62e9144d7be2c796","toSide":"top","color":"#000000"},
+		{"id":"5fdb9f2623e6a777","fromNode":"256a60f8a53feb53","fromSide":"bottom","toNode":"62e9144d7be2c796","toSide":"top","color":"#000000"},
+		{"id":"6e0004f3a7351f6b","fromNode":"e42a5f85196e7c2d","fromSide":"bottom","toNode":"62e9144d7be2c796","toSide":"top","color":"#000000"},
+		{"id":"71e453260e64c6c2","fromNode":"62e9144d7be2c796","fromSide":"left","toNode":"49fad827a5820fbe","toSide":"top","color":"#000000"},
+		{"id":"bca50fcdd45ef5fd","fromNode":"49fad827a5820fbe","fromSide":"right","toNode":"efabe0423a9ca7ab","toSide":"top","color":"#000000"},
+		{"id":"27d7041afdeadbb8","fromNode":"e654954a24609ded","fromSide":"right","toNode":"6a0ac25630c9af91","toSide":"right","color":"#000000"},
+		{"id":"a003587e1d804a4e","fromNode":"efabe0423a9ca7ab","fromSide":"left","toNode":"e654954a24609ded","toSide":"top","color":"#000000"},
+		{"id":"cd3280fafdf23c26","fromNode":"e654954a24609ded","fromSide":"left","toNode":"6a0ac25630c9af91","toSide":"left","color":"#000000"},
+		{"id":"bf16949b1e7ac81d","fromNode":"62e9144d7be2c796","fromSide":"right","toNode":"49fad827a5820fbe","toSide":"top","color":"#000000"},
+		{"id":"1f028f187abd2d0f","fromNode":"49fad827a5820fbe","fromSide":"left","toNode":"efabe0423a9ca7ab","toSide":"top","color":"#000000"},
+		{"id":"2740cf75d830ab45","fromNode":"efabe0423a9ca7ab","fromSide":"right","toNode":"e654954a24609ded","toSide":"top","color":"#000000"},
+		{"id":"e7c9eda05961b00a","fromNode":"49fad827a5820fbe","fromSide":"right","toNode":"e654954a24609ded","toSide":"top","color":"#000000"},
+		{"id":"d6a266b1a8fe3f3f","fromNode":"49fad827a5820fbe","fromSide":"left","toNode":"e654954a24609ded","toSide":"top","color":"#000000"},
+		{"id":"3e7f4b2956cb2101","fromNode":"62e9144d7be2c796","fromSide":"right","toNode":"e654954a24609ded","toSide":"top","color":"#000000"},
+		{"id":"80842727f87d6b3d","fromNode":"62e9144d7be2c796","fromSide":"left","toNode":"e654954a24609ded","toSide":"top","color":"#000000"}
+	]
+}

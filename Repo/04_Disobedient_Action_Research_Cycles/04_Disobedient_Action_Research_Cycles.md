@@ -1,6 +1,6 @@
 # 03_Disobedient_Action_Research_Cycles
-## [Configuration](04_Disobedient_Action_Research_Cycles_Canvas.canvas)
-![](04_Disobedient_Action_Research_Cycles_Canvas.canvas)
+## [Configuration](04_Disobedient_Action_Research_Cycles_canvas.canvas)
+![](04_Disobedient_Action_Research_Cycles_canvas.canvas)
 ## Entries
 ![](04_entries/04.00_Disobedient_Action_Research_Cycles.md)
 ![](04_entries/04.01.00_Action-research.md)

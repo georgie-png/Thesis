@@ -2,5 +2,5 @@
 *.odt
 *.docx
 
-
 /Processing/*
+/export/*
