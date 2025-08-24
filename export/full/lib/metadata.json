@@ -1,0 +1,2286 @@
+{
+  "vaultName": "Wiki",
+  "lastExport": 1755973024282,
+  "pluginVersion": "1.8.01",
+  "validBodyClasses": "publish css-settings-manager show-inline-title show-ribbon theme-dark",
+  "useCustomHeadContent": false,
+  "useCustomFavicon": false,
+  "files": [
+    "Thesis/Repo/00_acknoledgments/00_acknoledgments.md",
+    "Thesis/Repo/01_Introduction/01_entries/01.00_Intro.md",
+    "Thesis/Repo/01_Introduction/01_entries/01.01.00_Background.md",
+    "Thesis/Repo/01_Introduction/01_entries/01.02.00_Chapters.md",
+    "Thesis/Repo/01_Introduction/01_entries/01.02.01_Disability_justice_and_life_affirmation_flipping_the_table.md",
+    "Thesis/Repo/01_Introduction/01_entries/01.02.02_Crip-Tic_of_Vignettes.md",
+    "Thesis/Repo/01_Introduction/01_entries/01.02.03_Disobedient_Action_Research_Cycles.md",
+    "Thesis/Repo/01_Introduction/01_entries/01.02.04_Configure-able_methods.md",
+    "Thesis/Repo/01_Introduction/01_entries/01.02.05_In-configure-ability.md",
+    "Thesis/Repo/01_Introduction/01_entries/01.02.06_A_Cozier_Configure-Ability.md",
+    "Thesis/Repo/01_Introduction/01_entries/01.03.00_Conclusion.md",
+    "Thesis/Repo/01_Introduction/01_entries/pandoc_order.odt",
+    "Thesis/Repo/01_Introduction/01_entries/pandoc_order.md",
+    "Thesis/Repo/01_Introduction/notes/00_Intro.md",
+    "Thesis/Repo/01_Introduction/notes/JB 22-07-2025.md",
+    "Thesis/Repo/01_Introduction/notes/meet JB.md",
+    "Thesis/Repo/01_Introduction/01_Introduction.md",
+    "Thesis/Repo/01_Introduction/01_Introduction_canvas.canvas",
+    "Thesis/Repo/01_Introduction/Intro status.md",
+    "Thesis/Repo/02_Disability_justice_and_life_affirmation_flipping_the_table/02_entries/02.00_Intro.md",
+    "Thesis/Repo/02_Disability_justice_and_life_affirmation_flipping_the_table/02_entries/02.01.00_Orienting_the_table.md",
+    "Thesis/Repo/02_Disability_justice_and_life_affirmation_flipping_the_table/02_entries/02.01.01_Sedimentation.md",
+    "Thesis/Repo/02_Disability_justice_and_life_affirmation_flipping_the_table/02_entries/02.01.02_Queering_the_axis.md",
+    "Thesis/Repo/02_Disability_justice_and_life_affirmation_flipping_the_table/02_entries/02.01.03_Transdisciplinary_practice.md",
+    "Thesis/Repo/02_Disability_justice_and_life_affirmation_flipping_the_table/02_entries/02.02.00_The_Crip_Table.md",
+    "Thesis/Repo/02_Disability_justice_and_life_affirmation_flipping_the_table/02_entries/02.02.01_PoliticalRelational_Model.md",
+    "Thesis/Repo/02_Disability_justice_and_life_affirmation_flipping_the_table/02_entries/02.02.02_Crip_Time_+_Crip_Futures.md",
+    "Thesis/Repo/02_Disability_justice_and_life_affirmation_flipping_the_table/02_entries/02.02.03_Crip_intersectionality.md",
+    "Thesis/Repo/02_Disability_justice_and_life_affirmation_flipping_the_table/02_entries/02.02.04_Cripping_Technoscience.md",
+    "Thesis/Repo/02_Disability_justice_and_life_affirmation_flipping_the_table/02_entries/02.03.00_Conclusion.md",
+    "Thesis/Repo/02_Disability_justice_and_life_affirmation_flipping_the_table/02_entries/pandoc_order.md",
+    "Thesis/Repo/02_Disability_justice_and_life_affirmation_flipping_the_table/feedback/KTD_Drafted/Table-of-Contents/Conclusion.md",
+    "Thesis/Repo/02_Disability_justice_and_life_affirmation_flipping_the_table/feedback/KTD_Drafted/Table-of-Contents/Orienting-the-table.md",
+    "Thesis/Repo/02_Disability_justice_and_life_affirmation_flipping_the_table/feedback/KTD_Drafted/Table-of-Contents/The-Crip-Table.md",
+    "Thesis/Repo/02_Disability_justice_and_life_affirmation_flipping_the_table/feedback/KTD_Drafted/Table-of-Contents-table-of-contents-.TOC-Heading/Conclusion.md",
+    "Thesis/Repo/02_Disability_justice_and_life_affirmation_flipping_the_table/feedback/KTD_Drafted/Table-of-Contents-table-of-contents-.TOC-Heading/Orienting-the-table.md",
+    "Thesis/Repo/02_Disability_justice_and_life_affirmation_flipping_the_table/feedback/KTD_Drafted/Table-of-Contents-table-of-contents-.TOC-Heading/The-Crip-Table.md",
+    "Thesis/Repo/02_Disability_justice_and_life_affirmation_flipping_the_table/feedback/KTD_Drafted/Table-of-Contents.md",
+    "Thesis/Repo/02_Disability_justice_and_life_affirmation_flipping_the_table/feedback/KTD_Drafted/Table-of-Contents-table-of-contents-.TOC-Heading.md",
+    "Thesis/Repo/02_Disability_justice_and_life_affirmation_flipping_the_table/feedback/feedback 12-10-2024.md",
+    "Thesis/Repo/02_Disability_justice_and_life_affirmation_flipping_the_table/feedback/Helen 2.md",
+    "Thesis/Repo/02_Disability_justice_and_life_affirmation_flipping_the_table/feedback/johannes.md",
+    "Thesis/Repo/02_Disability_justice_and_life_affirmation_flipping_the_table/feedback/Johannes 2.md",
+    "Thesis/Repo/02_Disability_justice_and_life_affirmation_flipping_the_table/feedback/KTD_Drafted.md",
+    "Thesis/Repo/02_Disability_justice_and_life_affirmation_flipping_the_table/feedback/table_KTD.docx",
+    "Thesis/Repo/02_Disability_justice_and_life_affirmation_flipping_the_table/02_Disability_justice_and_life_affirmation_flipping_the_table.md",
+    "Thesis/Repo/02_Disability_justice_and_life_affirmation_flipping_the_table/02_Disability_justice_and_life_affirmation_flipping_the_table.canvas",
+    "Thesis/Repo/02_Disability_justice_and_life_affirmation_flipping_the_table/02_status.md",
+    "Thesis/Repo/03_Crip-Tic_of_Vignettes/03_entries/03.00_Intro.md",
+    "Thesis/Repo/03_Crip-Tic_of_Vignettes/03_entries/03.01_The_research_table.md",
+    "Thesis/Repo/03_Crip-Tic_of_Vignettes/03_entries/03.02_The_computing_table.md",
+    "Thesis/Repo/03_Crip-Tic_of_Vignettes/03_entries/03.03_The_operating_table.md",
+    "Thesis/Repo/03_Crip-Tic_of_Vignettes/03_entries/03.04_The_crip_table.md",
+    "Thesis/Repo/03_Crip-Tic_of_Vignettes/03_entries/03.05_Dancing_with_tables.md",
+    "Thesis/Repo/03_Crip-Tic_of_Vignettes/03_entries/pandoc_order.md",
+    "Thesis/Repo/03_Crip-Tic_of_Vignettes/03_media/Cleen.png",
+    "Thesis/Repo/03_Crip-Tic_of_Vignettes/03_media/Rest Assured.png",
+    "Thesis/Repo/03_Crip-Tic_of_Vignettes/03_media/S4_360.png",
+    "Thesis/Repo/03_Crip-Tic_of_Vignettes/03_Crip-Tic_of_Vignettes.md",
+    "Thesis/Repo/03_Crip-Tic_of_Vignettes/03_Crip-Tic_of_vignettes_canvas.canvas",
+    "Thesis/Repo/04_Disobedient_Action_Research_Cycles/04_entries/04.00_Disobedient_Action_Research_Cycles.md",
+    "Thesis/Repo/04_Disobedient_Action_Research_Cycles/04_entries/04.01.00_Action-research.md",
+    "Thesis/Repo/04_Disobedient_Action_Research_Cycles/04_entries/04.02.00_Why-not-other_Action-Research.md",
+    "Thesis/Repo/04_Disobedient_Action_Research_Cycles/04_entries/04.03.00_Disobedient-action-research.md",
+    "Thesis/Repo/04_Disobedient_Action_Research_Cycles/04_entries/04.03.01_Bringing Disobedience_Into_Action.md",
+    "Thesis/Repo/04_Disobedient_Action_Research_Cycles/04_entries/04.04.00_Inquiring-into-inquiry.md",
+    "Thesis/Repo/04_Disobedient_Action_Research_Cycles/04_entries/04.04.01_Texture_1.md",
+    "Thesis/Repo/04_Disobedient_Action_Research_Cycles/04_entries/04.04.02_Texture_2.md",
+    "Thesis/Repo/04_Disobedient_Action_Research_Cycles/04_entries/04.05.00_What-was-Actioned.md",
+    "Thesis/Repo/04_Disobedient_Action_Research_Cycles/04_entries/04.06.00_Ethical-considerations.md",
+    "Thesis/Repo/04_Disobedient_Action_Research_Cycles/04_entries/04.07.00_Conclusion.md",
+    "Thesis/Repo/04_Disobedient_Action_Research_Cycles/04_entries/pandoc_order.md",
+    "Thesis/Repo/04_Disobedient_Action_Research_Cycles/04_media/Clyclez.png",
+    "Thesis/Repo/04_Disobedient_Action_Research_Cycles/04_media/cyclez.gif",
+    "Thesis/Repo/04_Disobedient_Action_Research_Cycles/04_media/Gplates_interface.png",
+    "Thesis/Repo/04_Disobedient_Action_Research_Cycles/04_media/LLI_Heron.png",
+    "Thesis/Repo/04_Disobedient_Action_Research_Cycles/04_media/Pad_Loop.png",
+    "Thesis/Repo/04_Disobedient_Action_Research_Cycles/04_media/weaving.gif",
+    "Thesis/Repo/04_Disobedient_Action_Research_Cycles/feedback/Helen + Dylan 13 mar 25.md",
+    "Thesis/Repo/04_Disobedient_Action_Research_Cycles/feedback/kt.md",
+    "Thesis/Repo/04_Disobedient_Action_Research_Cycles/04_Disobedient_Action_Research_Cycles.md",
+    "Thesis/Repo/04_Disobedient_Action_Research_Cycles/04_Disobedient_Action_Research_Cycles_Canvas.canvas",
+    "Thesis/Repo/04_Disobedient_Action_Research_Cycles/04_status.md",
+    "Thesis/Repo/05_Configure-Able_Methods/05_entries/05.00_Intro.md",
+    "Thesis/Repo/05_Configure-Able_Methods/05_entries/05.01.00_Figuring out a Genealogy of Configuration.md",
+    "Thesis/Repo/05_Configure-Able_Methods/05_entries/05.01.01.00_Figure.md",
+    "Thesis/Repo/05_Configure-Able_Methods/05_entries/05.01.02.00_Configuration.md",
+    "Thesis/Repo/05_Configure-Able_Methods/05_entries/05.01.02.01_The STS axis.md",
+    "Thesis/Repo/05_Configure-Able_Methods/05_entries/05.02.00_Inquiring into Critical Access.md",
+    "Thesis/Repo/05_Configure-Able_Methods/05_entries/05.02.01_Inquiring into Access-Knowled as configuration.md",
+    "Thesis/Repo/05_Configure-Able_Methods/05_entries/05.02.02_Cripping Configuration.md",
+    "Thesis/Repo/05_Configure-Able_Methods/05_entries/05.03.00_Conclusion.md",
+    "Thesis/Repo/05_Configure-Able_Methods/05_entries/pandoc_order.md",
+    "Thesis/Repo/05_Configure-Able_Methods/05_media/google excemption.png",
+    "Thesis/Repo/05_Configure-Able_Methods/feedback/22-04-25.md",
+    "Thesis/Repo/05_Configure-Able_Methods/05_Configure-able methods canvas.canvas",
+    "Thesis/Repo/05_Configure-Able_Methods/05_Configure-Able_Methods.md",
+    "Thesis/Repo/05_Configure-Able_Methods/05_status.md",
+    "Thesis/Repo/06_In-Configure-Ability/06_entries/06.00_Intro.md",
+    "Thesis/Repo/06_In-Configure-Ability/06_entries/06.01.00_Background.md",
+    "Thesis/Repo/06_In-Configure-Ability/06_entries/06.02.00_Processing In-Configure-ability.md",
+    "Thesis/Repo/06_In-Configure-Ability/06_entries/06.02.01.00_Figuring_out_Inflexibility.md",
+    "Thesis/Repo/06_In-Configure-Ability/06_entries/06.02.02.00_Figuring_out_In-flex-ability.md",
+    "Thesis/Repo/06_In-Configure-Ability/06_entries/06.02.02.01_De-re-clouding.md",
+    "Thesis/Repo/06_In-Configure-Ability/06_entries/06.02.02.02_Working groups and knowledge exchange.md",
+    "Thesis/Repo/06_In-Configure-Ability/06_entries/06.02.02.03_In-ternal_politics.md",
+    "Thesis/Repo/06_In-Configure-Ability/06_entries/06.02.03.00_Defining_In-flex-ability.md",
+    "Thesis/Repo/06_In-Configure-Ability/06_entries/06.03.00_Configure-ability_In-.md",
+    "Thesis/Repo/06_In-Configure-Ability/06_entries/06.03.01.00_Configure-ability_In-Docs.md",
+    "Thesis/Repo/06_In-Configure-Ability/06_entries/06.03.01.01_Inflexibility.md",
+    "Thesis/Repo/06_In-Configure-Ability/06_entries/06.03.01.02.00_in-flex-ability.md",
+    "Thesis/Repo/06_In-Configure-Ability/06_entries/06.03.01.02.01_In-Docs.md",
+    "Thesis/Repo/06_In-Configure-Ability/06_entries/06.03.01.02.02_In-Practice.md",
+    "Thesis/Repo/06_In-Configure-Ability/06_entries/06.03.02.00_Configure-ability_In-Workshops.md",
+    "Thesis/Repo/06_In-Configure-Ability/06_entries/06.03.02.01_Coding_protocols.md",
+    "Thesis/Repo/06_In-Configure-Ability/06_entries/06.03.02.02_SSH_protocols.md",
+    "Thesis/Repo/06_In-Configure-Ability/06_entries/06.03.02.03_Sudo_protocols.md",
+    "Thesis/Repo/06_In-Configure-Ability/06_entries/06.03.02.04_User_Protocols.md",
+    "Thesis/Repo/06_In-Configure-Ability/06_entries/06.03.02.05_Digital_safe_space_protocols.md",
+    "Thesis/Repo/06_In-Configure-Ability/06_entries/06.03.02.06_Collective_working_protocols..md",
+    "Thesis/Repo/06_In-Configure-Ability/06_entries/06.03.02.07_Manifesting_Femfester.md",
+    "Thesis/Repo/06_In-Configure-Ability/06_entries/06.04.00_In-reflection.md",
+    "Thesis/Repo/06_In-Configure-Ability/06_entries/pandoc_order.md",
+    "Thesis/Repo/06_In-Configure-Ability/06_media/Docs_Access_info.png",
+    "Thesis/Repo/06_In-Configure-Ability/06_media/image1.png",
+    "Thesis/Repo/06_In-Configure-Ability/06_media/tinclogo.png",
+    "Thesis/Repo/06_In-Configure-Ability/06_In-Configure-Ability.md",
+    "Thesis/Repo/06_In-Configure-Ability/06_In-Configure-Ability_canvas.canvas",
+    "Thesis/Repo/06_In-Configure-Ability/06_status.md",
+    "Thesis/Repo/07_A_Cozier_Configure-Able_Methods/07_entries/07.00_Intro.md",
+    "Thesis/Repo/07_A_Cozier_Configure-Able_Methods/07_entries/07.01_Background.md",
+    "Thesis/Repo/07_A_Cozier_Configure-Able_Methods/07_entries/07.02.00_Cozy_Intentions.md",
+    "Thesis/Repo/07_A_Cozier_Configure-Able_Methods/07_entries/07.02.01_Manifesting_intentions.md",
+    "Thesis/Repo/07_A_Cozier_Configure-Able_Methods/07_entries/07.02.02_Installing_Intentions.md",
+    "Thesis/Repo/07_A_Cozier_Configure-Able_Methods/07_entries/07.03.00_En-crip-ing_cozy_time.md",
+    "Thesis/Repo/07_A_Cozier_Configure-Able_Methods/07_entries/07.03.01_en-crip-ing_time.md",
+    "Thesis/Repo/07_A_Cozier_Configure-Able_Methods/07_entries/07.03.02_En-Crip-ing_HeadBody.md",
+    "Thesis/Repo/07_A_Cozier_Configure-Able_Methods/07_entries/07.03.03_En-crip-ing_kinship.md",
+    "Thesis/Repo/07_A_Cozier_Configure-Able_Methods/07_entries/07.03.04_En-crip-ing_academic_docs.md",
+    "Thesis/Repo/07_A_Cozier_Configure-Able_Methods/07_entries/07.04_Futures_x_Desires.md",
+    "Thesis/Repo/07_A_Cozier_Configure-Able_Methods/07_entries/pandoc_order.md",
+    "Thesis/Repo/07_A_Cozier_Configure-Able_Methods/07_A_Cozier_Configure-Able_Methods.md",
+    "Thesis/Repo/07_A_Cozier_Configure-Able_Methods/07_status.md",
+    "Thesis/Repo/07_A_Cozier_Configure-Able_Methods/A Cozier Configure-ability.canvas",
+    "Thesis/Repo/08_Practice/08.01_Background/F-Mnist/media/f-mnist dataset.gif",
+    "Thesis/Repo/08_Practice/08.01_Background/F-Mnist/F-MNIST Dataset.md",
+    "Thesis/Repo/08_Practice/08.01_Background/Neural Re-Presentation/media/neural representation.gif",
+    "Thesis/Repo/08_Practice/08.01_Background/Neural Re-Presentation/Neural Re-Presentation.md",
+    "Thesis/Repo/08_Practice/08.01_Background/Sentinel Self/media/Pasted image 20250821111813.png",
+    "Thesis/Repo/08_Practice/08.01_Background/Sentinel Self/Sentinel Self.md",
+    "Thesis/Repo/08_Practice/08.01_Background/08.01_Background.md",
+    "Thesis/Repo/08_Practice/08.01_Background/08.01_Background_canvas.canvas",
+    "Thesis/Repo/08_Practice/08.02_Configure-able/media/Pasted image 20250821112311.png",
+    "Thesis/Repo/08_Practice/08.02_Configure-able/Configure-able Infrastructures.md",
+    "Thesis/Repo/08_Practice/08.03_In-Grid/In-Docs/entries/Docs00 Contents - wiki4print.md",
+    "Thesis/Repo/08_Practice/08.03_In-Grid/In-Docs/media/Docs Infrastructure Diagram.jpeg",
+    "Thesis/Repo/08_Practice/08.03_In-Grid/In-Docs/media/Pasted image 20250823163046.png",
+    "Thesis/Repo/08_Practice/08.03_In-Grid/In-Docs/media/W4P_logo.png",
+    "Thesis/Repo/08_Practice/08.03_In-Grid/In-Docs/In-Docs.md",
+    "Thesis/Repo/08_Practice/08.03_In-Grid/In-fra Processing/entries/In-fra_processing working pad.md",
+    "Thesis/Repo/08_Practice/08.03_In-Grid/In-fra Processing/In-fra Processing.md",
+    "Thesis/Repo/08_Practice/08.03_In-Grid/Serving In-grid/entries/Femfester Manifesto.md",
+    "Thesis/Repo/08_Practice/08.03_In-Grid/Serving In-grid/entries/Serving In-grid Workshop slides.md",
+    "Thesis/Repo/08_Practice/08.03_In-Grid/Serving In-grid/entries/Workshop Pad.md",
+    "Thesis/Repo/08_Practice/08.03_In-Grid/Serving In-grid/media/Serving In-grid workshop day.jpeg",
+    "Thesis/Repo/08_Practice/08.03_In-Grid/Serving In-grid/media/Serving In-grid workshop day 2.jpg",
+    "Thesis/Repo/08_Practice/08.03_In-Grid/Serving In-grid/media/Serving_In-grid.png",
+    "Thesis/Repo/08_Practice/08.03_In-Grid/Serving In-grid/media/servpubDiagram2024.png",
+    "Thesis/Repo/08_Practice/08.03_In-Grid/Serving In-grid/media/servpubProjectMap.png",
+    "Thesis/Repo/08_Practice/08.03_In-Grid/Serving In-grid/media/slide1Asset 1.png",
+    "Thesis/Repo/08_Practice/08.03_In-Grid/Serving In-grid/media/SSHDiagram.jpg",
+    "Thesis/Repo/08_Practice/08.03_In-Grid/Serving In-grid/media/Usersdiagram.jpg",
+    "Thesis/Repo/08_Practice/08.03_In-Grid/Serving In-grid/Serving In-grid.md",
+    "Thesis/Repo/08_Practice/08.03_In-Grid/08.03_In-Grid.md",
+    "Thesis/Repo/08_Practice/08.03_In-Grid/08.03_In-grid_canvas.canvas",
+    "Thesis/Repo/08_Practice/08.04_Cozy-Cloud/Cozy_Night+Day/media/Cozy_Day.png",
+    "Thesis/Repo/08_Practice/08.04_Cozy-Cloud/Cozy_Night+Day/media/Cozy_Easy_Read.png",
+    "Thesis/Repo/08_Practice/08.04_Cozy-Cloud/Cozy_Night+Day/media/Cozy_Night.png",
+    "Thesis/Repo/08_Practice/08.04_Cozy-Cloud/Cozy_Night+Day/Cozy_Night+Day.md",
+    "Thesis/Repo/08_Practice/08.04_Cozy-Cloud/Cozy-Intentions/media/a cloud.png",
+    "Thesis/Repo/08_Practice/08.04_Cozy-Cloud/Cozy-Intentions/media/cozy-networks_bg.png",
+    "Thesis/Repo/08_Practice/08.04_Cozy-Cloud/Cozy-Intentions/media/infinite cozy.png",
+    "Thesis/Repo/08_Practice/08.04_Cozy-Cloud/Cozy-Intentions/media/less clouds more cozy.png",
+    "Thesis/Repo/08_Practice/08.04_Cozy-Cloud/Cozy-Intentions/media/lets-get-cozy.png",
+    "Thesis/Repo/08_Practice/08.04_Cozy-Cloud/Cozy-Intentions/Cozy Intentions Easy Read.pdf",
+    "Thesis/Repo/08_Practice/08.04_Cozy-Cloud/Cozy-Intentions/Cozy-Intentions.md",
+    "Thesis/Repo/08_Practice/08.04_Cozy-Cloud/Cozy-ish/Cozy-ish_theme/css/fengardoneue_regular-webfont.ttf",
+    "Thesis/Repo/08_Practice/08.04_Cozy-Cloud/Cozy-ish/Cozy-ish_theme/css/Minipax-Regular.woff",
+    "Thesis/Repo/08_Practice/08.04_Cozy-Cloud/Cozy-ish/Cozy-ish_theme/css/style.css",
+    "Thesis/Repo/08_Practice/08.04_Cozy-Cloud/Cozy-ish/Cozy-ish_theme/index.twig",
+    "Thesis/Repo/08_Practice/08.04_Cozy-Cloud/Cozy-ish/media/Pasted image 20250821171714.png",
+    "Thesis/Repo/08_Practice/08.04_Cozy-Cloud/Cozy-ish/Cozy-ish.md",
+    "Thesis/Repo/08_Practice/08.04_Cozy-Cloud/Cozy-ish/Cozy-ish_theme.zip",
+    "Thesis/Repo/08_Practice/08.04_Cozy-Cloud/En-crip-ing_time/media/en-crip-ed poem.png",
+    "Thesis/Repo/08_Practice/08.04_Cozy-Cloud/En-crip-ing_time/media/infrastructural intimacies.png",
+    "Thesis/Repo/08_Practice/08.04_Cozy-Cloud/En-crip-ing_time/media/Mesh Festival Cover Img.png",
+    "Thesis/Repo/08_Practice/08.04_Cozy-Cloud/En-crip-ing_time/En-crip-ing_time.md",
+    "Thesis/Repo/08_Practice/08.04_Cozy-Cloud/Serving Cozy/media/Base lazer outline.svg",
+    "Thesis/Repo/08_Practice/08.04_Cozy-Cloud/Serving Cozy/media/Cozy Flow.png",
+    "Thesis/Repo/08_Practice/08.04_Cozy-Cloud/Serving Cozy/media/Servering-Cozy  pillows.jpeg",
+    "Thesis/Repo/08_Practice/08.04_Cozy-Cloud/Serving Cozy/media/Servering-Cozy  screen.jpeg",
+    "Thesis/Repo/08_Practice/08.04_Cozy-Cloud/Serving Cozy/media/Serving Cozy in touch.png",
+    "Thesis/Repo/08_Practice/08.04_Cozy-Cloud/Serving Cozy/Serving Cozy.md",
+    "Thesis/Repo/08_Practice/08.04_Cozy-Cloud/08.04_Cozy-Cloud.md",
+    "Thesis/Repo/08_Practice/08.04_Cozy-Cloud/08.04_Cozy-Cloud_canvas.canvas",
+    "Thesis/Repo/08_Practice/08_Practice.canvas",
+    "Thesis/Repo/08_Practice/08_Practice.md",
+    "Thesis/Repo/09_Conclusion/09_entries/09.00_Intro.md",
+    "Thesis/Repo/09_Conclusion/09_entries/09.01_Reflecting_On_Configure-Able_Methods.md",
+    "Thesis/Repo/09_Conclusion/09_entries/09.02_Configure-Able_Futures.md",
+    "Thesis/Repo/09_Conclusion/09_entries/09.03_Iterating_Configure-Able_Methods.md",
+    "Thesis/Repo/09_Conclusion/09_entries/pandoc_order.md",
+    "Thesis/Repo/09_Conclusion/09_Conclusion.md",
+    "Thesis/Repo/09_Conclusion/09_Conclusion.canvas",
+    "Thesis/Repo/10_Bibliograpgy/10_entries/10_intro.md",
+    "Thesis/Repo/10_Bibliograpgy/10_entries/biblio.md",
+    "Thesis/Repo/10_Bibliograpgy/10_entries/Untitled Bibliography.rtf",
+    "Thesis/Repo/10_Bibliograpgy/10_entries/Untitled Bibliography.html",
+    "Thesis/Repo/10_Bibliograpgy/10_Bibliograpgy.md",
+    "Thesis/Repo/index.md",
+    "Thesis/Repo/Repo.md",
+    "Thesis/Repo/Thesis canvas.canvas",
+    "lib/media/s4_360.png",
+    "lib/media/cleen.png",
+    "lib/media/rest-assured.png",
+    "lib/media/gplates_interface.png",
+    "lib/media/clyclez.png",
+    "lib/media/pad_loop.png",
+    "lib/media/google-excemption.png",
+    "lib/media/pasted-image-20250821112311.png",
+    "lib/media/configure-able_poster.png",
+    "lib/media/image1.png",
+    "lib/media/w4p_logo.png",
+    "lib/media/docs-infrastructure-diagram.jpeg",
+    "lib/media/serving_in-grid.png",
+    "lib/media/servpubdiagram2024.png",
+    "lib/media/howdyterminal.png",
+    "lib/media/sshdiagram.jpg",
+    "lib/media/usersdiagram.jpg",
+    "lib/media/nanoofhtml.png",
+    "lib/media/cloud5.png",
+    "lib/scripts/graph-wasm.wasm",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/293fd13dbca5a3e450ef.woff2",
+    "lib/fonts/085cb93e613ba3d40d2b.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/6155340132a851f6089e.svg",
+    "lib/html/file-tree.html",
+    "lib/scripts/webpage.js",
+    "lib/scripts/graph-view.js",
+    "lib/scripts/graph-wasm.js",
+    "lib/scripts/graph-render-worker.js",
+    "lib/scripts/tinycolor.js",
+    "lib/scripts/pixi.js",
+    "lib/scripts/minisearch.js",
+    "lib/media/favicon.png",
+    "lib/scripts/graph-data.js",
+    "lib/styles/obsidian.css",
+    "lib/styles/global-variable-styles.css",
+    "lib/styles/main-styles.css",
+    "lib/styles/snippets.css"
+  ],
+  "mainDependencies": [
+    "lib/scripts/graph-wasm.wasm",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/293fd13dbca5a3e450ef.woff2",
+    "lib/fonts/085cb93e613ba3d40d2b.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/6155340132a851f6089e.svg",
+    "lib/html/file-tree.html",
+    "lib/scripts/webpage.js",
+    "lib/scripts/graph-view.js",
+    "lib/scripts/graph-wasm.js",
+    "lib/scripts/graph-render-worker.js",
+    "lib/scripts/tinycolor.js",
+    "lib/scripts/pixi.js",
+    "lib/scripts/minisearch.js",
+    "lib/media/favicon.png",
+    "lib/scripts/graph-data.js",
+    "lib/styles/obsidian.css",
+    "lib/styles/global-variable-styles.css",
+    "lib/styles/main-styles.css",
+    "lib/styles/snippets.css"
+  ],
+  "fileInfo": {
+    "Thesis/Repo/00_acknoledgments/00_acknoledgments.md": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 245,
+      "exportedPath": "thesis/repo/00_acknoledgments/00_acknoledgments.html",
+      "dependencies": []
+    },
+    "Thesis/Repo/01_Introduction/01_entries/01.00_Intro.md": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 4281,
+      "exportedPath": "thesis/repo/01_introduction/01_entries/01.00_intro.html",
+      "dependencies": []
+    },
+    "Thesis/Repo/01_Introduction/01_entries/01.01.00_Background.md": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 8772,
+      "exportedPath": "thesis/repo/01_introduction/01_entries/01.01.00_background.html",
+      "dependencies": []
+    },
+    "Thesis/Repo/01_Introduction/01_entries/01.02.00_Chapters.md": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 96,
+      "exportedPath": "thesis/repo/01_introduction/01_entries/01.02.00_chapters.html",
+      "dependencies": []
+    },
+    "Thesis/Repo/01_Introduction/01_entries/01.02.01_Disability_justice_and_life_affirmation_flipping_the_table.md": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 3421,
+      "exportedPath": "thesis/repo/01_introduction/01_entries/01.02.01_disability_justice_and_life_affirmation_flipping_the_table.html",
+      "dependencies": []
+    },
+    "Thesis/Repo/01_Introduction/01_entries/01.02.02_Crip-Tic_of_Vignettes.md": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 5422,
+      "exportedPath": "thesis/repo/01_introduction/01_entries/01.02.02_crip-tic_of_vignettes.html",
+      "dependencies": []
+    },
+    "Thesis/Repo/01_Introduction/01_entries/01.02.03_Disobedient_Action_Research_Cycles.md": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 3087,
+      "exportedPath": "thesis/repo/01_introduction/01_entries/01.02.03_disobedient_action_research_cycles.html",
+      "dependencies": []
+    },
+    "Thesis/Repo/01_Introduction/01_entries/01.02.04_Configure-able_methods.md": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 3856,
+      "exportedPath": "thesis/repo/01_introduction/01_entries/01.02.04_configure-able_methods.html",
+      "dependencies": []
+    },
+    "Thesis/Repo/01_Introduction/01_entries/01.02.05_In-configure-ability.md": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 3015,
+      "exportedPath": "thesis/repo/01_introduction/01_entries/01.02.05_in-configure-ability.html",
+      "dependencies": []
+    },
+    "Thesis/Repo/01_Introduction/01_entries/01.02.06_A_Cozier_Configure-Ability.md": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 4652,
+      "exportedPath": "thesis/repo/01_introduction/01_entries/01.02.06_a_cozier_configure-ability.html",
+      "dependencies": []
+    },
+    "Thesis/Repo/01_Introduction/01_entries/01.03.00_Conclusion.md": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 694,
+      "exportedPath": "thesis/repo/01_introduction/01_entries/01.03.00_conclusion.html",
+      "dependencies": []
+    },
+    "Thesis/Repo/01_Introduction/01_entries/pandoc_order.odt": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 22783,
+      "exportedPath": "thesis/repo/01_introduction/01_entries/pandoc_order.odt",
+      "dependencies": []
+    },
+    "Thesis/Repo/01_Introduction/01_entries/pandoc_order.md": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 394,
+      "exportedPath": "thesis/repo/01_introduction/01_entries/pandoc_order.html",
+      "dependencies": []
+    },
+    "Thesis/Repo/01_Introduction/notes/00_Intro.md": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 2412,
+      "exportedPath": "thesis/repo/01_introduction/notes/00_intro.html",
+      "dependencies": []
+    },
+    "Thesis/Repo/01_Introduction/notes/JB 22-07-2025.md": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 343,
+      "exportedPath": "thesis/repo/01_introduction/notes/jb-22-07-2025.html",
+      "dependencies": []
+    },
+    "Thesis/Repo/01_Introduction/notes/meet JB.md": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 0,
+      "exportedPath": "thesis/repo/01_introduction/notes/meet-jb.html",
+      "dependencies": []
+    },
+    "Thesis/Repo/01_Introduction/01_Introduction.md": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 627,
+      "exportedPath": "thesis/repo/01_introduction/01_introduction.html",
+      "dependencies": []
+    },
+    "Thesis/Repo/01_Introduction/01_Introduction_canvas.canvas": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 5359,
+      "exportedPath": "thesis/repo/01_introduction/01_introduction_canvas.html",
+      "dependencies": []
+    },
+    "Thesis/Repo/01_Introduction/Intro status.md": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 174,
+      "exportedPath": "thesis/repo/01_introduction/intro-status.html",
+      "dependencies": []
+    },
+    "Thesis/Repo/02_Disability_justice_and_life_affirmation_flipping_the_table/02_entries/02.00_Intro.md": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 4799,
+      "exportedPath": "thesis/repo/02_disability_justice_and_life_affirmation_flipping_the_table/02_entries/02.00_intro.html",
+      "dependencies": []
+    },
+    "Thesis/Repo/02_Disability_justice_and_life_affirmation_flipping_the_table/02_entries/02.01.00_Orienting_the_table.md": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 4075,
+      "exportedPath": "thesis/repo/02_disability_justice_and_life_affirmation_flipping_the_table/02_entries/02.01.00_orienting_the_table.html",
+      "dependencies": []
+    },
+    "Thesis/Repo/02_Disability_justice_and_life_affirmation_flipping_the_table/02_entries/02.01.01_Sedimentation.md": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 3491,
+      "exportedPath": "thesis/repo/02_disability_justice_and_life_affirmation_flipping_the_table/02_entries/02.01.01_sedimentation.html",
+      "dependencies": []
+    },
+    "Thesis/Repo/02_Disability_justice_and_life_affirmation_flipping_the_table/02_entries/02.01.02_Queering_the_axis.md": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 7042,
+      "exportedPath": "thesis/repo/02_disability_justice_and_life_affirmation_flipping_the_table/02_entries/02.01.02_queering_the_axis.html",
+      "dependencies": []
+    },
+    "Thesis/Repo/02_Disability_justice_and_life_affirmation_flipping_the_table/02_entries/02.01.03_Transdisciplinary_practice.md": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 2793,
+      "exportedPath": "thesis/repo/02_disability_justice_and_life_affirmation_flipping_the_table/02_entries/02.01.03_transdisciplinary_practice.html",
+      "dependencies": []
+    },
+    "Thesis/Repo/02_Disability_justice_and_life_affirmation_flipping_the_table/02_entries/02.02.00_The_Crip_Table.md": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 2217,
+      "exportedPath": "thesis/repo/02_disability_justice_and_life_affirmation_flipping_the_table/02_entries/02.02.00_the_crip_table.html",
+      "dependencies": []
+    },
+    "Thesis/Repo/02_Disability_justice_and_life_affirmation_flipping_the_table/02_entries/02.02.01_PoliticalRelational_Model.md": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 6485,
+      "exportedPath": "thesis/repo/02_disability_justice_and_life_affirmation_flipping_the_table/02_entries/02.02.01_politicalrelational_model.html",
+      "dependencies": []
+    },
+    "Thesis/Repo/02_Disability_justice_and_life_affirmation_flipping_the_table/02_entries/02.02.02_Crip_Time_+_Crip_Futures.md": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 13154,
+      "exportedPath": "thesis/repo/02_disability_justice_and_life_affirmation_flipping_the_table/02_entries/02.02.02_crip_time_+_crip_futures.html",
+      "dependencies": []
+    },
+    "Thesis/Repo/02_Disability_justice_and_life_affirmation_flipping_the_table/02_entries/02.02.03_Crip_intersectionality.md": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 15470,
+      "exportedPath": "thesis/repo/02_disability_justice_and_life_affirmation_flipping_the_table/02_entries/02.02.03_crip_intersectionality.html",
+      "dependencies": []
+    },
+    "Thesis/Repo/02_Disability_justice_and_life_affirmation_flipping_the_table/02_entries/02.02.04_Cripping_Technoscience.md": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 24669,
+      "exportedPath": "thesis/repo/02_disability_justice_and_life_affirmation_flipping_the_table/02_entries/02.02.04_cripping_technoscience.html",
+      "dependencies": []
+    },
+    "Thesis/Repo/02_Disability_justice_and_life_affirmation_flipping_the_table/02_entries/02.03.00_Conclusion.md": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 3861,
+      "exportedPath": "thesis/repo/02_disability_justice_and_life_affirmation_flipping_the_table/02_entries/02.03.00_conclusion.html",
+      "dependencies": []
+    },
+    "Thesis/Repo/02_Disability_justice_and_life_affirmation_flipping_the_table/02_entries/pandoc_order.md": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 394,
+      "exportedPath": "thesis/repo/02_disability_justice_and_life_affirmation_flipping_the_table/02_entries/pandoc_order.html",
+      "dependencies": []
+    },
+    "Thesis/Repo/02_Disability_justice_and_life_affirmation_flipping_the_table/feedback/KTD_Drafted/Table-of-Contents/Conclusion.md": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 12624,
+      "exportedPath": "thesis/repo/02_disability_justice_and_life_affirmation_flipping_the_table/feedback/ktd_drafted/table-of-contents/conclusion.html",
+      "dependencies": []
+    },
+    "Thesis/Repo/02_Disability_justice_and_life_affirmation_flipping_the_table/feedback/KTD_Drafted/Table-of-Contents/Orienting-the-table.md": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 14803,
+      "exportedPath": "thesis/repo/02_disability_justice_and_life_affirmation_flipping_the_table/feedback/ktd_drafted/table-of-contents/orienting-the-table.html",
+      "dependencies": []
+    },
+    "Thesis/Repo/02_Disability_justice_and_life_affirmation_flipping_the_table/feedback/KTD_Drafted/Table-of-Contents/The-Crip-Table.md": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 56143,
+      "exportedPath": "thesis/repo/02_disability_justice_and_life_affirmation_flipping_the_table/feedback/ktd_drafted/table-of-contents/the-crip-table.html",
+      "dependencies": []
+    },
+    "Thesis/Repo/02_Disability_justice_and_life_affirmation_flipping_the_table/feedback/KTD_Drafted/Table-of-Contents-table-of-contents-.TOC-Heading/Conclusion.md": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 12595,
+      "exportedPath": "thesis/repo/02_disability_justice_and_life_affirmation_flipping_the_table/feedback/ktd_drafted/table-of-contents-table-of-contents-.toc-heading/conclusion.html",
+      "dependencies": []
+    },
+    "Thesis/Repo/02_Disability_justice_and_life_affirmation_flipping_the_table/feedback/KTD_Drafted/Table-of-Contents-table-of-contents-.TOC-Heading/Orienting-the-table.md": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 14793,
+      "exportedPath": "thesis/repo/02_disability_justice_and_life_affirmation_flipping_the_table/feedback/ktd_drafted/table-of-contents-table-of-contents-.toc-heading/orienting-the-table.html",
+      "dependencies": []
+    },
+    "Thesis/Repo/02_Disability_justice_and_life_affirmation_flipping_the_table/feedback/KTD_Drafted/Table-of-Contents-table-of-contents-.TOC-Heading/The-Crip-Table.md": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 56125,
+      "exportedPath": "thesis/repo/02_disability_justice_and_life_affirmation_flipping_the_table/feedback/ktd_drafted/table-of-contents-table-of-contents-.toc-heading/the-crip-table.html",
+      "dependencies": []
+    },
+    "Thesis/Repo/02_Disability_justice_and_life_affirmation_flipping_the_table/feedback/KTD_Drafted/Table-of-Contents.md": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 4447,
+      "exportedPath": "thesis/repo/02_disability_justice_and_life_affirmation_flipping_the_table/feedback/ktd_drafted/table-of-contents.html",
+      "dependencies": []
+    },
+    "Thesis/Repo/02_Disability_justice_and_life_affirmation_flipping_the_table/feedback/KTD_Drafted/Table-of-Contents-table-of-contents-.TOC-Heading.md": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 5137,
+      "exportedPath": "thesis/repo/02_disability_justice_and_life_affirmation_flipping_the_table/feedback/ktd_drafted/table-of-contents-table-of-contents-.toc-heading.html",
+      "dependencies": []
+    },
+    "Thesis/Repo/02_Disability_justice_and_life_affirmation_flipping_the_table/feedback/feedback 12-10-2024.md": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 235,
+      "exportedPath": "thesis/repo/02_disability_justice_and_life_affirmation_flipping_the_table/feedback/feedback-12-10-2024.html",
+      "dependencies": []
+    },
+    "Thesis/Repo/02_Disability_justice_and_life_affirmation_flipping_the_table/feedback/Helen 2.md": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 203,
+      "exportedPath": "thesis/repo/02_disability_justice_and_life_affirmation_flipping_the_table/feedback/helen-2.html",
+      "dependencies": []
+    },
+    "Thesis/Repo/02_Disability_justice_and_life_affirmation_flipping_the_table/feedback/johannes.md": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 1104,
+      "exportedPath": "thesis/repo/02_disability_justice_and_life_affirmation_flipping_the_table/feedback/johannes.html",
+      "dependencies": []
+    },
+    "Thesis/Repo/02_Disability_justice_and_life_affirmation_flipping_the_table/feedback/Johannes 2.md": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 219,
+      "exportedPath": "thesis/repo/02_disability_justice_and_life_affirmation_flipping_the_table/feedback/johannes-2.html",
+      "dependencies": []
+    },
+    "Thesis/Repo/02_Disability_justice_and_life_affirmation_flipping_the_table/feedback/KTD_Drafted.md": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 88650,
+      "exportedPath": "thesis/repo/02_disability_justice_and_life_affirmation_flipping_the_table/feedback/ktd_drafted.html",
+      "dependencies": []
+    },
+    "Thesis/Repo/02_Disability_justice_and_life_affirmation_flipping_the_table/feedback/table_KTD.docx": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 49536,
+      "exportedPath": "thesis/repo/02_disability_justice_and_life_affirmation_flipping_the_table/feedback/table_ktd.docx",
+      "dependencies": []
+    },
+    "Thesis/Repo/02_Disability_justice_and_life_affirmation_flipping_the_table/02_Disability_justice_and_life_affirmation_flipping_the_table.md": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 717,
+      "exportedPath": "thesis/repo/02_disability_justice_and_life_affirmation_flipping_the_table/02_disability_justice_and_life_affirmation_flipping_the_table.html",
+      "dependencies": []
+    },
+    "Thesis/Repo/02_Disability_justice_and_life_affirmation_flipping_the_table/02_Disability_justice_and_life_affirmation_flipping_the_table.canvas": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 5371,
+      "exportedPath": "thesis/repo/02_disability_justice_and_life_affirmation_flipping_the_table/02_disability_justice_and_life_affirmation_flipping_the_table.html",
+      "dependencies": []
+    },
+    "Thesis/Repo/02_Disability_justice_and_life_affirmation_flipping_the_table/02_status.md": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 300,
+      "exportedPath": "thesis/repo/02_disability_justice_and_life_affirmation_flipping_the_table/02_status.html",
+      "dependencies": []
+    },
+    "Thesis/Repo/03_Crip-Tic_of_Vignettes/03_entries/03.00_Intro.md": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 2199,
+      "exportedPath": "thesis/repo/03_crip-tic_of_vignettes/03_entries/03.00_intro.html",
+      "dependencies": []
+    },
+    "Thesis/Repo/03_Crip-Tic_of_Vignettes/03_entries/03.01_The_research_table.md": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 16233,
+      "exportedPath": "thesis/repo/03_crip-tic_of_vignettes/03_entries/03.01_the_research_table.html",
+      "dependencies": []
+    },
+    "Thesis/Repo/03_Crip-Tic_of_Vignettes/03_entries/03.02_The_computing_table.md": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 12794,
+      "exportedPath": "thesis/repo/03_crip-tic_of_vignettes/03_entries/03.02_the_computing_table.html",
+      "dependencies": [
+        "lib/media/s4_360.png"
+      ]
+    },
+    "Thesis/Repo/03_Crip-Tic_of_Vignettes/03_entries/03.03_The_operating_table.md": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 22231,
+      "exportedPath": "thesis/repo/03_crip-tic_of_vignettes/03_entries/03.03_the_operating_table.html",
+      "dependencies": [
+        "lib/media/cleen.png"
+      ]
+    },
+    "Thesis/Repo/03_Crip-Tic_of_Vignettes/03_entries/03.04_The_crip_table.md": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 9414,
+      "exportedPath": "thesis/repo/03_crip-tic_of_vignettes/03_entries/03.04_the_crip_table.html",
+      "dependencies": [
+        "lib/media/rest-assured.png"
+      ]
+    },
+    "Thesis/Repo/03_Crip-Tic_of_Vignettes/03_entries/03.05_Dancing_with_tables.md": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 2409,
+      "exportedPath": "thesis/repo/03_crip-tic_of_vignettes/03_entries/03.05_dancing_with_tables.html",
+      "dependencies": []
+    },
+    "Thesis/Repo/03_Crip-Tic_of_Vignettes/03_entries/pandoc_order.md": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 191,
+      "exportedPath": "thesis/repo/03_crip-tic_of_vignettes/03_entries/pandoc_order.html",
+      "dependencies": []
+    },
+    "Thesis/Repo/03_Crip-Tic_of_Vignettes/03_media/Cleen.png": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 409116,
+      "exportedPath": "thesis/repo/03_crip-tic_of_vignettes/03_media/cleen.png",
+      "dependencies": []
+    },
+    "Thesis/Repo/03_Crip-Tic_of_Vignettes/03_media/Rest Assured.png": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 1345990,
+      "exportedPath": "thesis/repo/03_crip-tic_of_vignettes/03_media/rest-assured.png",
+      "dependencies": []
+    },
+    "Thesis/Repo/03_Crip-Tic_of_Vignettes/03_media/S4_360.png": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 81873,
+      "exportedPath": "thesis/repo/03_crip-tic_of_vignettes/03_media/s4_360.png",
+      "dependencies": []
+    },
+    "Thesis/Repo/03_Crip-Tic_of_Vignettes/03_Crip-Tic_of_Vignettes.md": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 394,
+      "exportedPath": "thesis/repo/03_crip-tic_of_vignettes/03_crip-tic_of_vignettes.html",
+      "dependencies": [
+        "thesis/repo/03_crip-tic_of_vignettes/03_media/rest-assured.png"
+      ]
+    },
+    "Thesis/Repo/03_Crip-Tic_of_Vignettes/03_Crip-Tic_of_vignettes_canvas.canvas": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 3272,
+      "exportedPath": "thesis/repo/03_crip-tic_of_vignettes/03_crip-tic_of_vignettes_canvas.html",
+      "dependencies": [
+        "thesis/repo/03_crip-tic_of_vignettes/03_media/rest-assured.png",
+        "thesis/repo/03_crip-tic_of_vignettes/03_media/s4_360.png",
+        "thesis/repo/03_crip-tic_of_vignettes/03_media/cleen.png",
+        "thesis/repo/03_crip-tic_of_vignettes/03_media/rest-assured.png"
+      ]
+    },
+    "Thesis/Repo/04_Disobedient_Action_Research_Cycles/04_entries/04.00_Disobedient_Action_Research_Cycles.md": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 2048,
+      "exportedPath": "thesis/repo/04_disobedient_action_research_cycles/04_entries/04.00_disobedient_action_research_cycles.html",
+      "dependencies": []
+    },
+    "Thesis/Repo/04_Disobedient_Action_Research_Cycles/04_entries/04.01.00_Action-research.md": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 14832,
+      "exportedPath": "thesis/repo/04_disobedient_action_research_cycles/04_entries/04.01.00_action-research.html",
+      "dependencies": []
+    },
+    "Thesis/Repo/04_Disobedient_Action_Research_Cycles/04_entries/04.02.00_Why-not-other_Action-Research.md": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 1850,
+      "exportedPath": "thesis/repo/04_disobedient_action_research_cycles/04_entries/04.02.00_why-not-other_action-research.html",
+      "dependencies": []
+    },
+    "Thesis/Repo/04_Disobedient_Action_Research_Cycles/04_entries/04.03.00_Disobedient-action-research.md": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 13620,
+      "exportedPath": "thesis/repo/04_disobedient_action_research_cycles/04_entries/04.03.00_disobedient-action-research.html",
+      "dependencies": [
+        "lib/media/gplates_interface.png"
+      ]
+    },
+    "Thesis/Repo/04_Disobedient_Action_Research_Cycles/04_entries/04.03.01_Bringing Disobedience_Into_Action.md": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 3634,
+      "exportedPath": "thesis/repo/04_disobedient_action_research_cycles/04_entries/04.03.01_bringing-disobedience_into_action.html",
+      "dependencies": []
+    },
+    "Thesis/Repo/04_Disobedient_Action_Research_Cycles/04_entries/04.04.00_Inquiring-into-inquiry.md": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 980,
+      "exportedPath": "thesis/repo/04_disobedient_action_research_cycles/04_entries/04.04.00_inquiring-into-inquiry.html",
+      "dependencies": []
+    },
+    "Thesis/Repo/04_Disobedient_Action_Research_Cycles/04_entries/04.04.01_Texture_1.md": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 1090,
+      "exportedPath": "thesis/repo/04_disobedient_action_research_cycles/04_entries/04.04.01_texture_1.html",
+      "dependencies": [
+        "lib/media/clyclez.png"
+      ]
+    },
+    "Thesis/Repo/04_Disobedient_Action_Research_Cycles/04_entries/04.04.02_Texture_2.md": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 2289,
+      "exportedPath": "thesis/repo/04_disobedient_action_research_cycles/04_entries/04.04.02_texture_2.html",
+      "dependencies": [
+        "lib/media/pad_loop.png"
+      ]
+    },
+    "Thesis/Repo/04_Disobedient_Action_Research_Cycles/04_entries/04.05.00_What-was-Actioned.md": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 2266,
+      "exportedPath": "thesis/repo/04_disobedient_action_research_cycles/04_entries/04.05.00_what-was-actioned.html",
+      "dependencies": []
+    },
+    "Thesis/Repo/04_Disobedient_Action_Research_Cycles/04_entries/04.06.00_Ethical-considerations.md": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 3883,
+      "exportedPath": "thesis/repo/04_disobedient_action_research_cycles/04_entries/04.06.00_ethical-considerations.html",
+      "dependencies": []
+    },
+    "Thesis/Repo/04_Disobedient_Action_Research_Cycles/04_entries/04.07.00_Conclusion.md": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 1190,
+      "exportedPath": "thesis/repo/04_disobedient_action_research_cycles/04_entries/04.07.00_conclusion.html",
+      "dependencies": []
+    },
+    "Thesis/Repo/04_Disobedient_Action_Research_Cycles/04_entries/pandoc_order.md": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 424,
+      "exportedPath": "thesis/repo/04_disobedient_action_research_cycles/04_entries/pandoc_order.html",
+      "dependencies": []
+    },
+    "Thesis/Repo/04_Disobedient_Action_Research_Cycles/04_media/Clyclez.png": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 871803,
+      "exportedPath": "thesis/repo/04_disobedient_action_research_cycles/04_media/clyclez.png",
+      "dependencies": []
+    },
+    "Thesis/Repo/04_Disobedient_Action_Research_Cycles/04_media/cyclez.gif": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 689110,
+      "exportedPath": "thesis/repo/04_disobedient_action_research_cycles/04_media/cyclez.gif",
+      "dependencies": []
+    },
+    "Thesis/Repo/04_Disobedient_Action_Research_Cycles/04_media/Gplates_interface.png": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 312888,
+      "exportedPath": "thesis/repo/04_disobedient_action_research_cycles/04_media/gplates_interface.png",
+      "dependencies": []
+    },
+    "Thesis/Repo/04_Disobedient_Action_Research_Cycles/04_media/LLI_Heron.png": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 184795,
+      "exportedPath": "thesis/repo/04_disobedient_action_research_cycles/04_media/lli_heron.png",
+      "dependencies": []
+    },
+    "Thesis/Repo/04_Disobedient_Action_Research_Cycles/04_media/Pad_Loop.png": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 138468,
+      "exportedPath": "thesis/repo/04_disobedient_action_research_cycles/04_media/pad_loop.png",
+      "dependencies": []
+    },
+    "Thesis/Repo/04_Disobedient_Action_Research_Cycles/04_media/weaving.gif": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 6674579,
+      "exportedPath": "thesis/repo/04_disobedient_action_research_cycles/04_media/weaving.gif",
+      "dependencies": []
+    },
+    "Thesis/Repo/04_Disobedient_Action_Research_Cycles/feedback/Helen + Dylan 13 mar 25.md": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 1085,
+      "exportedPath": "thesis/repo/04_disobedient_action_research_cycles/feedback/helen-+-dylan-13-mar-25.html",
+      "dependencies": []
+    },
+    "Thesis/Repo/04_Disobedient_Action_Research_Cycles/feedback/kt.md": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 814,
+      "exportedPath": "thesis/repo/04_disobedient_action_research_cycles/feedback/kt.html",
+      "dependencies": []
+    },
+    "Thesis/Repo/04_Disobedient_Action_Research_Cycles/04_Disobedient_Action_Research_Cycles.md": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 821,
+      "exportedPath": "thesis/repo/04_disobedient_action_research_cycles/04_disobedient_action_research_cycles.html",
+      "dependencies": [
+        "thesis/repo/04_disobedient_action_research_cycles/04_media/clyclez.png",
+        "thesis/repo/04_disobedient_action_research_cycles/04_media/pad_loop.png"
+      ]
+    },
+    "Thesis/Repo/04_Disobedient_Action_Research_Cycles/04_Disobedient_Action_Research_Cycles_Canvas.canvas": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 4555,
+      "exportedPath": "thesis/repo/04_disobedient_action_research_cycles/04_disobedient_action_research_cycles_canvas.html",
+      "dependencies": [
+        "thesis/repo/04_disobedient_action_research_cycles/04_media/gplates_interface.png",
+        "thesis/repo/04_disobedient_action_research_cycles/04_media/pad_loop.png",
+        "thesis/repo/04_disobedient_action_research_cycles/04_media/clyclez.png"
+      ]
+    },
+    "Thesis/Repo/04_Disobedient_Action_Research_Cycles/04_status.md": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 241,
+      "exportedPath": "thesis/repo/04_disobedient_action_research_cycles/04_status.html",
+      "dependencies": []
+    },
+    "Thesis/Repo/05_Configure-Able_Methods/05_entries/05.00_Intro.md": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 1977,
+      "exportedPath": "thesis/repo/05_configure-able_methods/05_entries/05.00_intro.html",
+      "dependencies": []
+    },
+    "Thesis/Repo/05_Configure-Able_Methods/05_entries/05.01.00_Figuring out a Genealogy of Configuration.md": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 1705,
+      "exportedPath": "thesis/repo/05_configure-able_methods/05_entries/05.01.00_figuring-out-a-genealogy-of-configuration.html",
+      "dependencies": []
+    },
+    "Thesis/Repo/05_Configure-Able_Methods/05_entries/05.01.01.00_Figure.md": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 6367,
+      "exportedPath": "thesis/repo/05_configure-able_methods/05_entries/05.01.01.00_figure.html",
+      "dependencies": []
+    },
+    "Thesis/Repo/05_Configure-Able_Methods/05_entries/05.01.02.00_Configuration.md": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 3735,
+      "exportedPath": "thesis/repo/05_configure-able_methods/05_entries/05.01.02.00_configuration.html",
+      "dependencies": []
+    },
+    "Thesis/Repo/05_Configure-Able_Methods/05_entries/05.01.02.01_The STS axis.md": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 6317,
+      "exportedPath": "thesis/repo/05_configure-able_methods/05_entries/05.01.02.01_the-sts-axis.html",
+      "dependencies": []
+    },
+    "Thesis/Repo/05_Configure-Able_Methods/05_entries/05.02.00_Inquiring into Critical Access.md": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 10735,
+      "exportedPath": "thesis/repo/05_configure-able_methods/05_entries/05.02.00_inquiring-into-critical-access.html",
+      "dependencies": []
+    },
+    "Thesis/Repo/05_Configure-Able_Methods/05_entries/05.02.01_Inquiring into Access-Knowled as configuration.md": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 17957,
+      "exportedPath": "thesis/repo/05_configure-able_methods/05_entries/05.02.01_inquiring-into-access-knowled-as-configuration.html",
+      "dependencies": [
+        "lib/media/google-excemption.png"
+      ]
+    },
+    "Thesis/Repo/05_Configure-Able_Methods/05_entries/05.02.02_Cripping Configuration.md": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 14498,
+      "exportedPath": "thesis/repo/05_configure-able_methods/05_entries/05.02.02_cripping-configuration.html",
+      "dependencies": []
+    },
+    "Thesis/Repo/05_Configure-Able_Methods/05_entries/05.03.00_Conclusion.md": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 1303,
+      "exportedPath": "thesis/repo/05_configure-able_methods/05_entries/05.03.00_conclusion.html",
+      "dependencies": []
+    },
+    "Thesis/Repo/05_Configure-Able_Methods/05_entries/pandoc_order.md": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 357,
+      "exportedPath": "thesis/repo/05_configure-able_methods/05_entries/pandoc_order.html",
+      "dependencies": []
+    },
+    "Thesis/Repo/05_Configure-Able_Methods/05_media/google excemption.png": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 91326,
+      "exportedPath": "thesis/repo/05_configure-able_methods/05_media/google-excemption.png",
+      "dependencies": []
+    },
+    "Thesis/Repo/05_Configure-Able_Methods/feedback/22-04-25.md": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 548,
+      "exportedPath": "thesis/repo/05_configure-able_methods/feedback/22-04-25.html",
+      "dependencies": []
+    },
+    "Thesis/Repo/05_Configure-Able_Methods/05_Configure-able methods canvas.canvas": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 4704,
+      "exportedPath": "thesis/repo/05_configure-able_methods/05_configure-able-methods-canvas.html",
+      "dependencies": [
+        "thesis/repo/05_configure-able_methods/05_media/google-excemption.png",
+        "lib/media/pasted-image-20250821112311.png",
+        "lib/media/configure-able_poster.png"
+      ]
+    },
+    "Thesis/Repo/05_Configure-Able_Methods/05_Configure-Able_Methods.md": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 667,
+      "exportedPath": "thesis/repo/05_configure-able_methods/05_configure-able_methods.html",
+      "dependencies": []
+    },
+    "Thesis/Repo/05_Configure-Able_Methods/05_status.md": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 454,
+      "exportedPath": "thesis/repo/05_configure-able_methods/05_status.html",
+      "dependencies": []
+    },
+    "Thesis/Repo/06_In-Configure-Ability/06_entries/06.00_Intro.md": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 3598,
+      "exportedPath": "thesis/repo/06_in-configure-ability/06_entries/06.00_intro.html",
+      "dependencies": []
+    },
+    "Thesis/Repo/06_In-Configure-Ability/06_entries/06.01.00_Background.md": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 3461,
+      "exportedPath": "thesis/repo/06_in-configure-ability/06_entries/06.01.00_background.html",
+      "dependencies": []
+    },
+    "Thesis/Repo/06_In-Configure-Ability/06_entries/06.02.00_Processing In-Configure-ability.md": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 1374,
+      "exportedPath": "thesis/repo/06_in-configure-ability/06_entries/06.02.00_processing-in-configure-ability.html",
+      "dependencies": []
+    },
+    "Thesis/Repo/06_In-Configure-Ability/06_entries/06.02.01.00_Figuring_out_Inflexibility.md": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 2974,
+      "exportedPath": "thesis/repo/06_in-configure-ability/06_entries/06.02.01.00_figuring_out_inflexibility.html",
+      "dependencies": []
+    },
+    "Thesis/Repo/06_In-Configure-Ability/06_entries/06.02.02.00_Figuring_out_In-flex-ability.md": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 882,
+      "exportedPath": "thesis/repo/06_in-configure-ability/06_entries/06.02.02.00_figuring_out_in-flex-ability.html",
+      "dependencies": []
+    },
+    "Thesis/Repo/06_In-Configure-Ability/06_entries/06.02.02.01_De-re-clouding.md": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 2738,
+      "exportedPath": "thesis/repo/06_in-configure-ability/06_entries/06.02.02.01_de-re-clouding.html",
+      "dependencies": []
+    },
+    "Thesis/Repo/06_In-Configure-Ability/06_entries/06.02.02.02_Working groups and knowledge exchange.md": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 2930,
+      "exportedPath": "thesis/repo/06_in-configure-ability/06_entries/06.02.02.02_working-groups-and-knowledge-exchange.html",
+      "dependencies": []
+    },
+    "Thesis/Repo/06_In-Configure-Ability/06_entries/06.02.02.03_In-ternal_politics.md": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 4815,
+      "exportedPath": "thesis/repo/06_in-configure-ability/06_entries/06.02.02.03_in-ternal_politics.html",
+      "dependencies": []
+    },
+    "Thesis/Repo/06_In-Configure-Ability/06_entries/06.02.03.00_Defining_In-flex-ability.md": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 2062,
+      "exportedPath": "thesis/repo/06_in-configure-ability/06_entries/06.02.03.00_defining_in-flex-ability.html",
+      "dependencies": []
+    },
+    "Thesis/Repo/06_In-Configure-Ability/06_entries/06.03.00_Configure-ability_In-.md": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 674,
+      "exportedPath": "thesis/repo/06_in-configure-ability/06_entries/06.03.00_configure-ability_in-.html",
+      "dependencies": []
+    },
+    "Thesis/Repo/06_In-Configure-Ability/06_entries/06.03.01.00_Configure-ability_In-Docs.md": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 1227,
+      "exportedPath": "thesis/repo/06_in-configure-ability/06_entries/06.03.01.00_configure-ability_in-docs.html",
+      "dependencies": []
+    },
+    "Thesis/Repo/06_In-Configure-Ability/06_entries/06.03.01.01_Inflexibility.md": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 6171,
+      "exportedPath": "thesis/repo/06_in-configure-ability/06_entries/06.03.01.01_inflexibility.html",
+      "dependencies": []
+    },
+    "Thesis/Repo/06_In-Configure-Ability/06_entries/06.03.01.02.00_in-flex-ability.md": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 1534,
+      "exportedPath": "thesis/repo/06_in-configure-ability/06_entries/06.03.01.02.00_in-flex-ability.html",
+      "dependencies": []
+    },
+    "Thesis/Repo/06_In-Configure-Ability/06_entries/06.03.01.02.01_In-Docs.md": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 5485,
+      "exportedPath": "thesis/repo/06_in-configure-ability/06_entries/06.03.01.02.01_in-docs.html",
+      "dependencies": []
+    },
+    "Thesis/Repo/06_In-Configure-Ability/06_entries/06.03.01.02.02_In-Practice.md": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 9244,
+      "exportedPath": "thesis/repo/06_in-configure-ability/06_entries/06.03.01.02.02_in-practice.html",
+      "dependencies": [
+        "lib/media/image1.png"
+      ]
+    },
+    "Thesis/Repo/06_In-Configure-Ability/06_entries/06.03.02.00_Configure-ability_In-Workshops.md": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 5690,
+      "exportedPath": "thesis/repo/06_in-configure-ability/06_entries/06.03.02.00_configure-ability_in-workshops.html",
+      "dependencies": []
+    },
+    "Thesis/Repo/06_In-Configure-Ability/06_entries/06.03.02.01_Coding_protocols.md": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 785,
+      "exportedPath": "thesis/repo/06_in-configure-ability/06_entries/06.03.02.01_coding_protocols.html",
+      "dependencies": []
+    },
+    "Thesis/Repo/06_In-Configure-Ability/06_entries/06.03.02.02_SSH_protocols.md": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 1493,
+      "exportedPath": "thesis/repo/06_in-configure-ability/06_entries/06.03.02.02_ssh_protocols.html",
+      "dependencies": []
+    },
+    "Thesis/Repo/06_In-Configure-Ability/06_entries/06.03.02.03_Sudo_protocols.md": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 967,
+      "exportedPath": "thesis/repo/06_in-configure-ability/06_entries/06.03.02.03_sudo_protocols.html",
+      "dependencies": []
+    },
+    "Thesis/Repo/06_In-Configure-Ability/06_entries/06.03.02.04_User_Protocols.md": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 1812,
+      "exportedPath": "thesis/repo/06_in-configure-ability/06_entries/06.03.02.04_user_protocols.html",
+      "dependencies": []
+    },
+    "Thesis/Repo/06_In-Configure-Ability/06_entries/06.03.02.05_Digital_safe_space_protocols.md": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 2683,
+      "exportedPath": "thesis/repo/06_in-configure-ability/06_entries/06.03.02.05_digital_safe_space_protocols.html",
+      "dependencies": []
+    },
+    "Thesis/Repo/06_In-Configure-Ability/06_entries/06.03.02.06_Collective_working_protocols..md": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 1456,
+      "exportedPath": "thesis/repo/06_in-configure-ability/06_entries/06.03.02.06_collective_working_protocols..html",
+      "dependencies": []
+    },
+    "Thesis/Repo/06_In-Configure-Ability/06_entries/06.03.02.07_Manifesting_Femfester.md": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 4246,
+      "exportedPath": "thesis/repo/06_in-configure-ability/06_entries/06.03.02.07_manifesting_femfester.html",
+      "dependencies": []
+    },
+    "Thesis/Repo/06_In-Configure-Ability/06_entries/06.04.00_In-reflection.md": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 2042,
+      "exportedPath": "thesis/repo/06_in-configure-ability/06_entries/06.04.00_in-reflection.html",
+      "dependencies": []
+    },
+    "Thesis/Repo/06_In-Configure-Ability/06_entries/pandoc_order.md": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 947,
+      "exportedPath": "thesis/repo/06_in-configure-ability/06_entries/pandoc_order.html",
+      "dependencies": []
+    },
+    "Thesis/Repo/06_In-Configure-Ability/06_media/Docs_Access_info.png": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 138861,
+      "exportedPath": "thesis/repo/06_in-configure-ability/06_media/docs_access_info.png",
+      "dependencies": []
+    },
+    "Thesis/Repo/06_In-Configure-Ability/06_media/image1.png": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 5016,
+      "exportedPath": "thesis/repo/06_in-configure-ability/06_media/image1.png",
+      "dependencies": []
+    },
+    "Thesis/Repo/06_In-Configure-Ability/06_media/tinclogo.png": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 5016,
+      "exportedPath": "thesis/repo/06_in-configure-ability/06_media/tinclogo.png",
+      "dependencies": []
+    },
+    "Thesis/Repo/06_In-Configure-Ability/06_In-Configure-Ability.md": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 1404,
+      "exportedPath": "thesis/repo/06_in-configure-ability/06_in-configure-ability.html",
+      "dependencies": [
+        "thesis/repo/06_in-configure-ability/06_media/image1.png"
+      ]
+    },
+    "Thesis/Repo/06_In-Configure-Ability/06_In-Configure-Ability_canvas.canvas": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 12289,
+      "exportedPath": "thesis/repo/06_in-configure-ability/06_in-configure-ability_canvas.html",
+      "dependencies": [
+        "thesis/repo/06_in-configure-ability/06_media/image1.png",
+        "lib/media/w4p_logo.png",
+        "lib/media/docs-infrastructure-diagram.jpeg",
+        "lib/media/serving_in-grid.png"
+      ]
+    },
+    "Thesis/Repo/06_In-Configure-Ability/06_status.md": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 1225,
+      "exportedPath": "thesis/repo/06_in-configure-ability/06_status.html",
+      "dependencies": []
+    },
+    "Thesis/Repo/07_A_Cozier_Configure-Able_Methods/07_entries/07.00_Intro.md": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 2175,
+      "exportedPath": "thesis/repo/07_a_cozier_configure-able_methods/07_entries/07.00_intro.html",
+      "dependencies": []
+    },
+    "Thesis/Repo/07_A_Cozier_Configure-Able_Methods/07_entries/07.01_Background.md": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 6788,
+      "exportedPath": "thesis/repo/07_a_cozier_configure-able_methods/07_entries/07.01_background.html",
+      "dependencies": []
+    },
+    "Thesis/Repo/07_A_Cozier_Configure-Able_Methods/07_entries/07.02.00_Cozy_Intentions.md": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 2248,
+      "exportedPath": "thesis/repo/07_a_cozier_configure-able_methods/07_entries/07.02.00_cozy_intentions.html",
+      "dependencies": []
+    },
+    "Thesis/Repo/07_A_Cozier_Configure-Able_Methods/07_entries/07.02.01_Manifesting_intentions.md": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 5463,
+      "exportedPath": "thesis/repo/07_a_cozier_configure-able_methods/07_entries/07.02.01_manifesting_intentions.html",
+      "dependencies": []
+    },
+    "Thesis/Repo/07_A_Cozier_Configure-Able_Methods/07_entries/07.02.02_Installing_Intentions.md": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 1620,
+      "exportedPath": "thesis/repo/07_a_cozier_configure-able_methods/07_entries/07.02.02_installing_intentions.html",
+      "dependencies": []
+    },
+    "Thesis/Repo/07_A_Cozier_Configure-Able_Methods/07_entries/07.03.00_En-crip-ing_cozy_time.md": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 1468,
+      "exportedPath": "thesis/repo/07_a_cozier_configure-able_methods/07_entries/07.03.00_en-crip-ing_cozy_time.html",
+      "dependencies": []
+    },
+    "Thesis/Repo/07_A_Cozier_Configure-Able_Methods/07_entries/07.03.01_en-crip-ing_time.md": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 5201,
+      "exportedPath": "thesis/repo/07_a_cozier_configure-able_methods/07_entries/07.03.01_en-crip-ing_time.html",
+      "dependencies": []
+    },
+    "Thesis/Repo/07_A_Cozier_Configure-Able_Methods/07_entries/07.03.02_En-Crip-ing_HeadBody.md": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 2615,
+      "exportedPath": "thesis/repo/07_a_cozier_configure-able_methods/07_entries/07.03.02_en-crip-ing_headbody.html",
+      "dependencies": []
+    },
+    "Thesis/Repo/07_A_Cozier_Configure-Able_Methods/07_entries/07.03.03_En-crip-ing_kinship.md": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 3283,
+      "exportedPath": "thesis/repo/07_a_cozier_configure-able_methods/07_entries/07.03.03_en-crip-ing_kinship.html",
+      "dependencies": []
+    },
+    "Thesis/Repo/07_A_Cozier_Configure-Able_Methods/07_entries/07.03.04_En-crip-ing_academic_docs.md": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 1507,
+      "exportedPath": "thesis/repo/07_a_cozier_configure-able_methods/07_entries/07.03.04_en-crip-ing_academic_docs.html",
+      "dependencies": []
+    },
+    "Thesis/Repo/07_A_Cozier_Configure-Able_Methods/07_entries/07.04_Futures_x_Desires.md": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 4141,
+      "exportedPath": "thesis/repo/07_a_cozier_configure-able_methods/07_entries/07.04_futures_x_desires.html",
+      "dependencies": []
+    },
+    "Thesis/Repo/07_A_Cozier_Configure-Able_Methods/07_entries/pandoc_order.md": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 382,
+      "exportedPath": "thesis/repo/07_a_cozier_configure-able_methods/07_entries/pandoc_order.html",
+      "dependencies": []
+    },
+    "Thesis/Repo/07_A_Cozier_Configure-Able_Methods/07_A_Cozier_Configure-Able_Methods.md": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 679,
+      "exportedPath": "thesis/repo/07_a_cozier_configure-able_methods/07_a_cozier_configure-able_methods.html",
+      "dependencies": []
+    },
+    "Thesis/Repo/07_A_Cozier_Configure-Able_Methods/07_status.md": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 69,
+      "exportedPath": "thesis/repo/07_a_cozier_configure-able_methods/07_status.html",
+      "dependencies": []
+    },
+    "Thesis/Repo/07_A_Cozier_Configure-Able_Methods/A Cozier Configure-ability.canvas": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 6023,
+      "exportedPath": "thesis/repo/07_a_cozier_configure-able_methods/a-cozier-configure-ability.html",
+      "dependencies": []
+    },
+    "Thesis/Repo/08_Practice/08.01_Background/F-Mnist/media/f-mnist dataset.gif": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 12822565,
+      "exportedPath": "thesis/repo/08_practice/08.01_background/f-mnist/media/f-mnist-dataset.gif",
+      "dependencies": []
+    },
+    "Thesis/Repo/08_Practice/08.01_Background/F-Mnist/F-MNIST Dataset.md": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 2318,
+      "exportedPath": "thesis/repo/08_practice/08.01_background/f-mnist/f-mnist-dataset.html",
+      "dependencies": [
+        "thesis/repo/08_practice/08.01_background/f-mnist/media/f-mnist-dataset.gif"
+      ]
+    },
+    "Thesis/Repo/08_Practice/08.01_Background/Neural Re-Presentation/media/neural representation.gif": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 12294664,
+      "exportedPath": "thesis/repo/08_practice/08.01_background/neural-re-presentation/media/neural-representation.gif",
+      "dependencies": []
+    },
+    "Thesis/Repo/08_Practice/08.01_Background/Neural Re-Presentation/Neural Re-Presentation.md": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 1791,
+      "exportedPath": "thesis/repo/08_practice/08.01_background/neural-re-presentation/neural-re-presentation.html",
+      "dependencies": [
+        "thesis/repo/08_practice/08.01_background/neural-re-presentation/media/neural-representation.gif"
+      ]
+    },
+    "Thesis/Repo/08_Practice/08.01_Background/Sentinel Self/media/Pasted image 20250821111813.png": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 728376,
+      "exportedPath": "thesis/repo/08_practice/08.01_background/sentinel-self/media/pasted-image-20250821111813.png",
+      "dependencies": []
+    },
+    "Thesis/Repo/08_Practice/08.01_Background/Sentinel Self/Sentinel Self.md": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 144,
+      "exportedPath": "thesis/repo/08_practice/08.01_background/sentinel-self/sentinel-self.html",
+      "dependencies": [
+        "thesis/repo/08_practice/08.01_background/sentinel-self/media/pasted-image-20250821111813.png"
+      ]
+    },
+    "Thesis/Repo/08_Practice/08.01_Background/08.01_Background.md": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 644,
+      "exportedPath": "thesis/repo/08_practice/08.01_background/08.01_background.html",
+      "dependencies": []
+    },
+    "Thesis/Repo/08_Practice/08.01_Background/08.01_Background_canvas.canvas": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 728,
+      "exportedPath": "thesis/repo/08_practice/08.01_background/08.01_background_canvas.html",
+      "dependencies": [
+        "thesis/repo/08_practice/08.01_background/neural-re-presentation/media/neural-representation.gif",
+        "thesis/repo/08_practice/08.01_background/sentinel-self/media/pasted-image-20250821111813.png",
+        "thesis/repo/08_practice/08.01_background/f-mnist/media/f-mnist-dataset.gif"
+      ]
+    },
+    "Thesis/Repo/08_Practice/08.02_Configure-able/media/Pasted image 20250821112311.png": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 699936,
+      "exportedPath": "thesis/repo/08_practice/08.02_configure-able/media/pasted-image-20250821112311.png",
+      "dependencies": []
+    },
+    "Thesis/Repo/08_Practice/08.02_Configure-able/Configure-able Infrastructures.md": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 444,
+      "exportedPath": "thesis/repo/08_practice/08.02_configure-able/configure-able-infrastructures.html",
+      "dependencies": [
+        "thesis/repo/08_practice/08.02_configure-able/media/pasted-image-20250821112311.png"
+      ]
+    },
+    "Thesis/Repo/08_Practice/08.03_In-Grid/In-Docs/entries/Docs00 Contents - wiki4print.md": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 5780,
+      "exportedPath": "thesis/repo/08_practice/08.03_in-grid/in-docs/entries/docs00-contents-wiki4print.html",
+      "dependencies": [
+        "lib/media/w4p_logo.png",
+        "lib/media/docs-infrastructure-diagram.jpeg"
+      ]
+    },
+    "Thesis/Repo/08_Practice/08.03_In-Grid/In-Docs/media/Docs Infrastructure Diagram.jpeg": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 35403,
+      "exportedPath": "thesis/repo/08_practice/08.03_in-grid/in-docs/media/docs-infrastructure-diagram.jpeg",
+      "dependencies": []
+    },
+    "Thesis/Repo/08_Practice/08.03_In-Grid/In-Docs/media/Pasted image 20250823163046.png": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 395892,
+      "exportedPath": "thesis/repo/08_practice/08.03_in-grid/in-docs/media/pasted-image-20250823163046.png",
+      "dependencies": []
+    },
+    "Thesis/Repo/08_Practice/08.03_In-Grid/In-Docs/media/W4P_logo.png": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 3139,
+      "exportedPath": "thesis/repo/08_practice/08.03_in-grid/in-docs/media/w4p_logo.png",
+      "dependencies": []
+    },
+    "Thesis/Repo/08_Practice/08.03_In-Grid/In-Docs/In-Docs.md": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 1324,
+      "exportedPath": "thesis/repo/08_practice/08.03_in-grid/in-docs/in-docs.html",
+      "dependencies": []
+    },
+    "Thesis/Repo/08_Practice/08.03_In-Grid/In-fra Processing/entries/In-fra_processing working pad.md": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 12694,
+      "exportedPath": "thesis/repo/08_practice/08.03_in-grid/in-fra-processing/entries/in-fra_processing-working-pad.html",
+      "dependencies": []
+    },
+    "Thesis/Repo/08_Practice/08.03_In-Grid/In-fra Processing/In-fra Processing.md": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 634,
+      "exportedPath": "thesis/repo/08_practice/08.03_in-grid/in-fra-processing/in-fra-processing.html",
+      "dependencies": []
+    },
+    "Thesis/Repo/08_Practice/08.03_In-Grid/Serving In-grid/entries/Femfester Manifesto.md": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 13541,
+      "exportedPath": "thesis/repo/08_practice/08.03_in-grid/serving-in-grid/entries/femfester-manifesto.html",
+      "dependencies": []
+    },
+    "Thesis/Repo/08_Practice/08.03_In-Grid/Serving In-grid/entries/Serving In-grid Workshop slides.md": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 20221,
+      "exportedPath": "thesis/repo/08_practice/08.03_in-grid/serving-in-grid/entries/serving-in-grid-workshop-slides.html",
+      "dependencies": [
+        "lib/media/servpubdiagram2024.png",
+        "lib/media/howdyterminal.png",
+        "lib/media/sshdiagram.jpg",
+        "lib/media/usersdiagram.jpg",
+        "lib/media/usersdiagram.jpg",
+        "lib/media/nanoofhtml.png"
+      ]
+    },
+    "Thesis/Repo/08_Practice/08.03_In-Grid/Serving In-grid/entries/Workshop Pad.md": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 13611,
+      "exportedPath": "thesis/repo/08_practice/08.03_in-grid/serving-in-grid/entries/workshop-pad.html",
+      "dependencies": []
+    },
+    "Thesis/Repo/08_Practice/08.03_In-Grid/Serving In-grid/media/Serving In-grid workshop day.jpeg": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 94004,
+      "exportedPath": "thesis/repo/08_practice/08.03_in-grid/serving-in-grid/media/serving-in-grid-workshop-day.jpeg",
+      "dependencies": []
+    },
+    "Thesis/Repo/08_Practice/08.03_In-Grid/Serving In-grid/media/Serving In-grid workshop day 2.jpg": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 277689,
+      "exportedPath": "thesis/repo/08_practice/08.03_in-grid/serving-in-grid/media/serving-in-grid-workshop-day-2.jpg",
+      "dependencies": []
+    },
+    "Thesis/Repo/08_Practice/08.03_In-Grid/Serving In-grid/media/Serving_In-grid.png": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 46587,
+      "exportedPath": "thesis/repo/08_practice/08.03_in-grid/serving-in-grid/media/serving_in-grid.png",
+      "dependencies": []
+    },
+    "Thesis/Repo/08_Practice/08.03_In-Grid/Serving In-grid/media/servpubDiagram2024.png": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 474598,
+      "exportedPath": "thesis/repo/08_practice/08.03_in-grid/serving-in-grid/media/servpubdiagram2024.png",
+      "dependencies": []
+    },
+    "Thesis/Repo/08_Practice/08.03_In-Grid/Serving In-grid/media/servpubProjectMap.png": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 2678049,
+      "exportedPath": "thesis/repo/08_practice/08.03_in-grid/serving-in-grid/media/servpubprojectmap.png",
+      "dependencies": []
+    },
+    "Thesis/Repo/08_Practice/08.03_In-Grid/Serving In-grid/media/slide1Asset 1.png": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 237834,
+      "exportedPath": "thesis/repo/08_practice/08.03_in-grid/serving-in-grid/media/slide1asset-1.png",
+      "dependencies": []
+    },
+    "Thesis/Repo/08_Practice/08.03_In-Grid/Serving In-grid/media/SSHDiagram.jpg": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 162512,
+      "exportedPath": "thesis/repo/08_practice/08.03_in-grid/serving-in-grid/media/sshdiagram.jpg",
+      "dependencies": []
+    },
+    "Thesis/Repo/08_Practice/08.03_In-Grid/Serving In-grid/media/Usersdiagram.jpg": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 196868,
+      "exportedPath": "thesis/repo/08_practice/08.03_in-grid/serving-in-grid/media/usersdiagram.jpg",
+      "dependencies": []
+    },
+    "Thesis/Repo/08_Practice/08.03_In-Grid/Serving In-grid/Serving In-grid.md": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 742,
+      "exportedPath": "thesis/repo/08_practice/08.03_in-grid/serving-in-grid/serving-in-grid.html",
+      "dependencies": []
+    },
+    "Thesis/Repo/08_Practice/08.03_In-Grid/08.03_In-Grid.md": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 685,
+      "exportedPath": "thesis/repo/08_practice/08.03_in-grid/08.03_in-grid.html",
+      "dependencies": []
+    },
+    "Thesis/Repo/08_Practice/08.03_In-Grid/08.03_In-grid_canvas.canvas": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 3701,
+      "exportedPath": "thesis/repo/08_practice/08.03_in-grid/08.03_in-grid_canvas.html",
+      "dependencies": [
+        "thesis/repo/08_practice/08.03_in-grid/serving-in-grid/media/serving-in-grid-workshop-day.jpeg",
+        "lib/media/w4p_logo.png",
+        "thesis/repo/08_practice/08.03_in-grid/in-docs/media/docs-infrastructure-diagram.jpeg",
+        "thesis/repo/08_practice/08.03_in-grid/in-docs/media/pasted-image-20250823163046.png",
+        "thesis/repo/08_practice/08.03_in-grid/serving-in-grid/media/serving-in-grid-workshop-day-2.jpg",
+        "thesis/repo/08_practice/08.03_in-grid/serving-in-grid/media/serving_in-grid.png",
+        "thesis/repo/08_practice/08.03_in-grid/serving-in-grid/media/servpubdiagram2024.png",
+        "lib/media/howdyterminal.png",
+        "thesis/repo/08_practice/08.03_in-grid/serving-in-grid/media/sshdiagram.jpg",
+        "thesis/repo/08_practice/08.03_in-grid/serving-in-grid/media/usersdiagram.jpg",
+        "thesis/repo/08_practice/08.03_in-grid/serving-in-grid/media/usersdiagram.jpg",
+        "lib/media/nanoofhtml.png"
+      ]
+    },
+    "Thesis/Repo/08_Practice/08.04_Cozy-Cloud/Cozy_Night+Day/media/Cozy_Day.png": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 144467,
+      "exportedPath": "thesis/repo/08_practice/08.04_cozy-cloud/cozy_night+day/media/cozy_day.png",
+      "dependencies": []
+    },
+    "Thesis/Repo/08_Practice/08.04_Cozy-Cloud/Cozy_Night+Day/media/Cozy_Easy_Read.png": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 96831,
+      "exportedPath": "thesis/repo/08_practice/08.04_cozy-cloud/cozy_night+day/media/cozy_easy_read.png",
+      "dependencies": []
+    },
+    "Thesis/Repo/08_Practice/08.04_Cozy-Cloud/Cozy_Night+Day/media/Cozy_Night.png": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 146343,
+      "exportedPath": "thesis/repo/08_practice/08.04_cozy-cloud/cozy_night+day/media/cozy_night.png",
+      "dependencies": []
+    },
+    "Thesis/Repo/08_Practice/08.04_Cozy-Cloud/Cozy_Night+Day/Cozy_Night+Day.md": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 1028,
+      "exportedPath": "thesis/repo/08_practice/08.04_cozy-cloud/cozy_night+day/cozy_night+day.html",
+      "dependencies": []
+    },
+    "Thesis/Repo/08_Practice/08.04_Cozy-Cloud/Cozy-Intentions/media/a cloud.png": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 251532,
+      "exportedPath": "thesis/repo/08_practice/08.04_cozy-cloud/cozy-intentions/media/a-cloud.png",
+      "dependencies": []
+    },
+    "Thesis/Repo/08_Practice/08.04_Cozy-Cloud/Cozy-Intentions/media/cozy-networks_bg.png": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 1371722,
+      "exportedPath": "thesis/repo/08_practice/08.04_cozy-cloud/cozy-intentions/media/cozy-networks_bg.png",
+      "dependencies": []
+    },
+    "Thesis/Repo/08_Practice/08.04_Cozy-Cloud/Cozy-Intentions/media/infinite cozy.png": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 1858362,
+      "exportedPath": "thesis/repo/08_practice/08.04_cozy-cloud/cozy-intentions/media/infinite-cozy.png",
+      "dependencies": []
+    },
+    "Thesis/Repo/08_Practice/08.04_Cozy-Cloud/Cozy-Intentions/media/less clouds more cozy.png": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 1849576,
+      "exportedPath": "thesis/repo/08_practice/08.04_cozy-cloud/cozy-intentions/media/less-clouds-more-cozy.png",
+      "dependencies": []
+    },
+    "Thesis/Repo/08_Practice/08.04_Cozy-Cloud/Cozy-Intentions/media/lets-get-cozy.png": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 1470864,
+      "exportedPath": "thesis/repo/08_practice/08.04_cozy-cloud/cozy-intentions/media/lets-get-cozy.png",
+      "dependencies": []
+    },
+    "Thesis/Repo/08_Practice/08.04_Cozy-Cloud/Cozy-Intentions/Cozy Intentions Easy Read.pdf": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 2350334,
+      "exportedPath": "thesis/repo/08_practice/08.04_cozy-cloud/cozy-intentions/cozy-intentions-easy-read.pdf",
+      "dependencies": []
+    },
+    "Thesis/Repo/08_Practice/08.04_Cozy-Cloud/Cozy-Intentions/Cozy-Intentions.md": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 5257,
+      "exportedPath": "thesis/repo/08_practice/08.04_cozy-cloud/cozy-intentions/cozy-intentions.html",
+      "dependencies": [
+        "thesis/repo/08_practice/08.04_cozy-cloud/cozy-intentions/media/lets-get-cozy.png",
+        "lib/media/cloud5.png",
+        "thesis/repo/08_practice/08.04_cozy-cloud/cozy-intentions/media/less-clouds-more-cozy.png",
+        "thesis/repo/08_practice/08.04_cozy-cloud/cozy-intentions/media/infinite-cozy.png",
+        "thesis/repo/08_practice/08.04_cozy-cloud/cozy-intentions/media/cozy-networks_bg.png",
+        "thesis/repo/08_practice/08.04_cozy-cloud/cozy-intentions/media/a-cloud.png"
+      ]
+    },
+    "Thesis/Repo/08_Practice/08.04_Cozy-Cloud/Cozy-ish/Cozy-ish_theme/css/fengardoneue_regular-webfont.ttf": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 52208,
+      "exportedPath": "thesis/repo/08_practice/08.04_cozy-cloud/cozy-ish/cozy-ish_theme/css/fengardoneue_regular-webfont.ttf",
+      "dependencies": []
+    },
+    "Thesis/Repo/08_Practice/08.04_Cozy-Cloud/Cozy-ish/Cozy-ish_theme/css/Minipax-Regular.woff": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 66852,
+      "exportedPath": "thesis/repo/08_practice/08.04_cozy-cloud/cozy-ish/cozy-ish_theme/css/minipax-regular.woff",
+      "dependencies": []
+    },
+    "Thesis/Repo/08_Practice/08.04_Cozy-Cloud/Cozy-ish/Cozy-ish_theme/css/style.css": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 3719,
+      "exportedPath": "thesis/repo/08_practice/08.04_cozy-cloud/cozy-ish/cozy-ish_theme/css/style.css",
+      "dependencies": []
+    },
+    "Thesis/Repo/08_Practice/08.04_Cozy-Cloud/Cozy-ish/Cozy-ish_theme/index.twig": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 4302,
+      "exportedPath": "thesis/repo/08_practice/08.04_cozy-cloud/cozy-ish/cozy-ish_theme/index.twig",
+      "dependencies": []
+    },
+    "Thesis/Repo/08_Practice/08.04_Cozy-Cloud/Cozy-ish/media/Pasted image 20250821171714.png": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 123620,
+      "exportedPath": "thesis/repo/08_practice/08.04_cozy-cloud/cozy-ish/media/pasted-image-20250821171714.png",
+      "dependencies": []
+    },
+    "Thesis/Repo/08_Practice/08.04_Cozy-Cloud/Cozy-ish/Cozy-ish.md": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 633,
+      "exportedPath": "thesis/repo/08_practice/08.04_cozy-cloud/cozy-ish/cozy-ish.html",
+      "dependencies": []
+    },
+    "Thesis/Repo/08_Practice/08.04_Cozy-Cloud/Cozy-ish/Cozy-ish_theme.zip": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 98367,
+      "exportedPath": "thesis/repo/08_practice/08.04_cozy-cloud/cozy-ish/cozy-ish_theme.zip",
+      "dependencies": []
+    },
+    "Thesis/Repo/08_Practice/08.04_Cozy-Cloud/En-crip-ing_time/media/en-crip-ed poem.png": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 224036,
+      "exportedPath": "thesis/repo/08_practice/08.04_cozy-cloud/en-crip-ing_time/media/en-crip-ed-poem.png",
+      "dependencies": []
+    },
+    "Thesis/Repo/08_Practice/08.04_Cozy-Cloud/En-crip-ing_time/media/infrastructural intimacies.png": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 223584,
+      "exportedPath": "thesis/repo/08_practice/08.04_cozy-cloud/en-crip-ing_time/media/infrastructural-intimacies.png",
+      "dependencies": []
+    },
+    "Thesis/Repo/08_Practice/08.04_Cozy-Cloud/En-crip-ing_time/media/Mesh Festival Cover Img.png": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 402967,
+      "exportedPath": "thesis/repo/08_practice/08.04_cozy-cloud/en-crip-ing_time/media/mesh-festival-cover-img.png",
+      "dependencies": []
+    },
+    "Thesis/Repo/08_Practice/08.04_Cozy-Cloud/En-crip-ing_time/En-crip-ing_time.md": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 694,
+      "exportedPath": "thesis/repo/08_practice/08.04_cozy-cloud/en-crip-ing_time/en-crip-ing_time.html",
+      "dependencies": []
+    },
+    "Thesis/Repo/08_Practice/08.04_Cozy-Cloud/Serving Cozy/media/Base lazer outline.svg": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 534470,
+      "exportedPath": "thesis/repo/08_practice/08.04_cozy-cloud/serving-cozy/media/base-lazer-outline.svg",
+      "dependencies": []
+    },
+    "Thesis/Repo/08_Practice/08.04_Cozy-Cloud/Serving Cozy/media/Cozy Flow.png": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 152394,
+      "exportedPath": "thesis/repo/08_practice/08.04_cozy-cloud/serving-cozy/media/cozy-flow.png",
+      "dependencies": []
+    },
+    "Thesis/Repo/08_Practice/08.04_Cozy-Cloud/Serving Cozy/media/Servering-Cozy  pillows.jpeg": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 159932,
+      "exportedPath": "thesis/repo/08_practice/08.04_cozy-cloud/serving-cozy/media/servering-cozy-pillows.jpeg",
+      "dependencies": []
+    },
+    "Thesis/Repo/08_Practice/08.04_Cozy-Cloud/Serving Cozy/media/Servering-Cozy  screen.jpeg": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 383706,
+      "exportedPath": "thesis/repo/08_practice/08.04_cozy-cloud/serving-cozy/media/servering-cozy-screen.jpeg",
+      "dependencies": []
+    },
+    "Thesis/Repo/08_Practice/08.04_Cozy-Cloud/Serving Cozy/media/Serving Cozy in touch.png": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 937942,
+      "exportedPath": "thesis/repo/08_practice/08.04_cozy-cloud/serving-cozy/media/serving-cozy-in-touch.png",
+      "dependencies": []
+    },
+    "Thesis/Repo/08_Practice/08.04_Cozy-Cloud/Serving Cozy/Serving Cozy.md": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 276,
+      "exportedPath": "thesis/repo/08_practice/08.04_cozy-cloud/serving-cozy/serving-cozy.html",
+      "dependencies": []
+    },
+    "Thesis/Repo/08_Practice/08.04_Cozy-Cloud/08.04_Cozy-Cloud.md": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 1161,
+      "exportedPath": "thesis/repo/08_practice/08.04_cozy-cloud/08.04_cozy-cloud.html",
+      "dependencies": []
+    },
+    "Thesis/Repo/08_Practice/08.04_Cozy-Cloud/08.04_Cozy-Cloud_canvas.canvas": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 6051,
+      "exportedPath": "thesis/repo/08_practice/08.04_cozy-cloud/08.04_cozy-cloud_canvas.html",
+      "dependencies": [
+        "thesis/repo/08_practice/08.04_cozy-cloud/cozy-intentions/media/less-clouds-more-cozy.png",
+        "thesis/repo/08_practice/08.04_cozy-cloud/cozy-intentions/media/cozy-networks_bg.png",
+        "thesis/repo/08_practice/08.04_cozy-cloud/cozy-intentions/media/lets-get-cozy.png",
+        "lib/media/cloud5.png",
+        "thesis/repo/08_practice/08.04_cozy-cloud/cozy-intentions/media/less-clouds-more-cozy.png",
+        "thesis/repo/08_practice/08.04_cozy-cloud/cozy-intentions/media/infinite-cozy.png",
+        "thesis/repo/08_practice/08.04_cozy-cloud/cozy-intentions/media/cozy-networks_bg.png",
+        "thesis/repo/08_practice/08.04_cozy-cloud/cozy-intentions/media/a-cloud.png",
+        "thesis/repo/08_practice/08.04_cozy-cloud/cozy-intentions/media/a-cloud.png",
+        "thesis/repo/08_practice/08.04_cozy-cloud/cozy-intentions/media/lets-get-cozy.png",
+        "thesis/repo/08_practice/08.04_cozy-cloud/cozy-intentions/media/infinite-cozy.png",
+        "lib/media/cloud5.png",
+        "thesis/repo/08_practice/08.04_cozy-cloud/cozy-ish/media/pasted-image-20250821171714.png",
+        "thesis/repo/08_practice/08.04_cozy-cloud/cozy_night+day/media/cozy_day.png",
+        "thesis/repo/08_practice/08.04_cozy-cloud/cozy_night+day/media/cozy_night.png",
+        "thesis/repo/08_practice/08.04_cozy-cloud/serving-cozy/media/servering-cozy-pillows.jpeg",
+        "thesis/repo/08_practice/08.04_cozy-cloud/en-crip-ing_time/media/en-crip-ed-poem.png",
+        "thesis/repo/08_practice/08.04_cozy-cloud/cozy_night+day/media/cozy_easy_read.png",
+        "thesis/repo/08_practice/08.04_cozy-cloud/en-crip-ing_time/media/mesh-festival-cover-img.png",
+        "thesis/repo/08_practice/08.04_cozy-cloud/en-crip-ing_time/media/infrastructural-intimacies.png",
+        "thesis/repo/08_practice/08.04_cozy-cloud/serving-cozy/media/servering-cozy-screen.jpeg",
+        "thesis/repo/08_practice/08.04_cozy-cloud/serving-cozy/media/cozy-flow.png",
+        "thesis/repo/08_practice/08.04_cozy-cloud/serving-cozy/media/base-lazer-outline.svg",
+        "thesis/repo/08_practice/08.04_cozy-cloud/serving-cozy/media/serving-cozy-in-touch.png"
+      ]
+    },
+    "Thesis/Repo/08_Practice/08_Practice.canvas": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 1135,
+      "exportedPath": "thesis/repo/08_practice/08_practice.html",
+      "dependencies": [
+        "thesis/repo/08_practice/08.02_configure-able/media/pasted-image-20250821112311.png"
+      ]
+    },
+    "Thesis/Repo/08_Practice/08_Practice.md": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 434,
+      "exportedPath": "thesis/repo/08_practice/08_practice.html",
+      "dependencies": []
+    },
+    "Thesis/Repo/09_Conclusion/09_entries/09.00_Intro.md": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 811,
+      "exportedPath": "thesis/repo/09_conclusion/09_entries/09.00_intro.html",
+      "dependencies": []
+    },
+    "Thesis/Repo/09_Conclusion/09_entries/09.01_Reflecting_On_Configure-Able_Methods.md": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 6059,
+      "exportedPath": "thesis/repo/09_conclusion/09_entries/09.01_reflecting_on_configure-able_methods.html",
+      "dependencies": []
+    },
+    "Thesis/Repo/09_Conclusion/09_entries/09.02_Configure-Able_Futures.md": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 2828,
+      "exportedPath": "thesis/repo/09_conclusion/09_entries/09.02_configure-able_futures.html",
+      "dependencies": []
+    },
+    "Thesis/Repo/09_Conclusion/09_entries/09.03_Iterating_Configure-Able_Methods.md": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 1123,
+      "exportedPath": "thesis/repo/09_conclusion/09_entries/09.03_iterating_configure-able_methods.html",
+      "dependencies": []
+    },
+    "Thesis/Repo/09_Conclusion/09_entries/pandoc_order.md": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 164,
+      "exportedPath": "thesis/repo/09_conclusion/09_entries/pandoc_order.html",
+      "dependencies": []
+    },
+    "Thesis/Repo/09_Conclusion/09_Conclusion.md": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 125,
+      "exportedPath": "thesis/repo/09_conclusion/09_conclusion.html",
+      "dependencies": []
+    },
+    "Thesis/Repo/09_Conclusion/09_Conclusion.canvas": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 4287,
+      "exportedPath": "thesis/repo/09_conclusion/09_conclusion.html",
+      "dependencies": []
+    },
+    "Thesis/Repo/10_Bibliograpgy/10_entries/10_intro.md": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 17150,
+      "exportedPath": "thesis/repo/10_bibliograpgy/10_entries/10_intro.html",
+      "dependencies": []
+    },
+    "Thesis/Repo/10_Bibliograpgy/10_entries/biblio.md": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 77068,
+      "exportedPath": "thesis/repo/10_bibliograpgy/10_entries/biblio.html",
+      "dependencies": []
+    },
+    "Thesis/Repo/10_Bibliograpgy/10_entries/Untitled Bibliography.rtf": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 19135,
+      "exportedPath": "thesis/repo/10_bibliograpgy/10_entries/untitled-bibliography.rtf",
+      "dependencies": []
+    },
+    "Thesis/Repo/10_Bibliograpgy/10_entries/Untitled Bibliography.html": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 91418,
+      "exportedPath": "thesis/repo/10_bibliograpgy/10_entries/untitled-bibliography.html",
+      "dependencies": []
+    },
+    "Thesis/Repo/10_Bibliograpgy/10_Bibliograpgy.md": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 37,
+      "exportedPath": "thesis/repo/10_bibliograpgy/10_bibliograpgy.html",
+      "dependencies": []
+    },
+    "Thesis/Repo/index.md": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 43,
+      "exportedPath": "thesis/repo/index.html",
+      "dependencies": []
+    },
+    "Thesis/Repo/Repo.md": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 61,
+      "exportedPath": "thesis/repo/repo.html",
+      "dependencies": []
+    },
+    "Thesis/Repo/Thesis canvas.canvas": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 4445,
+      "exportedPath": "thesis/repo/thesis-canvas.html",
+      "dependencies": [
+        "thesis/repo/04_disobedient_action_research_cycles/04_media/clyclez.png",
+        "thesis/repo/04_disobedient_action_research_cycles/04_media/pad_loop.png",
+        "thesis/repo/06_in-configure-ability/06_media/image1.png",
+        "thesis/repo/03_crip-tic_of_vignettes/03_media/rest-assured.png"
+      ]
+    },
+    "lib/media/s4_360.png": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 81873,
+      "exportedPath": "lib/media/s4_360.png",
+      "dependencies": []
+    },
+    "lib/media/cleen.png": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 409116,
+      "exportedPath": "lib/media/cleen.png",
+      "dependencies": []
+    },
+    "lib/media/rest-assured.png": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 1345990,
+      "exportedPath": "lib/media/rest-assured.png",
+      "dependencies": []
+    },
+    "thesis/repo/03_crip-tic_of_vignettes/03_media/rest-assured.png": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 1345990,
+      "exportedPath": "thesis/repo/03_crip-tic_of_vignettes/03_media/rest-assured.png",
+      "dependencies": []
+    },
+    "thesis/repo/03_crip-tic_of_vignettes/03_media/s4_360.png": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 81873,
+      "exportedPath": "thesis/repo/03_crip-tic_of_vignettes/03_media/s4_360.png",
+      "dependencies": []
+    },
+    "thesis/repo/03_crip-tic_of_vignettes/03_media/cleen.png": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 409116,
+      "exportedPath": "thesis/repo/03_crip-tic_of_vignettes/03_media/cleen.png",
+      "dependencies": []
+    },
+    "lib/media/gplates_interface.png": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 312888,
+      "exportedPath": "lib/media/gplates_interface.png",
+      "dependencies": []
+    },
+    "lib/media/clyclez.png": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 871803,
+      "exportedPath": "lib/media/clyclez.png",
+      "dependencies": []
+    },
+    "lib/media/pad_loop.png": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 138468,
+      "exportedPath": "lib/media/pad_loop.png",
+      "dependencies": []
+    },
+    "thesis/repo/04_disobedient_action_research_cycles/04_media/clyclez.png": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 871803,
+      "exportedPath": "thesis/repo/04_disobedient_action_research_cycles/04_media/clyclez.png",
+      "dependencies": []
+    },
+    "thesis/repo/04_disobedient_action_research_cycles/04_media/pad_loop.png": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 138468,
+      "exportedPath": "thesis/repo/04_disobedient_action_research_cycles/04_media/pad_loop.png",
+      "dependencies": []
+    },
+    "thesis/repo/04_disobedient_action_research_cycles/04_media/gplates_interface.png": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 312888,
+      "exportedPath": "thesis/repo/04_disobedient_action_research_cycles/04_media/gplates_interface.png",
+      "dependencies": []
+    },
+    "lib/media/google-excemption.png": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 91326,
+      "exportedPath": "lib/media/google-excemption.png",
+      "dependencies": []
+    },
+    "thesis/repo/05_configure-able_methods/05_media/google-excemption.png": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 91326,
+      "exportedPath": "thesis/repo/05_configure-able_methods/05_media/google-excemption.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20250821112311.png": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 699936,
+      "exportedPath": "lib/media/pasted-image-20250821112311.png",
+      "dependencies": []
+    },
+    "lib/media/configure-able_poster.png": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 479656,
+      "exportedPath": "lib/media/configure-able_poster.png",
+      "dependencies": []
+    },
+    "lib/media/image1.png": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 5016,
+      "exportedPath": "lib/media/image1.png",
+      "dependencies": []
+    },
+    "thesis/repo/06_in-configure-ability/06_media/image1.png": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 5016,
+      "exportedPath": "thesis/repo/06_in-configure-ability/06_media/image1.png",
+      "dependencies": []
+    },
+    "lib/media/w4p_logo.png": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 3139,
+      "exportedPath": "lib/media/w4p_logo.png",
+      "dependencies": []
+    },
+    "lib/media/docs-infrastructure-diagram.jpeg": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 35403,
+      "exportedPath": "lib/media/docs-infrastructure-diagram.jpeg",
+      "dependencies": []
+    },
+    "lib/media/serving_in-grid.png": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 46587,
+      "exportedPath": "lib/media/serving_in-grid.png",
+      "dependencies": []
+    },
+    "thesis/repo/08_practice/08.01_background/f-mnist/media/f-mnist-dataset.gif": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 12822565,
+      "exportedPath": "thesis/repo/08_practice/08.01_background/f-mnist/media/f-mnist-dataset.gif",
+      "dependencies": []
+    },
+    "thesis/repo/08_practice/08.01_background/neural-re-presentation/media/neural-representation.gif": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 12294664,
+      "exportedPath": "thesis/repo/08_practice/08.01_background/neural-re-presentation/media/neural-representation.gif",
+      "dependencies": []
+    },
+    "thesis/repo/08_practice/08.01_background/sentinel-self/media/pasted-image-20250821111813.png": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 728376,
+      "exportedPath": "thesis/repo/08_practice/08.01_background/sentinel-self/media/pasted-image-20250821111813.png",
+      "dependencies": []
+    },
+    "thesis/repo/08_practice/08.02_configure-able/media/pasted-image-20250821112311.png": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 699936,
+      "exportedPath": "thesis/repo/08_practice/08.02_configure-able/media/pasted-image-20250821112311.png",
+      "dependencies": []
+    },
+    "lib/media/servpubdiagram2024.png": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 474598,
+      "exportedPath": "lib/media/servpubdiagram2024.png",
+      "dependencies": []
+    },
+    "lib/media/howdyterminal.png": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 17923,
+      "exportedPath": "lib/media/howdyterminal.png",
+      "dependencies": []
+    },
+    "lib/media/sshdiagram.jpg": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 162512,
+      "exportedPath": "lib/media/sshdiagram.jpg",
+      "dependencies": []
+    },
+    "lib/media/usersdiagram.jpg": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 196868,
+      "exportedPath": "lib/media/usersdiagram.jpg",
+      "dependencies": []
+    },
+    "lib/media/nanoofhtml.png": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 421085,
+      "exportedPath": "lib/media/nanoofhtml.png",
+      "dependencies": []
+    },
+    "thesis/repo/08_practice/08.03_in-grid/serving-in-grid/media/serving-in-grid-workshop-day.jpeg": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 94004,
+      "exportedPath": "thesis/repo/08_practice/08.03_in-grid/serving-in-grid/media/serving-in-grid-workshop-day.jpeg",
+      "dependencies": []
+    },
+    "thesis/repo/08_practice/08.03_in-grid/in-docs/media/docs-infrastructure-diagram.jpeg": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 35403,
+      "exportedPath": "thesis/repo/08_practice/08.03_in-grid/in-docs/media/docs-infrastructure-diagram.jpeg",
+      "dependencies": []
+    },
+    "thesis/repo/08_practice/08.03_in-grid/in-docs/media/pasted-image-20250823163046.png": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 395892,
+      "exportedPath": "thesis/repo/08_practice/08.03_in-grid/in-docs/media/pasted-image-20250823163046.png",
+      "dependencies": []
+    },
+    "thesis/repo/08_practice/08.03_in-grid/serving-in-grid/media/serving-in-grid-workshop-day-2.jpg": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 277689,
+      "exportedPath": "thesis/repo/08_practice/08.03_in-grid/serving-in-grid/media/serving-in-grid-workshop-day-2.jpg",
+      "dependencies": []
+    },
+    "thesis/repo/08_practice/08.03_in-grid/serving-in-grid/media/serving_in-grid.png": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 46587,
+      "exportedPath": "thesis/repo/08_practice/08.03_in-grid/serving-in-grid/media/serving_in-grid.png",
+      "dependencies": []
+    },
+    "thesis/repo/08_practice/08.03_in-grid/serving-in-grid/media/servpubdiagram2024.png": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 474598,
+      "exportedPath": "thesis/repo/08_practice/08.03_in-grid/serving-in-grid/media/servpubdiagram2024.png",
+      "dependencies": []
+    },
+    "thesis/repo/08_practice/08.03_in-grid/serving-in-grid/media/sshdiagram.jpg": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 162512,
+      "exportedPath": "thesis/repo/08_practice/08.03_in-grid/serving-in-grid/media/sshdiagram.jpg",
+      "dependencies": []
+    },
+    "thesis/repo/08_practice/08.03_in-grid/serving-in-grid/media/usersdiagram.jpg": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 196868,
+      "exportedPath": "thesis/repo/08_practice/08.03_in-grid/serving-in-grid/media/usersdiagram.jpg",
+      "dependencies": []
+    },
+    "thesis/repo/08_practice/08.04_cozy-cloud/cozy-intentions/media/lets-get-cozy.png": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 1470864,
+      "exportedPath": "thesis/repo/08_practice/08.04_cozy-cloud/cozy-intentions/media/lets-get-cozy.png",
+      "dependencies": []
+    },
+    "lib/media/cloud5.png": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 1631527,
+      "exportedPath": "lib/media/cloud5.png",
+      "dependencies": []
+    },
+    "thesis/repo/08_practice/08.04_cozy-cloud/cozy-intentions/media/less-clouds-more-cozy.png": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 1849576,
+      "exportedPath": "thesis/repo/08_practice/08.04_cozy-cloud/cozy-intentions/media/less-clouds-more-cozy.png",
+      "dependencies": []
+    },
+    "thesis/repo/08_practice/08.04_cozy-cloud/cozy-intentions/media/infinite-cozy.png": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 1858362,
+      "exportedPath": "thesis/repo/08_practice/08.04_cozy-cloud/cozy-intentions/media/infinite-cozy.png",
+      "dependencies": []
+    },
+    "thesis/repo/08_practice/08.04_cozy-cloud/cozy-intentions/media/cozy-networks_bg.png": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 1371722,
+      "exportedPath": "thesis/repo/08_practice/08.04_cozy-cloud/cozy-intentions/media/cozy-networks_bg.png",
+      "dependencies": []
+    },
+    "thesis/repo/08_practice/08.04_cozy-cloud/cozy-intentions/media/a-cloud.png": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 251532,
+      "exportedPath": "thesis/repo/08_practice/08.04_cozy-cloud/cozy-intentions/media/a-cloud.png",
+      "dependencies": []
+    },
+    "thesis/repo/08_practice/08.04_cozy-cloud/cozy-ish/media/pasted-image-20250821171714.png": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 123620,
+      "exportedPath": "thesis/repo/08_practice/08.04_cozy-cloud/cozy-ish/media/pasted-image-20250821171714.png",
+      "dependencies": []
+    },
+    "thesis/repo/08_practice/08.04_cozy-cloud/cozy_night+day/media/cozy_day.png": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 144467,
+      "exportedPath": "thesis/repo/08_practice/08.04_cozy-cloud/cozy_night+day/media/cozy_day.png",
+      "dependencies": []
+    },
+    "thesis/repo/08_practice/08.04_cozy-cloud/cozy_night+day/media/cozy_night.png": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 146343,
+      "exportedPath": "thesis/repo/08_practice/08.04_cozy-cloud/cozy_night+day/media/cozy_night.png",
+      "dependencies": []
+    },
+    "thesis/repo/08_practice/08.04_cozy-cloud/serving-cozy/media/servering-cozy-pillows.jpeg": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 159932,
+      "exportedPath": "thesis/repo/08_practice/08.04_cozy-cloud/serving-cozy/media/servering-cozy-pillows.jpeg",
+      "dependencies": []
+    },
+    "thesis/repo/08_practice/08.04_cozy-cloud/en-crip-ing_time/media/en-crip-ed-poem.png": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 224036,
+      "exportedPath": "thesis/repo/08_practice/08.04_cozy-cloud/en-crip-ing_time/media/en-crip-ed-poem.png",
+      "dependencies": []
+    },
+    "thesis/repo/08_practice/08.04_cozy-cloud/cozy_night+day/media/cozy_easy_read.png": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 96831,
+      "exportedPath": "thesis/repo/08_practice/08.04_cozy-cloud/cozy_night+day/media/cozy_easy_read.png",
+      "dependencies": []
+    },
+    "thesis/repo/08_practice/08.04_cozy-cloud/en-crip-ing_time/media/mesh-festival-cover-img.png": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 402967,
+      "exportedPath": "thesis/repo/08_practice/08.04_cozy-cloud/en-crip-ing_time/media/mesh-festival-cover-img.png",
+      "dependencies": []
+    },
+    "thesis/repo/08_practice/08.04_cozy-cloud/en-crip-ing_time/media/infrastructural-intimacies.png": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 223584,
+      "exportedPath": "thesis/repo/08_practice/08.04_cozy-cloud/en-crip-ing_time/media/infrastructural-intimacies.png",
+      "dependencies": []
+    },
+    "thesis/repo/08_practice/08.04_cozy-cloud/serving-cozy/media/servering-cozy-screen.jpeg": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 383706,
+      "exportedPath": "thesis/repo/08_practice/08.04_cozy-cloud/serving-cozy/media/servering-cozy-screen.jpeg",
+      "dependencies": []
+    },
+    "thesis/repo/08_practice/08.04_cozy-cloud/serving-cozy/media/cozy-flow.png": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 152394,
+      "exportedPath": "thesis/repo/08_practice/08.04_cozy-cloud/serving-cozy/media/cozy-flow.png",
+      "dependencies": []
+    },
+    "thesis/repo/08_practice/08.04_cozy-cloud/serving-cozy/media/base-lazer-outline.svg": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 534470,
+      "exportedPath": "thesis/repo/08_practice/08.04_cozy-cloud/serving-cozy/media/base-lazer-outline.svg",
+      "dependencies": []
+    },
+    "thesis/repo/08_practice/08.04_cozy-cloud/serving-cozy/media/serving-cozy-in-touch.png": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 937942,
+      "exportedPath": "thesis/repo/08_practice/08.04_cozy-cloud/serving-cozy/media/serving-cozy-in-touch.png",
+      "dependencies": []
+    },
+    "lib/scripts/graph-wasm.wasm": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 23377,
+      "exportedPath": "lib/scripts/graph-wasm.wasm",
+      "dependencies": []
+    },
+    "lib/fonts/94f2f163d4b698242fef.otf": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 66800,
+      "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
+      "dependencies": []
+    },
+    "lib/fonts/72505e6a122c6acd5471.woff2": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 104232,
+      "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/2d5198822ab091ce4305.woff2": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 104332,
+      "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 98868,
+      "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cb10ffd7684cd9836a05.woff2": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 106876,
+      "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/293fd13dbca5a3e450ef.woff2": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 105924,
+      "exportedPath": "lib/fonts/293fd13dbca5a3e450ef.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/085cb93e613ba3d40d2b.woff2": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 112184,
+      "exportedPath": "lib/fonts/085cb93e613ba3d40d2b.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/b5f0f109bc88052d4000.woff2": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 105804,
+      "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cbe0ae49c52c920fd563.woff2": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 106108,
+      "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/535a6cf662596b3bd6a6.woff2": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 111708,
+      "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/70cc7ff27245e82ad414.ttf": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 192740,
+      "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/454577c22304619db035.ttf": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 161376,
+      "exportedPath": "lib/fonts/454577c22304619db035.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/52ac8f3034507f1d9e53.ttf": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 191568,
+      "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/05b618077343fbbd92b7.ttf": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 155288,
+      "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 7876,
+      "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+      "dependencies": []
+    },
+    "lib/media/6155340132a851f6089e.svg": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 315,
+      "exportedPath": "lib/media/6155340132a851f6089e.svg",
+      "dependencies": []
+    },
+    "lib/html/file-tree.html": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 130577,
+      "exportedPath": "lib/html/file-tree.html",
+      "dependencies": []
+    },
+    "lib/scripts/webpage.js": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 47290,
+      "exportedPath": "lib/scripts/webpage.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-view.js": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 15519,
+      "exportedPath": "lib/scripts/graph-view.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-wasm.js": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 14021,
+      "exportedPath": "lib/scripts/graph-wasm.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-render-worker.js": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 5179,
+      "exportedPath": "lib/scripts/graph-render-worker.js",
+      "dependencies": []
+    },
+    "lib/scripts/tinycolor.js": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 29832,
+      "exportedPath": "lib/scripts/tinycolor.js",
+      "dependencies": []
+    },
+    "lib/scripts/pixi.js": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 449509,
+      "exportedPath": "lib/scripts/pixi.js",
+      "dependencies": []
+    },
+    "lib/scripts/minisearch.js": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 29422,
+      "exportedPath": "lib/scripts/minisearch.js",
+      "dependencies": []
+    },
+    "lib/media/favicon.png": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 1105,
+      "exportedPath": "lib/media/favicon.png",
+      "dependencies": []
+    },
+    "lib/scripts/graph-data.js": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 22485,
+      "exportedPath": "lib/scripts/graph-data.js",
+      "dependencies": []
+    },
+    "lib/styles/obsidian.css": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 165744,
+      "exportedPath": "lib/styles/obsidian.css",
+      "dependencies": []
+    },
+    "lib/styles/global-variable-styles.css": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 279,
+      "exportedPath": "lib/styles/global-variable-styles.css",
+      "dependencies": []
+    },
+    "lib/styles/main-styles.css": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 23130,
+      "exportedPath": "lib/styles/main-styles.css",
+      "dependencies": []
+    },
+    "lib/styles/snippets.css": {
+      "modifiedTime": 1755973024282,
+      "sourceSize": 3250,
+      "exportedPath": "lib/styles/snippets.css",
+      "dependencies": []
+    }
+  }
+}
