@@ -112,7 +112,7 @@ So most people are probably used to working through a **graphical user interface
 ---
 ### Terminal
 
-![howdy.png](media/howdyTerminal.png)
+![howdy.png](Thesis%20📖/workshops/serv(er)ing%20in-grid/media/howdyTerminal.png)
 
 Terminal is a more classic way of working with a machine, and roughly speaking is the step between punch-card/magnetic tape style computing and a GUI. It is a very simple but powerful interface that lets you run basically any command on your system through a text interface. Compared to a GUI this space is more "risky" as you can do anything from anywhere, such as deleting the entire operating system (not advised). It also means that there are no limitations to your system administration so you have access to a granular level of working. 
 
@@ -608,7 +608,7 @@ This will open the file in the terminal.
 ---
 ### This should look something like this
 
-![](media/nanoOfHTML.png)
+![](Thesis%20📖/workshops/serv(er)ing%20in-grid/media/nanoOfHTML.png)
 
 > [!tip] 
 > Being terminal you have to navigate with the keyboard, and also copy and past by right clicking (not "CNTRL+C/P")

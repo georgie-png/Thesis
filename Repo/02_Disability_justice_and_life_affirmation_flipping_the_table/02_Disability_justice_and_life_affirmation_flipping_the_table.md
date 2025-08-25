@@ -10,6 +10,5 @@
 ![](02_entries/02.02.01_PoliticalRelational_Model.md)
 ![](02_entries/02.02.02_Crip_Time_+_Crip_Futures.md)
 ![](02_entries/02.02.03_Crip_intersectionality.md)
-![](02_entries/02.02.04_Cripping_Technoscience.md)
-![](02_entries/02.03.00_Conclusion.md)
-![](02_entries/pandoc_order.md)
+![[02_entries/02.02.04_Cripping_Technoscience]]
+![](./02_entries/02.03.00_Conclusion.md)
